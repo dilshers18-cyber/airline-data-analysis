@@ -1,0 +1,2 @@
+total_flights,delayed_flights,cancelled_flights,delay_minutes,delay_rate_pct,cancel_rate_pct,avg_minutes_per_delayed_flight
+143786417.00000000,27648474.00000000,2697082.00000000,1656888280.00000000,19.22884969,1.87575576,59.92693412

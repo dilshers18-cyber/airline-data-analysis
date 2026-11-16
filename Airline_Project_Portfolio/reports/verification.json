@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "method": "Independent Python csv/math aggregation; no production imports",
+  "engine_under_test": "pandas",
+  "tables_compared": [
+    "overall_kpis",
+    "carrier_performance",
+    "airport_performance",
+    "yearly_trend",
+    "monthly_seasonality",
+    "delay_causes"
+  ],
+  "cells_compared": 713,
+  "raw_rows": 398233,
+  "clean_rows": 397281,
+  "absolute_tolerance": 1e-07,
+  "spark_runtime_validation": "Not completed in this session: local socket access blocked (WinError 10013)."
+}

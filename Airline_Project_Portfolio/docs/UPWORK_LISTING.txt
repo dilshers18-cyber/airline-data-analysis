@@ -1,0 +1,29 @@
+TITLE
+Airline Delay Analysis | Python Data Cleaning and Reporting
+
+PROJECT TYPE
+Academic / personal portfolio example using a public-data extract.
+
+DESCRIPTION
+Analyzed 398,233 monthly airline-airport records to explore delay rates, seasonal
+patterns and reported delay causes. The workflow audits missing and invalid values,
+creates flight-weighted KPIs, compares airlines and airports within 2024, and exports
+six summary tables and five charts. A separate verification script checks every
+exported table against the raw data. Includes a tested pandas workflow and a PySpark
+implementation; Spark runtime verification remains pending. This is a portfolio
+example, not a paid client engagement or evidence of measured business savings.
+
+SKILLS
+Python; Data Cleaning; Data Analysis; Data Visualization; pandas
+
+ATTACHMENTS
+Use reports/portfolio_cover.png as the cover image.
+Use reports/01_airlines.png, reports/04_delay_causes.png and
+reports/05_monthly_pattern.png as supporting images.
+docs/Case_Study.html is a standalone report with embedded charts.
+
+AUTHORSHIP NOTE
+The original project was supplied by Dilsher Singh. This edition includes
+AI-assisted refactoring, validation and presentation work. If the original was a
+group assignment, credit collaborators and specify your personal contribution
+before publishing. Do not claim sole authorship or client outcomes without evidence.

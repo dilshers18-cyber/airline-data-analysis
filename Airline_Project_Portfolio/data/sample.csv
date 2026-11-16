@@ -1,0 +1,1201 @@
+year,month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct,weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted,arr_delay,carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+2024,1,MQ,Envoy Air,MHK,"Manhattan/Ft. Riley, KS: Manhattan Regional",93,22,4.52,3.42,4.56,0,9.5,2,1,1303,183,357,349,0,414
+2024,1,WN,Southwest Airlines,SJC,"San Jose, CA: Norman Y. Mineta San Jose International",2391,432,130.75,2.63,49.12,2.58,246.92,27,0,21241,5684,155,1718,115,13569
+2024,1,C5,CommuteAir LLC dba CommuteAir,BRO,"Brownsville, TX: Brownsville South Padre Island International",101,21,9.48,1.49,2.51,0,6.52,3,1,2773,412,224,119,0,673
+2024,1,AS,Alaska Airlines Network,JFK,"New York, NY: John F. Kennedy International",239,41,9.64,3.59,15.76,0,12,85,1,2973,783,498,535,0,1157
+2024,1,G7,GoJet Airlines LLC d/b/a United Express,BTV,"Burlington, VT: Burlington International",22,4,0.25,0,2.75,0,1,0,0,173,6,0,58,0,109
+2024,1,MQ,Envoy Air,LAW,"Lawton/Fort Sill, OK: Lawton-Fort Sill Regional",40,8,1.41,0.26,0.84,0,5.49,1,0,484,146,11,30,0,297
+2024,1,NK,Spirit Airlines,DTW,"Detroit, MI: Detroit Metro Wayne County",758,203,50.04,9.9,74.09,4.32,64.65,22,5,12385,3114,569,3859,145,4698
+2024,1,OO,SkyWest Airlines Inc.,AMA,"Amarillo, TX: Rick Husband Amarillo International",40,9,1,0,0.05,0,7.95,2,0,473,17,0,5,0,451
+2024,1,OO,SkyWest Airlines Inc.,PDX,"Portland, OR: Portland International",838,194,82.07,30.51,35.42,0,46,53,1,13098,4491,2696,1931,0,3980
+2024,1,OH,PSA Airlines Inc.,SRQ,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",7,1,0.14,0.8,0,0,0.06,0,0,218,30,174,0,0,14
+2024,1,AS,Alaska Airlines Network,OMA,"Omaha, NE: Eppley Airfield",24,7,3.64,0,3.36,0,0,4,0,154,87,0,67,0,0
+2024,1,WN,Southwest Airlines,BZN,"Bozeman, MT: Bozeman Yellowstone International",167,42,18.92,0,7.3,0,15.78,5,2,1653,760,0,275,0,618
+2024,1,9E,Endeavor Air Inc.,TUL,"Tulsa, OK: Tulsa International",31,10,3.34,1,2.53,0,3.14,0,0,627,120,31,88,0,388
+2024,1,UA,United Air Lines Network,DEN,"Denver, CO: Denver International",7901,1381,421.14,88.56,387.45,0,483.86,551,9,125016,34892,17098,16432,0,56594
+2024,1,UA,United Air Lines Network,BQN,"Aguadilla, PR: Rafael Hernandez",31,11,4.19,0,4.26,0,2.55,0,0,277,110,0,87,0,80
+2024,1,YV,Mesa Airlines Inc.,RAP,"Rapid City, SD: Rapid City Regional",23,8,1.38,0,1,0,5.62,1,0,649,60,0,20,0,569
+2024,1,G4,Allegiant Air,HGR,"Hagerstown, MD: Hagerstown Regional-Richard A. Henson Field",17,3,1.55,0,0.95,0,0.5,0,0,70,38,0,22,0,10
+2024,1,UA,United Air Lines Network,RDM,"Bend/Redmond, OR: Roberts Field",93,28,8.82,2.01,13.11,0,4.06,6,1,3122,416,1604,710,0,392
+2024,1,9E,Endeavor Air Inc.,MCI,"Kansas City, MO: Kansas City International",93,20,4.08,0.68,7.69,0,7.55,4,0,1316,196,92,517,0,511
+2024,1,WN,Southwest Airlines,BUR,"Burbank, CA: Bob Hope",1483,252,68.69,0.01,22.49,2.44,158.37,18,1,13061,3235,5,988,73,8760
+2024,1,G4,Allegiant Air,ORF,"Norfolk, VA: Norfolk International",11,3,2.19,0,0.81,0,0,0,0,194,154,0,40,0,0
+2024,1,AS,Alaska Airlines Network,SJC,"San Jose, CA: Norman Y. Mineta San Jose International",186,49,11.97,0,5.4,0,31.63,39,0,3809,595,0,167,0,3047
+2024,1,YX,Republic Airline,SRQ,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",5,2,0.03,0.42,1.19,0,0.37,0,0,283,3,79,132,0,69
+2024,1,UA,United Air Lines Network,PHL,"Philadelphia, PA: Philadelphia International",298,68,22.96,6.32,11.9,0,26.82,11,1,5800,1953,599,658,0,2590
+2024,1,G4,Allegiant Air,FAR,"Fargo, ND: Hector International",64,5,2.9,0,0.7,0,1.39,0,0,581,467,0,54,0,60
+2024,1,AS,Alaska Airlines Network,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",28,5,1.09,0,1.91,0,2,6,0,253,28,0,82,0,143
+2024,1,YX,Republic Airline,DSM,"Des Moines, IA: Des Moines International",76,19,4.09,1,10.01,0,3.9,6,0,924,179,32,441,0,272
+2024,1,G4,Allegiant Air,CAK,"Akron, OH: Akron-Canton Regional",60,10,1.93,2.96,2.77,0,2.34,1,0,757,162,175,102,0,318
+2024,1,YX,Republic Airline,ROA,"Roanoke, VA: Roanoke Blacksburg Regional",26,5,0.64,0,0.67,0,3.68,0,0,437,24,0,88,0,325
+2024,1,B6,JetBlue Airways,AUS,"Austin, TX: Austin - Bergstrom International",93,37,12.16,0.51,18.69,0.67,4.97,0,1,2544,1160,120,862,88,314
+2024,1,MQ,Envoy Air,DAY,"Dayton, OH: James M Cox/Dayton International",3,1,1,0,0,0,0,0,0,26,26,0,0,0,0
+2024,1,G7,GoJet Airlines LLC d/b/a United Express,SCE,"State College, PA: University Park",101,21,10.95,0.08,3.08,0,6.89,10,3,1649,785,11,202,0,651
+2024,1,B6,JetBlue Airways,MIA,"Miami, FL: Miami International",216,72,25.32,0.14,35.75,0.12,10.67,3,0,4499,1982,18,1449,3,1047
+2024,1,OO,SkyWest Airlines Inc.,CRW,"Charleston/Dunbar, WV: West Virginia International Yeager",131,45,24,9.84,4.65,0.71,5.8,9,0,6929,3624,2035,667,24,579
+2024,1,F9,Frontier Airlines,HOU,"Houston, TX: William P Hobby",37,10,4.32,0,1.04,0,4.64,2,0,734,213,0,33,0,488
+2024,1,B6,JetBlue Airways,LAS,"Las Vegas, NV: Harry Reid International",185,53,16.74,1,22.97,0,12.29,1,0,3465,1428,202,1047,0,788
+2024,1,OH,PSA Airlines Inc.,DAY,"Dayton, OH: James M Cox/Dayton International",310,68,20.89,8.53,13.51,0,25.06,10,0,6976,2048,1315,698,0,2915
+2024,1,G4,Allegiant Air,CKB,"Clarksburg/Fairmont, WV: North Central West Virginia",15,3,0.45,0,1.71,0,0.84,0,0,1260,9,0,1229,0,22
+2024,1,ZW,Air Wisconsin Airlines Corp,AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",1,,0,0,0,0,0,1,0,0,0,0,0,0,0
+2024,1,PT,Piedmont Airlines,CMH,"Columbus, OH: John Glenn Columbus International",7,1,0,0,1,0,0,0,0,31,0,0,31,0,0
+2024,1,AS,Alaska Airlines Network,SEA,"Seattle, WA: Seattle/Tacoma International",5602,1174,258.59,65.23,288.51,8.43,553.24,872,14,81257,20789,5930,12080,354,42104
+2024,1,OO,SkyWest Airlines Inc.,GCC,"Gillette, WY: Northeast Wyoming Regional",61,7,2.63,1,1.37,0,2,3,0,616,336,43,54,0,183
+2024,1,G4,Allegiant Air,RNO,"Reno, NV: Reno/Tahoe International",3,1,1,0,0,0,0,0,0,211,211,0,0,0,0
+2024,1,MQ,Envoy Air,SFO,"San Francisco, CA: San Francisco International",14,6,0.35,0,1.38,0,4.27,0,0,330,13,0,40,0,277
+2024,1,DL,Delta Air Lines Network,SDF,"Louisville, KY: Louisville Muhammad Ali International",172,26,8.1,3.99,5.3,0,8.61,0,1,1309,282,352,130,0,545
+2024,1,DL,Delta Air Lines Network,CAE,"Columbia, SC: Columbia Metropolitan",120,19,7.35,0.98,1.28,0,9.39,0,0,772,241,85,41,0,405
+2024,1,OO,SkyWest Airlines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",1014,209,61.44,17.58,56.92,0.53,72.52,72,5,27499,10242,3673,4128,17,9439
+2024,1,F9,Frontier Airlines,OMA,"Omaha, NE: Eppley Airfield",43,12,2.48,0,3.82,0,5.7,0,0,1044,283,0,106,0,655
+2024,1,PT,Piedmont Airlines,BTV,"Burlington, VT: Burlington International",2,1,0.09,0,0,0,0.91,0,0,108,10,0,0,0,98
+2024,1,OO,SkyWest Airlines Inc.,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",34,12,2.31,0,5.69,0,4,4,0,562,125,0,170,0,267
+2024,1,F9,Frontier Airlines,MCI,"Kansas City, MO: Kansas City International",32,9,6.74,0,2.26,0,0,0,0,409,344,0,65,0,0
+2024,1,OO,SkyWest Airlines Inc.,MOB,"Mobile, AL: Mobile Regional",48,13,5.4,6.88,0.73,0,0,0,0,1366,709,593,64,0,0
+2024,1,B6,JetBlue Airways,RSW,"Fort Myers, FL: Southwest Florida International",374,143,44.25,2.41,68.71,1.5,26.13,6,3,9848,3548,354,3021,88,2837
+2024,1,G4,Allegiant Air,ROC,"Rochester, NY: Frederick Douglass Grtr Rochester International",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,1,C5,CommuteAir LLC dba CommuteAir,LNK,"Lincoln, NE: Lincoln Airport",124,20,12.88,0.67,3.66,0,2.8,15,1,2560,2156,14,111,0,279
+2024,1,AA,American Airlines Network,MEM,"Memphis, TN: Memphis International",350,109,26.9,7.91,21.38,2.45,50.35,10,0,7553,1883,733,1072,137,3728
+2024,1,ZW,Air Wisconsin Airlines Corp,CAE,"Columbia, SC: Columbia Metropolitan",92,38,10.09,3.36,11.58,0,12.97,4,0,2581,573,238,586,0,1184
+2024,1,OO,SkyWest Airlines Inc.,INL,"International Falls, MN: Falls International Einarson Field",51,7,4.92,2,0.08,0,0,1,0,336,262,70,4,0,0
+2024,1,DL,Delta Air Lines Network,ATW,"Appleton, WI: Appleton International",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,1,B6,JetBlue Airways,SAT,"San Antonio, TX: San Antonio International",62,14,5.88,0.12,6.93,0,1.06,0,0,1065,551,23,404,0,87
+2024,1,QX,Horizon Air,MSO,"Missoula, MT: Missoula Montana",92,15,6.15,4.98,0.73,0,3.14,7,2,853,337,388,20,0,108
+2024,1,OO,SkyWest Airlines Inc.,SHR,"Sheridan, WY: Sheridan County",61,7,2.91,0,2.89,0,1.19,3,0,473,97,0,113,0,263
+2024,1,WN,Southwest Airlines,HOU,"Houston, TX: William P Hobby",4261,1027,275.45,17.38,305.2,4.98,423.99,76,19,60171,14071,2265,17987,213,25635
+2024,1,F9,Frontier Airlines,SAN,"San Diego, CA: San Diego International",220,44,11.62,1,13.28,0,18.1,0,0,2840,739,18,482,0,1601
+2024,1,MQ,Envoy Air,FSD,"Sioux Falls, SD: Joe Foss Field",98,36,5.41,7.05,11.29,0,12.25,8,0,1985,366,514,475,0,630
+2024,1,UA,United Air Lines Network,DRO,"Durango, CO: Durango La Plata County",54,14,5.38,0.61,1.51,0,6.5,0,0,1849,396,613,43,0,797
+2024,1,MQ,Envoy Air,IND,"Indianapolis, IN: Indianapolis International",118,29,5.24,3.42,8.62,0,11.72,9,0,1513,315,326,286,0,586
+2024,1,F9,Frontier Airlines,GRB,"Green Bay, WI: Green Bay Austin Straubel International",7,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2024,1,YX,Republic Airline,DTW,"Detroit, MI: Detroit Metro Wayne County",372,70,18.45,6.17,21.95,0,23.43,15,2,4645,925,516,1247,0,1957
+2024,1,OO,SkyWest Airlines Inc.,JAC,"Jackson, WY: Jackson Hole",107,20,11.88,0.4,4.02,0,3.69,1,1,1129,476,34,191,0,428
+2024,1,DL,Delta Air Lines Network,AVL,"Asheville, NC: Asheville Regional",150,22,15.06,1,1.93,0,4.01,1,0,2008,1418,69,330,0,191
+2024,1,9E,Endeavor Air Inc.,LAN,"Lansing, MI: Capital Region International",34,14,6.06,2.23,3.43,0,2.28,1,0,1263,732,279,81,0,171
+2024,1,AA,American Airlines Network,LEX,"Lexington, KY: Blue Grass",14,6,0.14,0.14,0.83,0,4.88,0,0,471,12,5,22,0,432
+2024,1,MQ,Envoy Air,BOS,"Boston, MA: Logan International",125,32,5.58,1.47,8.66,0,16.29,9,1,1617,204,102,258,0,1053
+2024,1,9E,Endeavor Air Inc.,TYS,"Knoxville, TN: McGhee Tyson",250,58,23.28,4.36,9.71,0,20.64,12,0,4764,2004,413,567,0,1780
+2024,1,9E,Endeavor Air Inc.,CRW,"Charleston/Dunbar, WV: West Virginia International Yeager",13,1,1,0,0,0,0,0,0,37,37,0,0,0,0
+2024,1,NK,Spirit Airlines,EWR,"Newark, NJ: Newark Liberty International",840,163,51.27,4.18,65.74,2.99,38.81,11,0,11878,3164,412,5178,73,3051
+2024,1,QX,Horizon Air,ANC,"Anchorage, AK: Ted Stevens Anchorage International",332,109,14.53,7.19,32.71,0.38,54.19,13,0,7853,718,407,1374,9,5345
+2024,1,F9,Frontier Airlines,MEM,"Memphis, TN: Memphis International",20,5,1.42,0,2.58,0,1,0,0,232,35,0,62,0,135
+2024,1,C5,CommuteAir LLC dba CommuteAir,MFE,"Mission/McAllen/Edinburg, TX: McAllen International",56,10,4.12,0,3.14,0,2.75,2,1,1168,478,0,138,0,552
+2024,1,YV,Mesa Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",11,3,1.27,0,0.73,0,1,0,0,112,54,0,22,0,36
+2024,1,AA,American Airlines Network,PSP,"Palm Springs, CA: Palm Springs International",175,55,13.08,5.12,9.23,0,27.57,3,0,4019,566,410,408,0,2635
+2024,1,OO,SkyWest Airlines Inc.,EGE,"Eagle, CO: Eagle County Regional",216,44,13.38,3.46,15.24,0,11.93,0,0,4272,1526,142,786,0,1818
+2024,1,YX,Republic Airline,TUL,"Tulsa, OK: Tulsa International",60,12,5.11,0.1,2.68,0,4.11,1,0,2083,1255,15,382,0,431
+2024,1,G4,Allegiant Air,MSO,"Missoula, MT: Missoula Montana",20,1,0,0,0,0,1,1,2,135,0,0,0,0,135
+2024,1,ZW,Air Wisconsin Airlines Corp,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",43,20,5.67,4.58,4.73,0,5.02,5,0,2109,248,884,268,0,709
+2024,1,NK,Spirit Airlines,BOI,"Boise, ID: Boise Air Terminal",53,8,2.17,0.72,2.97,0,2.14,0,0,348,113,31,130,0,74
+2024,1,WN,Southwest Airlines,CLE,"Cleveland, OH: Cleveland-Hopkins International",409,126,61.24,0.94,11.85,0.87,51.1,22,1,6009,2624,32,430,20,2903
+2024,1,WN,Southwest Airlines,KOA,"Kona, HI: Ellison Onizuka Kona International at Keahole",281,68,22.04,0,16.32,0,29.63,3,1,2549,972,0,461,0,1116
+2024,1,G7,GoJet Airlines LLC d/b/a United Express,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",22,2,0.15,0,1,0,0.85,0,0,71,6,0,32,0,33
+2024,1,F9,Frontier Airlines,BDL,"Hartford, CT: Bradley International",77,45,13,1,20.77,0,10.23,1,2,3898,2039,38,1016,0,805
+2024,1,UA,United Air Lines Network,MIA,"Miami, FL: Miami International",693,190,41.6,5.48,85.75,0,57.16,97,0,11493,2202,588,3531,0,5172
+2024,1,OH,PSA Airlines Inc.,MCI,"Kansas City, MO: Kansas City International",80,21,8.15,1.36,4.3,0,7.19,9,2,2314,968,183,245,0,918
+2024,1,YX,Republic Airline,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",490,69,10.24,3.84,29.57,0,25.35,19,2,4592,504,501,1504,0,2083
+2024,1,OH,PSA Airlines Inc.,CRW,"Charleston/Dunbar, WV: West Virginia International Yeager",117,32,11.61,4.62,4.79,0.16,10.82,10,0,2353,520,594,141,9,1089
+2024,1,AA,American Airlines Network,SBP,"San Luis Obispo, CA: San Luis County Regional",38,14,4.12,0.57,2.79,0,6.52,0,0,1610,261,19,105,0,1225
+2024,1,NK,Spirit Airlines,RIC,"Richmond, VA: Richmond International",96,23,3.6,0,9.78,0.56,9.06,1,0,1346,159,0,589,28,570
+2024,1,DL,Delta Air Lines Network,BNA,"Nashville, TN: Nashville International",602,111,55.55,4.98,28.41,0,22.06,28,1,7676,4298,804,1078,0,1496
+2024,1,AA,American Airlines Network,OGG,"Kahului, HI: Kahului Airport",131,23,9.48,1.69,8.25,0,3.58,0,1,1435,581,144,236,0,474
+2024,1,G7,GoJet Airlines LLC d/b/a United Express,MEM,"Memphis, TN: Memphis International",27,12,4.33,1.46,3.39,0,2.83,2,0,516,149,57,107,0,203
+2024,10,B6,JetBlue Airways,MVY,"Martha's Vineyard, MA: Martha's Vineyard Airport",33,5,3.48,0,0.14,0,1.38,0,0,520,287,0,3,0,230
+2024,10,G4,Allegiant Air,FNT,"Flint, MI: Bishop International",84,9,3.85,1,1.43,0,2.71,6,0,839,219,80,470,0,70
+2024,10,DL,Delta Air Lines Network,TPA,"Tampa, FL: Tampa International",1098,128,66.79,1,30.48,0,29.73,106,2,8072,4794,156,1334,0,1788
+2024,10,9E,Endeavor Air Inc.,FAR,"Fargo, ND: Hector International",33,2,1,0,0.78,0,0.22,0,0,131,48,0,65,0,18
+2024,10,PT,Piedmont Airlines,DAY,"Dayton, OH: James M Cox/Dayton International",24,1,0.82,0,0.18,0,0,0,0,66,54,0,12,0,0
+2024,10,9E,Endeavor Air Inc.,VPS,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,10,AA,American Airlines Network,CAE,"Columbia, SC: Columbia Metropolitan",62,19,5.66,0,1.51,0,11.83,0,0,1612,352,0,45,0,1215
+2024,10,F9,Frontier Airlines,HOU,"Houston, TX: William P Hobby",17,7,1.21,0,2.31,0,3.48,0,0,350,89,0,108,0,153
+2024,10,OH,PSA Airlines Inc.,CAE,"Columbia, SC: Columbia Metropolitan",230,44,11.03,0.89,13.16,0,18.93,0,0,1995,372,16,302,0,1305
+2024,10,DL,Delta Air Lines Network,SAT,"San Antonio, TX: San Antonio International",541,47,25.18,0.16,8.37,0,13.28,0,2,2511,1768,9,223,0,511
+2024,10,UA,United Air Lines Network,MFE,"Mission/McAllen/Edinburg, TX: McAllen International",62,8,2.63,0,2,0,3.37,0,0,443,123,0,178,0,142
+2024,10,OO,SkyWest Airlines Inc.,SCE,"State College, PA: University Park",59,11,6.25,0,0.75,0,4,0,0,495,196,0,21,0,278
+2024,10,UA,United Air Lines Network,RAP,"Rapid City, SD: Rapid City Regional",109,10,5,0,0.38,0,4.62,0,0,731,427,0,9,0,295
+2024,10,MQ,Envoy Air,TYR,"Tyler, TX: Tyler Pounds Regional",18,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,10,OO,SkyWest Airlines Inc.,YUM,"Yuma, AZ: Yuma MCAS/Yuma International",65,12,7.66,0,0.99,0,3.35,0,0,907,704,0,28,0,175
+2024,10,DL,Delta Air Lines Network,GRR,"Grand Rapids, MI: Gerald R. Ford International",233,18,10.79,0,1.5,0,5.71,0,0,705,423,0,42,0,240
+2024,10,YX,Republic Airline,ROC,"Rochester, NY: Frederick Douglass Grtr Rochester International",88,8,1.96,0,3.68,0,2.36,0,0,267,118,0,82,0,67
+2024,10,B6,JetBlue Airways,ORD,"Chicago, IL: Chicago O'Hare International",114,20,9.53,0,5.87,0,4.59,0,1,1213,652,0,284,0,277
+2024,10,MQ,Envoy Air,COS,"Colorado Springs, CO: City of Colorado Springs Municipal",52,6,2.31,0,2.93,0,0.75,0,0,219,77,0,90,0,52
+2024,10,G7,GoJet Airlines LLC d/b/a United Express,BUF,"Buffalo, NY: Buffalo Niagara International",71,7,1.5,0,1.72,0,3.79,0,0,369,98,0,49,0,222
+2024,10,WN,Southwest Airlines,SNA,"Santa Ana, CA: John Wayne Airport-Orange County",1181,170,46.59,1,25.4,0,97.02,3,0,6504,1502,44,1096,0,3862
+2024,10,MQ,Envoy Air,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",82,19,4.77,0.48,7.11,0,6.64,0,1,820,193,10,200,0,417
+2024,10,G4,Allegiant Air,RFD,"Rockford, IL: Chicago/Rockford International",71,17,10.66,1,4.48,0,0.86,6,0,1036,471,15,512,0,38
+2024,10,G7,GoJet Airlines LLC d/b/a United Express,GSP,"Greer, SC: Greenville-Spartanburg International",36,4,0.36,0,1,0,2.65,0,0,483,23,0,15,0,445
+2024,10,G7,GoJet Airlines LLC d/b/a United Express,ROC,"Rochester, NY: Frederick Douglass Grtr Rochester International",77,5,2.11,0,1,0,1.89,0,0,375,66,0,70,0,239
+2024,10,DL,Delta Air Lines Network,BIS,"Bismarck/Mandan, ND: Bismarck Municipal",61,5,2.96,0,1.04,0,1,0,0,109,71,0,18,0,20
+2024,10,9E,Endeavor Air Inc.,ABE,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",84,8,5.12,0.97,1.9,0,0,0,0,460,371,34,55,0,0
+2024,10,YV,Mesa Airlines Inc.,AUS,"Austin, TX: Austin - Bergstrom International",36,4,0.51,0,0,0,3.49,0,0,247,38,0,0,0,209
+2024,10,DL,Delta Air Lines Network,GSO,"Greensboro/High Point, NC: Piedmont Triad International",220,14,10.47,0,1.16,0,2.37,0,0,477,383,0,27,0,67
+2024,10,AA,American Airlines Network,RSW,"Fort Myers, FL: Southwest Florida International",380,67,28.31,0,14.75,0,23.95,29,0,3476,1596,0,500,0,1380
+2024,10,OO,SkyWest Airlines Inc.,GRB,"Green Bay, WI: Green Bay Austin Straubel International",294,38,29.94,1,3.06,0,4,0,0,2184,1771,36,146,0,231
+2024,10,OO,SkyWest Airlines Inc.,GRK,"Killeen, TX: Robert Gray AAF",26,5,1.98,0,0.12,0,2.9,0,0,311,82,0,11,0,218
+2024,10,MQ,Envoy Air,SDF,"Louisville, KY: Louisville Muhammad Ali International",189,16,9.25,0.24,1.9,0,4.61,0,0,568,353,8,38,0,169
+2024,10,MQ,Envoy Air,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",328,33,9.94,1,11.65,0,10.41,0,0,1892,697,17,333,0,845
+2024,10,AA,American Airlines Network,MIA,"Miami, FL: Miami International",4959,658,260.33,13.87,158.48,1.98,223.33,120,5,60916,25678,7289,5981,245,21723
+2024,10,QX,Horizon Air,PAE,"Everett, WA: Snohomish County",133,30,4.82,0,11.01,0,14.17,0,0,1772,359,0,391,0,1022
+2024,10,C5,CommuteAir LLC dba CommuteAir,LFT,"Lafayette, LA: Lafayette Regional Paul Fournet Field",82,7,2.6,0.34,1.56,0,2.51,0,0,442,132,47,48,0,215
+2024,10,MQ,Envoy Air,MSO,"Missoula, MT: Missoula Montana",6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,10,DL,Delta Air Lines Network,RIC,"Richmond, VA: Richmond International",229,24,17.58,0,4.03,0,2.39,0,0,680,527,0,80,0,73
+2024,10,AS,Alaska Airlines Network,PDX,"Portland, OR: Portland International",1547,202,47.26,4.78,54.17,1.39,94.4,10,0,10842,3415,459,1777,93,5098
+2024,10,DL,Delta Air Lines Network,MYR,"Myrtle Beach, SC: Myrtle Beach International",185,14,9.57,0,1.6,0,2.83,0,0,927,539,0,68,0,320
+2024,10,AA,American Airlines Network,MSO,"Missoula, MT: Missoula Montana",31,3,1.76,0,0.34,0,0.89,0,0,179,61,0,11,0,107
+2024,10,F9,Frontier Airlines,AUS,"Austin, TX: Austin - Bergstrom International",86,18,4.05,1,2.92,0,10.02,1,0,1092,313,103,75,0,601
+2024,10,QX,Horizon Air,SFO,"San Francisco, CA: San Francisco International",159,29,4.9,0,17.7,0,6.4,0,0,1351,173,0,825,0,353
+2024,10,AS,Alaska Airlines Network,CDV,"Cordova, AK: Merle K Mudhole Smith",62,9,2.3,0,2.24,0,4.46,0,1,395,165,0,81,0,149
+2024,10,B6,JetBlue Airways,BNA,"Nashville, TN: Nashville International",144,30,10.52,0.2,16.59,0,2.69,0,0,1236,446,6,558,0,226
+2024,10,B6,JetBlue Airways,BUR,"Burbank, CA: Bob Hope",26,3,1.77,0,0.71,0,0.52,0,0,125,74,0,32,0,19
+2024,10,YV,Mesa Airlines Inc.,BTR,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",47,3,0.53,0,0.1,0,2.37,0,0,99,16,0,2,0,81
+2024,10,G4,Allegiant Air,PIT,"Pittsburgh, PA: Pittsburgh International",96,14,6.68,2.66,1.59,0,3.06,10,1,1128,596,211,38,0,283
+2024,10,AA,American Airlines Network,GEG,"Spokane, WA: Spokane International",114,21,9.92,0,1.05,0,10.03,0,0,2325,833,0,26,0,1466
+2024,10,QX,Horizon Air,EUG,"Eugene, OR: Mahlon Sweet Field",81,7,2.44,0,1.41,0,3.15,0,0,436,252,0,66,0,118
+2024,10,G7,GoJet Airlines LLC d/b/a United Express,FSD,"Sioux Falls, SD: Joe Foss Field",35,4,2.4,0,1,0,0.6,0,0,133,104,0,15,0,14
+2024,10,AS,Alaska Airlines Network,SJC,"San Jose, CA: Norman Y. Mineta San Jose International",282,55,15.1,0,13.94,0,25.96,1,0,2186,580,0,369,0,1237
+2024,10,MQ,Envoy Air,GSO,"Greensboro/High Point, NC: Piedmont Triad International",109,13,1.93,0.03,4.61,0,6.43,1,0,559,97,2,113,0,347
+2024,10,YV,Mesa Airlines Inc.,SAV,"Savannah, GA: Savannah/Hilton Head International",155,14,8.17,1,0.03,0,4.8,0,1,1095,477,20,2,0,596
+2024,10,WN,Southwest Airlines,HDN,"Hayden, CO: Yampa Valley",21,1,1,0,0,0,0,0,0,15,15,0,0,0,0
+2024,10,DL,Delta Air Lines Network,ECP,"Panama City, FL: Northwest Florida Beaches International",204,8,5.92,0,0.54,0,1.54,0,0,226,157,0,12,0,57
+2024,10,DL,Delta Air Lines Network,ELP,"El Paso, TX: El Paso International",62,3,1.07,1,0.26,0,0.67,0,0,148,34,92,10,0,12
+2024,10,9E,Endeavor Air Inc.,PVD,"Providence, RI: Rhode Island Tf Green International",45,1,0,0,0,0,1,0,0,150,0,0,0,0,150
+2024,10,YX,Republic Airline,LNK,"Lincoln, NE: Lincoln Airport",1,1,1,0,0,0,0,0,0,150,150,0,0,0,0
+2024,10,G7,GoJet Airlines LLC d/b/a United Express,MEM,"Memphis, TN: Memphis International",53,6,1.48,0,1,0,3.52,0,0,272,65,0,15,0,192
+2024,10,9E,Endeavor Air Inc.,FAY,"Fayetteville, NC: Fayetteville Regional/Grannis Field",40,2,1,0,0,0,1,0,0,69,19,0,0,0,50
+2024,10,OO,SkyWest Airlines Inc.,SYR,"Syracuse, NY: Syracuse Hancock International",136,16,13.33,1,1.67,0,0,0,0,791,669,52,70,0,0
+2024,10,ZW,Air Wisconsin Airlines Corp,FAR,"Fargo, ND: Hector International",27,3,1.95,0,0.16,0,0.89,0,0,350,286,0,13,0,51
+2024,10,F9,Frontier Airlines,CHS,"Charleston, SC: Charleston AFB/International",8,1,0,0,0,0,1,0,0,122,0,0,0,0,122
+2024,10,OO,SkyWest Airlines Inc.,COS,"Colorado Springs, CO: City of Colorado Springs Municipal",483,71,41.12,6.66,8.49,0,14.73,1,4,4175,2241,578,317,0,1039
+2024,10,WN,Southwest Airlines,LGA,"New York, NY: LaGuardia",986,129,45.13,0,39.77,1.3,42.8,0,0,5619,1615,0,1582,23,2399
+2024,10,QX,Horizon Air,BET,"Bethel, AK: Bethel Airport",14,2,0,0.82,1.18,0,0,0,0,146,0,105,41,0,0
+2024,10,F9,Frontier Airlines,IND,"Indianapolis, IN: Indianapolis International",71,18,10.14,0,1.23,0,6.62,3,0,700,434,0,27,0,239
+2024,10,OO,SkyWest Airlines Inc.,BDL,"Hartford, CT: Bradley International",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,10,MQ,Envoy Air,RDM,"Bend/Redmond, OR: Roberts Field",59,3,2.27,0,0.58,0,0.15,0,0,179,162,0,11,0,6
+2024,10,UA,United Air Lines Network,TYS,"Knoxville, TN: McGhee Tyson",62,17,7.31,0,4.7,0,4.99,0,0,820,344,0,136,0,340
+2024,10,UA,United Air Lines Network,SBP,"San Luis Obispo, CA: San Luis County Regional",29,1,1,0,0,0,0,0,0,45,45,0,0,0,0
+2024,10,PT,Piedmont Airlines,EWN,"New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional",189,15,5.16,0.96,5.47,0,3.42,0,0,639,325,24,135,0,155
+2024,10,UA,United Air Lines Network,KOA,"Kona, HI: Ellison Onizuka Kona International at Keahole",124,14,7.89,0,2.66,0,3.45,0,0,955,522,0,51,0,382
+2024,10,G4,Allegiant Air,PBG,"Plattsburgh, NY: Plattsburgh International",43,3,1.38,0.97,0.66,0,0,6,1,138,30,91,17,0,0
+2024,10,F9,Frontier Airlines,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",9,2,1.16,0,0,0,0.84,0,0,153,51,0,0,0,102
+2024,10,MQ,Envoy Air,JAN,"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",80,6,2.64,0,1.61,0,1.75,0,0,181,115,0,32,0,34
+2024,10,DL,Delta Air Lines Network,TUL,"Tulsa, OK: Tulsa International",140,11,9.97,0,0.53,0,0.5,0,0,501,480,0,11,0,10
+2024,10,OO,SkyWest Airlines Inc.,SUX,"Sioux City, IA: Sioux Gateway Brig Gen Bud Day Field",62,14,10.39,0,0.66,0,2.95,0,0,551,427,0,20,0,104
+2024,10,NK,Spirit Airlines,BNA,"Nashville, TN: Nashville International",315,50,18.05,0,18.85,0,13.1,4,1,3462,1359,0,1064,0,1039
+2024,10,DL,Delta Air Lines Network,LAX,"Los Angeles, CA: Los Angeles International",3176,324,138.98,0.44,79.18,0,105.4,14,1,21418,12073,19,2445,0,6881
+2024,10,WN,Southwest Airlines,BUF,"Buffalo, NY: Buffalo Niagara International",445,87,36.76,0,13.4,0,36.83,11,0,3785,1680,0,400,0,1705
+2024,10,OO,SkyWest Airlines Inc.,VCT,"Victoria, TX: Victoria Regional",53,11,6.42,1,0.58,0,3,0,0,2214,980,782,52,0,400
+2024,10,YV,Mesa Airlines Inc.,ELP,"El Paso, TX: El Paso International",146,12,6.57,0,3.84,0,1.59,0,1,621,322,0,193,0,106
+2024,10,DL,Delta Air Lines Network,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",473,52,32.93,0,12.49,0,6.58,0,0,1946,1271,0,329,0,346
+2024,10,UA,United Air Lines Network,PSP,"Palm Springs, CA: Palm Springs International",173,16,7.72,0,1.97,0,6.31,0,0,1129,476,0,84,0,569
+2024,10,OH,PSA Airlines Inc.,CHO,"Charlottesville, VA: Charlottesville Albemarle",50,5,2.69,0,0,0,2.31,0,0,374,231,0,0,0,143
+2024,10,AS,Alaska Airlines Network,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",31,7,2.28,0,2.65,0.81,1.26,0,0,165,48,0,72,17,28
+2024,10,PT,Piedmont Airlines,ROA,"Roanoke, VA: Roanoke Blacksburg Regional",275,42,7.67,0,23.4,0,10.93,0,1,1641,446,0,704,0,491
+2024,10,AS,Alaska Airlines Network,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",31,5,1.9,0,2.1,0,1,0,0,171,101,0,40,0,30
+2024,10,PT,Piedmont Airlines,PHL,"Philadelphia, PA: Philadelphia International",2107,188,52.68,1.64,55.95,0.08,77.64,0,3,17509,8126,184,1972,4,7223
+2024,10,MQ,Envoy Air,MSN,"Madison, WI: Dane County Regional-Truax Field",58,6,1,0,1,0,4,0,0,211,25,0,22,0,164
+2024,10,OH,PSA Airlines Inc.,MHT,"Manchester, NH: Manchester Boston Regional",289,57,19.43,0,19.61,0,17.96,0,1,3601,1447,0,510,0,1644
+2024,10,MQ,Envoy Air,PIA,"Peoria, IL: General Downing - Peoria International",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,10,MQ,Envoy Air,CHS,"Charleston, SC: Charleston AFB/International",71,10,5.74,0,0.72,0,3.54,0,0,454,256,0,17,0,181
+2024,10,ZW,Air Wisconsin Airlines Corp,MEM,"Memphis, TN: Memphis International",38,5,2.81,0,2.19,0,0,0,0,289,245,0,44,0,0
+2024,10,AS,Alaska Airlines Network,HNL,"Honolulu, HI: Daniel K Inouye International",373,80,21.84,0.89,41.54,0,15.73,0,0,3956,1578,77,1501,0,800
+2024,10,C5,CommuteAir LLC dba CommuteAir,MFE,"Mission/McAllen/Edinburg, TX: McAllen International",93,6,2.5,0,1.83,0,1.66,0,0,246,94,0,36,0,116
+2024,10,DL,Delta Air Lines Network,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",1003,109,58.79,0,24.99,0,25.22,12,0,5894,3350,0,719,0,1825
+2024,11,OH,PSA Airlines Inc.,SRQ,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",60,3,0.81,0,0.11,0,2.09,0,0,85,25,0,4,0,56
+2024,11,QX,Horizon Air,MCI,"Kansas City, MO: Kansas City International",26,1,1,0,0,0,0,0,0,113,113,0,0,0,0
+2024,11,OO,SkyWest Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",2084,251,153.92,31.21,35.18,1,29.69,5,1,13558,7297,2456,2332,63,1410
+2024,11,HA,Hawaiian Airlines Network,HNL,"Honolulu, HI: Daniel K Inouye International",2559,264,135.43,2.97,8.67,1.56,115.37,13,0,13008,5876,1090,165,34,5843
+2024,11,AS,Alaska Airlines Network,MSO,"Missoula, MT: Missoula Montana",29,6,2,0,2.5,0,1.5,0,0,121,43,0,49,0,29
+2024,11,MQ,Envoy Air,DAY,"Dayton, OH: James M Cox/Dayton International",25,1,0.18,0,0.82,0,0,0,0,33,6,0,27,0,0
+2024,11,MQ,Envoy Air,GRR,"Grand Rapids, MI: Gerald R. Ford International",74,6,1.03,1.36,1.3,0,2.32,0,0,475,41,199,86,0,149
+2024,11,PT,Piedmont Airlines,ALO,"Waterloo, IA: Waterloo Regional",7,1,0,0.9,0.1,0,0,0,0,90,0,81,9,0,0
+2024,11,YX,Republic Airline,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",519,37,2.89,1.29,9.87,0,22.96,0,0,2186,184,142,417,0,1443
+2024,11,OO,SkyWest Airlines Inc.,RIC,"Richmond, VA: Richmond International",86,18,13.06,2.71,2.22,0,0,0,0,1259,995,103,161,0,0
+2024,11,DL,Delta Air Lines Network,BOI,"Boise, ID: Boise Air Terminal",210,25,10.46,0,10.13,0,4.41,0,0,1000,656,0,233,0,111
+2024,11,AA,American Airlines Network,SYR,"Syracuse, NY: Syracuse Hancock International",128,35,15.57,0,5.46,0,13.97,0,0,1642,747,0,153,0,742
+2024,11,DL,Delta Air Lines Network,DSM,"Des Moines, IA: Des Moines International",105,8,5.79,0,0.35,0,1.86,0,0,325,280,0,7,0,38
+2024,11,YV,Mesa Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",65,9,2,1,5,0,1,0,0,596,68,289,189,0,50
+2024,11,AS,Alaska Airlines Network,FAI,"Fairbanks, AK: Fairbanks International",181,39,10.15,0,17.14,0,11.71,1,0,1413,528,0,398,0,487
+2024,11,OO,SkyWest Airlines Inc.,JST,"Johnstown, PA: John Murtha Johnstown-Cambria County",59,15,9.98,1.16,1.85,0,2,1,1,1774,1397,181,81,0,115
+2024,11,G4,Allegiant Air,MSP,"Minneapolis, MN: Minneapolis-St Paul International",14,2,1.26,0,0.74,0,0,0,0,157,115,0,42,0,0
+2024,11,OH,PSA Airlines Inc.,SYR,"Syracuse, NY: Syracuse Hancock International",8,1,0.14,0,0,0,0.86,0,0,63,9,0,0,0,54
+2024,11,WN,Southwest Airlines,LAS,"Las Vegas, NV: Harry Reid International",7031,910,231.5,10.65,226.65,4.46,436.74,17,7,44620,12161,786,9649,158,21866
+2024,11,UA,United Air Lines Network,MSN,"Madison, WI: Dane County Regional-Truax Field",145,40,12.92,0,13.42,0,13.66,0,0,2180,677,0,730,0,773
+2024,11,F9,Frontier Airlines,EWR,"Newark, NJ: Newark Liberty International",83,25,2.3,0,12.78,0,9.91,1,1,2037,142,0,1233,0,662
+2024,11,WN,Southwest Airlines,IND,"Indianapolis, IN: Indianapolis International",929,112,33.37,1.28,26.55,0,50.81,6,0,5122,1766,57,899,0,2400
+2024,11,UA,United Air Lines Network,EUG,"Eugene, OR: Mahlon Sweet Field",119,24,7.38,0.82,5.28,0,10.52,0,0,1232,354,53,250,0,575
+2024,11,UA,United Air Lines Network,PHL,"Philadelphia, PA: Philadelphia International",340,59,17.15,1.2,20.34,0,20.31,0,0,3571,1292,65,769,0,1445
+2024,11,UA,United Air Lines Network,SBP,"San Luis Obispo, CA: San Luis County Regional",30,6,1.44,0,3.25,0,1.31,0,2,330,98,0,151,0,81
+2024,11,OO,SkyWest Airlines Inc.,FLG,"Flagstaff, AZ: Flagstaff Pulliam",204,44,18.62,6.74,3.18,0,15.46,0,0,4217,1560,1417,185,0,1055
+2024,11,G7,GoJet Airlines LLC d/b/a United Express,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",99,35,9.83,0,7.23,0,17.93,0,1,3120,573,0,507,0,2040
+2024,11,F9,Frontier Airlines,ISP,"Islip, NY: Long Island MacArthur",66,9,4.62,0,0.96,0,3.42,0,0,661,423,0,53,0,185
+2024,11,OO,SkyWest Airlines Inc.,LAN,"Lansing, MI: Capital Region International",84,22,18.51,2.48,1.02,0,0,0,0,2267,1600,598,69,0,0
+2024,11,MQ,Envoy Air,TYS,"Knoxville, TN: McGhee Tyson",68,10,3.61,0.12,4.55,0,1.72,0,0,444,211,2,198,0,33
+2024,11,AA,American Airlines Network,BFL,"Bakersfield, CA: Meadows Field",99,18,6.18,0.61,5.04,0,6.17,0,0,923,376,19,144,0,384
+2024,11,AA,American Airlines Network,BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",96,22,5.83,0,4.23,0,11.94,0,0,1347,356,0,141,0,850
+2024,11,YV,Mesa Airlines Inc.,IAD,"Washington, DC: Washington Dulles International",824,92,31.47,0,34.7,0,25.83,0,0,5849,2785,0,993,0,2071
+2024,11,WN,Southwest Airlines,SAN,"San Diego, CA: San Diego International",2770,540,124.84,7.52,192.54,0.93,214.17,11,4,25459,5111,598,9018,90,10642
+2024,11,MQ,Envoy Air,PVD,"Providence, RI: Rhode Island Tf Green International",33,5,1,0.19,3.81,0,0,0,0,211,18,22,171,0,0
+2024,11,B6,JetBlue Airways,RIC,"Richmond, VA: Richmond International",150,23,10.8,0,3.67,0,8.53,0,0,1514,671,0,91,0,752
+2024,11,OO,SkyWest Airlines Inc.,CMH,"Columbus, OH: John Glenn Columbus International",135,28,23.42,3.08,1.5,0,0,0,1,2078,1723,249,106,0,0
+2024,11,WN,Southwest Airlines,VPS,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",115,12,3.09,0,3,0,5.91,0,0,711,117,0,191,0,403
+2024,11,OO,SkyWest Airlines Inc.,PWM,"Portland, ME: Portland International Jetport",104,22,13.04,3.31,4.3,0,1.34,0,0,1215,714,229,246,0,26
+2024,11,OH,PSA Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",4827,654,144.92,7.57,267.73,2.81,230.98,0,3,37617,13677,369,7042,89,16440
+2024,11,OO,SkyWest Airlines Inc.,OMA,"Omaha, NE: Eppley Airfield",403,65,40.1,6.32,11.1,0,7.49,3,0,3714,2567,347,474,0,326
+2024,11,MQ,Envoy Air,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",69,5,1.53,0.19,2.81,0,0.47,0,0,172,77,9,78,0,8
+2024,11,OO,SkyWest Airlines Inc.,SLN,"Salina, KS: Salina Regional",59,11,5.2,0.85,3.13,0,1.82,1,0,546,153,175,157,0,61
+2024,11,B6,JetBlue Airways,SYR,"Syracuse, NY: Syracuse Hancock International",138,27,16.57,0,3.85,0.98,5.6,0,0,1170,754,0,79,54,283
+2024,11,NK,Spirit Airlines,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",29,4,2.16,0,1.03,0,0.81,1,0,644,551,0,67,0,26
+2024,11,OH,PSA Airlines Inc.,MGM,"Montgomery, AL: Montgomery Regional",50,5,1.37,0.36,2.41,0,0.85,1,0,507,220,8,68,0,211
+2024,11,OH,PSA Airlines Inc.,MLI,"Moline, IL: Quad Cities International",57,9,0.72,0,2.88,0,5.4,0,0,372,17,0,72,0,283
+2024,11,F9,Frontier Airlines,LGA,"New York, NY: LaGuardia",240,62,14.63,0.21,30.5,0,16.66,1,0,3208,687,6,1594,0,921
+2024,11,UA,United Air Lines Network,DCA,"Washington, DC: Ronald Reagan Washington National",499,76,29.42,2.8,22.27,0,21.5,0,1,4175,1451,168,1042,0,1514
+2024,11,MQ,Envoy Air,MEM,"Memphis, TN: Memphis International",93,14,4.37,0.67,5.75,0,3.21,1,1,624,192,84,156,0,192
+2024,11,B6,JetBlue Airways,JAX,"Jacksonville, FL: Jacksonville International",163,16,11.71,0,1.31,0,2.98,0,0,1156,844,0,81,0,231
+2024,11,UA,United Air Lines Network,ORD,"Chicago, IL: Chicago O'Hare International",7178,1163,306.27,7.63,544.77,0,304.32,12,2,65393,20554,590,18251,0,25998
+2024,11,OH,PSA Airlines Inc.,HPN,"White Plains, NY: Westchester County",202,40,14.62,0,12.43,0.87,12.08,1,0,2084,813,0,378,20,873
+2024,11,WN,Southwest Airlines,ORD,"Chicago, IL: Chicago O'Hare International",404,50,12.31,1.85,16.82,0,19.02,1,0,2184,447,173,647,0,917
+2024,11,G4,Allegiant Air,ATW,"Appleton, WI: Appleton International",95,11,3.69,1.79,0.46,0,5.06,0,0,663,127,172,34,0,330
+2024,11,DL,Delta Air Lines Network,PDX,"Portland, OR: Portland International",569,70,29.92,2.32,28.5,0,9.26,0,0,2886,1584,78,744,0,480
+2024,11,OO,SkyWest Airlines Inc.,HSV,"Huntsville, AL: Huntsville International-Carl T Jones Field",192,50,34.26,2.35,5.45,0,7.94,2,0,2940,1696,314,491,0,439
+2024,11,OO,SkyWest Airlines Inc.,HYS,"Hays, KS: Hays Regional",52,11,5,1.9,0.1,0,4,2,1,615,206,146,9,0,254
+2024,11,MQ,Envoy Air,BOS,"Boston, MA: Logan International",186,28,4.6,0.98,15.64,0,6.79,0,0,1751,314,59,766,0,612
+2024,11,G4,Allegiant Air,IAG,"Niagara Falls, NY: Niagara Falls International",23,2,2,0,0,0,0,0,0,67,67,0,0,0,0
+2024,11,UA,United Air Lines Network,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",536,93,29.74,0.6,29.15,0,33.51,0,0,5432,1731,47,1231,0,2423
+2024,11,HA,Hawaiian Airlines Network,ITO,"Hilo, HI: Hilo International",391,38,23.96,0.2,0.57,0,13.28,1,0,1226,742,11,13,0,460
+2024,11,AS,Alaska Airlines Network,CDV,"Cordova, AK: Merle K Mudhole Smith",58,5,1,0,1,0,3,0,2,232,58,0,20,0,154
+2024,11,G4,Allegiant Air,SFB,"Sanford, FL: Orlando Sanford International",695,152,38.02,5.34,28.91,1,78.73,0,0,10277,2910,1308,1091,17,4951
+2024,11,OO,SkyWest Airlines Inc.,SUN,"Sun Valley/Hailey/Ketchum, ID: Friedman Memorial",89,5,2.38,1,1.62,0,0,1,0,228,60,18,150,0,0
+2024,11,9E,Endeavor Air Inc.,MLI,"Moline, IL: Quad Cities International",58,10,5.22,0,2.05,0,2.73,0,0,449,328,0,50,0,71
+2024,11,DL,Delta Air Lines Network,SAN,"San Diego, CA: San Diego International",790,129,49.46,0,68.28,0,11.26,0,0,5205,2872,0,2034,0,299
+2024,11,B6,JetBlue Airways,DEN,"Denver, CO: Denver International",98,18,11.19,0,4.72,0.26,1.84,0,0,1017,703,0,154,9,151
+2024,11,PT,Piedmont Airlines,AVL,"Asheville, NC: Asheville Regional",91,4,1.03,0,0.59,0,2.37,1,0,238,44,0,50,0,144
+2024,11,9E,Endeavor Air Inc.,DAY,"Dayton, OH: James M Cox/Dayton International",26,3,1.5,0,0,1,0.5,0,0,84,51,0,0,20,13
+2024,11,YV,Mesa Airlines Inc.,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",152,12,7.9,1,1.08,0,2.02,0,0,637,342,76,54,0,165
+2024,11,DL,Delta Air Lines Network,IND,"Indianapolis, IN: Indianapolis International",397,40,20.61,1.27,11.13,0,6.98,0,0,2671,1965,139,308,0,259
+2024,11,DL,Delta Air Lines Network,FSD,"Sioux Falls, SD: Joe Foss Field",60,7,2.89,1,2.38,0,0.73,0,0,1525,111,682,681,0,51
+2024,11,AS,Alaska Airlines Network,OKC,"Oklahoma City, OK: Will Rogers World",27,2,1,0,1,0,0,1,0,105,87,0,18,0,0
+2024,11,DL,Delta Air Lines Network,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",18551,1827,613.61,31.97,543.4,2.64,635.39,3,9,113693,58162,4114,17039,132,34246
+2024,11,UA,United Air Lines Network,CHS,"Charleston, SC: Charleston AFB/International",175,36,14.46,0.03,10.6,0,10.91,0,0,2853,1062,5,729,0,1057
+2024,11,PT,Piedmont Airlines,CAK,"Akron, OH: Akron-Canton Regional",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,11,WN,Southwest Airlines,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",776,104,37.4,0.18,15.31,0,51.1,0,0,4340,1227,13,529,0,2571
+2024,11,OO,SkyWest Airlines Inc.,SGF,"Springfield, MO: Springfield-Branson National",248,58,36.83,1.96,8.57,0,10.64,6,2,5718,4357,169,387,0,805
+2024,11,AS,Alaska Airlines Network,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",50,4,1.6,0,0.96,0,1.44,0,0,110,40,0,30,0,40
+2024,11,YV,Mesa Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",38,1,1,0,0,0,0,0,0,15,15,0,0,0,0
+2024,11,OO,SkyWest Airlines Inc.,MCW,"Mason City, IA: Mason City Municipal",52,12,7.58,0,1.08,0,3.33,1,3,774,494,0,81,0,199
+2024,11,DL,Delta Air Lines Network,LIH,"Lihue, HI: Lihue Airport",60,3,1.44,0,0,0,1.56,0,0,105,69,0,0,0,36
+2024,11,AS,Alaska Airlines Network,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",197,63,8.76,0.89,44.64,0,8.71,3,1,2595,346,127,1849,0,273
+2024,11,F9,Frontier Airlines,OMA,"Omaha, NE: Eppley Airfield",19,3,0.28,0,1.37,0,1.35,1,0,167,23,0,44,0,100
+2024,11,OO,SkyWest Airlines Inc.,GEG,"Spokane, WA: Spokane International",517,60,31.94,9.31,5.97,0,12.78,4,0,2613,883,816,238,0,676
+2024,11,DL,Delta Air Lines Network,DCA,"Washington, DC: Ronald Reagan Washington National",754,97,46.06,1.48,34.9,0,14.56,0,3,3852,2254,42,1095,0,461
+2024,11,YX,Republic Airline,ROC,"Rochester, NY: Frederick Douglass Grtr Rochester International",29,3,1.68,0,0.32,0,1,0,0,324,267,0,25,0,32
+2024,11,OH,PSA Airlines Inc.,DSM,"Des Moines, IA: Des Moines International",54,8,1.33,0,1.05,0,5.62,0,0,379,51,0,49,0,279
+2024,11,AS,Alaska Airlines Network,TPA,"Tampa, FL: Tampa International",79,14,4.48,0,7.52,0,2,0,0,513,222,0,177,0,114
+2024,11,NK,Spirit Airlines,PIT,"Pittsburgh, PA: Pittsburgh International",181,35,7.64,0,21.3,0,6.06,2,0,2190,392,0,1294,0,504
+2024,11,AS,Alaska Airlines Network,SMF,"Sacramento, CA: Sacramento International",71,14,5.44,0.47,2.75,0,5.34,1,0,459,184,9,80,0,186
+2024,11,WN,Southwest Airlines,TUS,"Tucson, AZ: Tucson International",391,56,19.65,0.39,18.4,0,17.56,4,0,2291,709,43,631,0,908
+2024,11,ZW,Air Wisconsin Airlines Corp,ILM,"Wilmington, NC: Wilmington International",13,2,1.8,0,0,0,0.2,0,0,265,256,0,0,0,9
+2024,11,YV,Mesa Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",22,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,11,WN,Southwest Airlines,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",145,22,9.4,0.27,3.34,0,8.98,0,0,987,425,21,144,0,397
+2024,11,G4,Allegiant Air,TUL,"Tulsa, OK: Tulsa International",27,1,0,0,0,0,1,0,0,19,0,0,0,0,19
+2024,11,NK,Spirit Airlines,SJU,"San Juan, PR: Luis Munoz Marin International",283,45,21.16,0,19.61,0,4.23,2,0,2101,868,0,948,0,285
+2024,11,OO,SkyWest Airlines Inc.,CPR,"Casper, WY: Casper/Natrona County International",206,39,20.32,2.49,6.94,0,9.25,6,0,3441,1660,332,412,0,1037
+2024,11,OO,SkyWest Airlines Inc.,PVU,"Provo, UT: Provo Municipal",114,41,24.42,1.43,5.52,0,9.63,2,0,2466,1172,163,537,0,594
+2024,12,AA,American Airlines Network,IAH,"Houston, TX: George Bush Intercontinental/Houston",551,161,51.56,3.89,42.37,0.16,63.01,6,1,10399,2146,1670,2003,17,4563
+2024,12,G4,Allegiant Air,MSP,"Minneapolis, MN: Minneapolis-St Paul International",17,4,0.24,0.95,1,0,1.81,0,0,1176,8,992,72,0,104
+2024,12,YX,Republic Airline,SAT,"San Antonio, TX: San Antonio International",11,1,0.27,0,0,0,0.73,0,0,88,24,0,0,0,64
+2024,12,9E,Endeavor Air Inc.,CHO,"Charlottesville, VA: Charlottesville Albemarle",171,42,10.15,1.5,12.41,0,17.94,0,1,2035,458,141,404,0,1032
+2024,12,OO,SkyWest Airlines Inc.,FOD,"Fort Dodge, IA: Fort Dodge Regional",53,11,3.94,1,0.18,0,5.89,1,0,909,248,150,15,0,496
+2024,12,OO,SkyWest Airlines Inc.,SYR,"Syracuse, NY: Syracuse Hancock International",142,42,26.67,8.28,7.05,0,0,0,0,3534,2467,730,337,0,0
+2024,12,C5,CommuteAir LLC dba CommuteAir,SYR,"Syracuse, NY: Syracuse Hancock International",41,13,2.75,0.1,4.71,0,5.43,0,0,857,106,9,148,0,594
+2024,12,OO,SkyWest Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",18,5,4.02,0,0.98,0,0,0,0,243,201,0,42,0,0
+2024,12,G4,Allegiant Air,ELM,"Elmira/Corning, NY: Elmira/Corning Regional",36,6,4.1,0,1.64,0,0.27,0,0,263,217,0,39,0,7
+2024,12,OO,SkyWest Airlines Inc.,YUM,"Yuma, AZ: Yuma MCAS/Yuma International",140,32,19.8,3,4.17,0,5.03,1,0,3029,1517,1054,142,0,316
+2024,12,OH,PSA Airlines Inc.,MOB,"Mobile, AL: Mobile Regional",26,12,2.59,1.56,3.09,0,4.76,2,1,2491,126,1041,99,0,1225
+2024,12,F9,Frontier Airlines,PNS,"Pensacola, FL: Pensacola International",25,5,0.96,0,1.68,0,2.36,0,0,236,97,0,62,0,77
+2024,12,UA,United Air Lines Network,HNL,"Honolulu, HI: Daniel K Inouye International",453,87,49.96,0,16.29,0,20.74,2,0,5913,2079,0,709,0,3125
+2024,12,OO,SkyWest Airlines Inc.,PIB,"Hattiesburg/Laurel, MS: Hattiesburg-Laurel Regional",53,5,1.92,1.38,0.7,0,1,2,0,415,173,68,92,0,82
+2024,12,DL,Delta Air Lines Network,MDT,"Harrisburg, PA: Harrisburg International",50,8,6.08,0,0.22,0,1.7,0,0,375,336,0,4,0,35
+2024,12,AS,Alaska Airlines Network,SLC,"Salt Lake City, UT: Salt Lake City International",70,10,4.15,1,1.09,0,3.76,0,0,759,490,94,79,0,96
+2024,12,NK,Spirit Airlines,BNA,"Nashville, TN: Nashville International",187,40,11.81,0.08,19.87,0.63,7.62,2,0,2447,607,10,1208,25,597
+2024,12,AA,American Airlines Network,BZN,"Bozeman, MT: Bozeman Yellowstone International",52,19,5.11,0.04,7.13,0,6.72,1,0,2321,249,55,304,0,1713
+2024,12,UA,United Air Lines Network,IAD,"Washington, DC: Washington Dulles International",2742,468,187.99,7.18,133.39,0,139.44,10,1,32238,12054,661,5174,0,14349
+2024,12,WN,Southwest Airlines,SAN,"San Diego, CA: San Diego International",2835,734,174.66,22.79,250.41,0,286.14,89,57,52016,10637,3393,18708,0,19278
+2024,12,F9,Frontier Airlines,BTV,"Burlington, VT: Burlington International",12,1,0.16,0,0,0,0.84,0,0,98,16,0,0,0,82
+2024,12,AA,American Airlines Network,SRQ,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",228,54,19.37,4.45,14.24,0.74,15.2,1,2,4691,1135,1261,794,20,1481
+2024,12,G4,Allegiant Air,USA,"Concord, NC: Concord Padgett Regional",70,30,10.54,0.8,7.58,0,11.08,0,2,1973,670,77,441,0,785
+2024,12,QX,Horizon Air,PAE,"Everett, WA: Snohomish County",169,37,4.35,1.83,11.34,0,19.47,3,5,2188,299,159,298,0,1432
+2024,12,YV,Mesa Airlines Inc.,SHV,"Shreveport, LA: Shreveport Regional",16,1,0.71,0,0.13,0,0.16,0,0,112,80,0,14,0,18
+2024,12,AA,American Airlines Network,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",13622,3036,795.72,161.48,934.51,11.7,1132.58,346,149,303265,95737,26955,56245,411,123917
+2024,12,G7,GoJet Airlines LLC d/b/a United Express,PHL,"Philadelphia, PA: Philadelphia International",33,5,2.62,0.91,1.11,0,0.36,0,0,268,75,116,63,0,14
+2024,12,OO,SkyWest Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",3463,683,331.62,120.22,106.84,0,124.32,36,10,56849,26131,14333,7640,0,8745
+2024,12,OO,SkyWest Airlines Inc.,JLN,"Joplin, MO: Joplin Regional",53,10,3.58,1,1.45,0,3.96,0,2,1205,255,33,103,0,814
+2024,12,MQ,Envoy Air,CHA,"Chattanooga, TN: Lovell Field",61,7,2,0.38,1.18,0,3.44,1,0,708,45,70,74,0,519
+2024,12,AA,American Airlines Network,SLC,"Salt Lake City, UT: Salt Lake City International",299,81,30.33,3.99,17.32,0.45,28.92,7,0,5795,2067,499,721,9,2499
+2024,12,OO,SkyWest Airlines Inc.,OTH,"North Bend/Coos Bay, OR: Southwest Oregon Regional",21,5,2,0,1.3,0,1.7,0,0,352,58,0,56,0,238
+2024,12,B6,JetBlue Airways,RIC,"Richmond, VA: Richmond International",153,34,14.43,1,3.1,0,15.48,2,0,1974,749,21,92,0,1112
+2024,12,OO,SkyWest Airlines Inc.,CHS,"Charleston, SC: Charleston AFB/International",49,11,5.74,2.93,1.33,0,1,0,0,666,305,154,73,0,134
+2024,12,MQ,Envoy Air,SBA,"Santa Barbara, CA: Santa Barbara Municipal",71,9,1.41,0,4.19,0.42,2.98,2,1,329,66,0,119,32,112
+2024,12,OO,SkyWest Airlines Inc.,RDD,"Redding, CA: Redding Regional",146,23,11.01,3.85,2.4,0.96,4.79,1,2,2287,606,537,104,77,963
+2024,12,AA,American Airlines Network,LAS,"Las Vegas, NV: Harry Reid International",1210,255,100.41,7.83,42.68,3.16,100.92,11,3,17660,5261,1795,1477,207,8920
+2024,12,MQ,Envoy Air,BRO,"Brownsville, TX: Brownsville South Padre Island International",49,2,1.99,0,0.01,0,0,1,1,127,126,0,1,0,0
+2024,12,DL,Delta Air Lines Network,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",18697,3317,990.35,75.16,946.69,0,1304.8,11,13,219566,91810,10901,37922,0,78933
+2024,12,AS,Alaska Airlines Network,HNL,"Honolulu, HI: Daniel K Inouye International",385,81,19.32,6.73,39.31,1,14.64,1,0,4045,881,400,1327,65,1372
+2024,12,G4,Allegiant Air,GEG,"Spokane, WA: Spokane International",19,1,0.28,0,0.72,0,0,0,0,69,19,0,50,0,0
+2024,12,AS,Alaska Airlines Network,IND,"Indianapolis, IN: Indianapolis International",45,11,2.82,0,1.44,0,6.74,0,0,333,129,0,27,0,177
+2024,12,PT,Piedmont Airlines,PIA,"Peoria, IL: General Downing - Peoria International",24,6,1.36,0,0.23,0,4.41,1,0,1329,136,0,23,0,1170
+2024,12,OH,PSA Airlines Inc.,SBN,"South Bend, IN: South Bend International",93,30,13.81,1,7.32,0,7.88,0,0,1730,773,37,203,0,717
+2024,12,NK,Spirit Airlines,MEM,"Memphis, TN: Memphis International",49,10,4.02,0,3.52,0.52,1.95,0,0,758,410,0,173,17,158
+2024,12,PT,Piedmont Airlines,MYR,"Myrtle Beach, SC: Myrtle Beach International",52,11,2.7,0.13,2.79,0,5.37,0,0,1128,139,10,227,0,752
+2024,12,YX,Republic Airline,HSV,"Huntsville, AL: Huntsville International-Carl T Jones Field",4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,12,G7,GoJet Airlines LLC d/b/a United Express,GSP,"Greer, SC: Greenville-Spartanburg International",19,6,2.49,0,1.47,0,2.05,0,0,286,79,0,85,0,122
+2024,12,UA,United Air Lines Network,DEN,"Denver, CO: Denver International",8538,1050,420.34,30.29,245.62,0,353.74,33,3,76015,28956,3099,9340,0,34620
+2024,12,9E,Endeavor Air Inc.,GRR,"Grand Rapids, MI: Gerald R. Ford International",41,9,3.03,0,4.1,0,1.88,0,0,640,410,0,130,0,100
+2024,12,9E,Endeavor Air Inc.,CRW,"Charleston/Dunbar, WV: West Virginia International Yeager",18,2,1,0,0.05,0,0.95,0,0,123,86,0,2,0,35
+2024,12,WN,Southwest Airlines,SNA,"Santa Ana, CA: John Wayne Airport-Orange County",1256,204,66.05,1,21.92,0.81,114.22,18,5,11507,3382,129,1347,17,6632
+2024,12,G4,Allegiant Air,SMX,"Santa Maria, CA: Santa Maria Public/Capt. G. Allan Hancock Field",9,2,0,0,1,0,1,0,0,76,0,0,28,0,48
+2024,12,OH,PSA Airlines Inc.,GRR,"Grand Rapids, MI: Gerald R. Ford International",55,12,2.96,1,1.89,0,6.15,1,1,990,296,47,60,0,587
+2024,12,G4,Allegiant Air,FCA,"Kalispell, MT: Glacier Park International",23,2,0.48,0,0.46,0,1.07,0,0,200,69,0,60,0,71
+2024,12,DL,Delta Air Lines Network,MEM,"Memphis, TN: Memphis International",342,62,32.33,0.72,8.39,0,20.56,0,0,2766,1329,33,281,0,1123
+2024,12,YV,Mesa Airlines Inc.,IND,"Indianapolis, IN: Indianapolis International",19,2,1.05,0,0.27,0,0.68,0,0,92,69,0,8,0,15
+2024,12,UA,United Air Lines Network,TYS,"Knoxville, TN: McGhee Tyson",51,8,3.04,0,1.46,0,3.5,0,0,219,97,0,36,0,86
+2024,12,ZW,Air Wisconsin Airlines Corp,LAN,"Lansing, MI: Capital Region International",80,13,2.74,0.44,3.1,0,6.72,0,0,1125,396,40,172,0,517
+2024,12,OO,SkyWest Airlines Inc.,XNA,"Fayetteville, AR: Northwest Arkansas National",169,22,13.78,0.29,2.93,0,5,0,0,1485,672,17,107,0,689
+2024,12,B6,JetBlue Airways,PQI,"Presque Isle/Houlton, ME: Presque Isle International",31,8,1.99,1.02,1.42,0,3.57,1,0,872,132,320,95,0,325
+2024,12,C5,CommuteAir LLC dba CommuteAir,IAD,"Washington, DC: Washington Dulles International",1363,367,94.78,10.32,97.25,1,163.65,20,4,35229,7913,2829,4208,29,20250
+2024,12,G4,Allegiant Air,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",346,105,19.05,4.43,36,0.47,45.04,5,1,10391,3654,187,2310,23,4217
+2024,12,OO,SkyWest Airlines Inc.,SLN,"Salina, KS: Salina Regional",62,11,6.46,0,0.81,0,3.73,0,0,506,357,0,40,0,109
+2024,12,WN,Southwest Airlines,DAL,"Dallas, TX: Dallas Love Field",6039,1354,351.11,32.12,410.13,5.82,554.81,46,75,103689,21299,4851,35798,182,41559
+2024,12,UA,United Air Lines Network,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",576,95,35.51,5.97,18.95,0,34.56,4,3,4977,1703,464,663,0,2147
+2024,12,AS,Alaska Airlines Network,PIT,"Pittsburgh, PA: Pittsburgh International",26,3,2,0,0.38,0,0.62,0,0,92,71,0,8,0,13
+2024,12,OO,SkyWest Airlines Inc.,HOU,"Houston, TX: William P Hobby",51,11,5.75,2.64,1.19,0,1.43,1,1,956,474,222,116,0,144
+2024,12,DL,Delta Air Lines Network,SAN,"San Diego, CA: San Diego International",819,182,61.2,1.07,86.17,0,33.56,4,22,12439,4386,42,6206,0,1805
+2024,12,DL,Delta Air Lines Network,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1135,298,122.44,4.55,97.51,0,73.5,1,0,17511,8388,208,4202,0,4713
+2024,12,DL,Delta Air Lines Network,MTJ,"Montrose/Delta, CO: Montrose Regional",11,4,1.32,0,2.68,0,0,0,1,73,21,0,52,0,0
+2024,12,YV,Mesa Airlines Inc.,MEM,"Memphis, TN: Memphis International",74,13,5.27,0,1.09,0,6.64,1,0,1310,367,0,74,0,869
+2024,12,AS,Alaska Airlines Network,STL,"St. Louis, MO: St Louis Lambert International",54,7,4,0.56,2.44,0,0,0,0,250,169,10,71,0,0
+2024,12,AA,American Airlines Network,EGE,"Eagle, CO: Eagle County Regional",128,53,14.54,2.51,22.04,0,13.91,2,1,6020,976,1283,1865,0,1896
+2024,12,NK,Spirit Airlines,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",48,14,5.64,0,5.21,0,3.15,0,0,661,195,0,216,0,250
+2024,12,PT,Piedmont Airlines,AVL,"Asheville, NC: Asheville Regional",68,10,2.12,2.01,3.67,0,2.2,0,0,476,73,136,108,0,159
+2024,12,OO,SkyWest Airlines Inc.,COU,"Columbia, MO: Columbia Regional",26,10,6.98,0.92,0.39,0,1.71,1,0,590,474,23,11,0,82
+2024,12,MQ,Envoy Air,RIC,"Richmond, VA: Richmond International",15,6,0.49,0.2,2.26,0,3.04,0,0,144,13,4,61,0,66
+2024,12,MQ,Envoy Air,CMI,"Champaign/Urbana, IL: University of Illinois/Willard",89,19,4.51,1.58,3.33,0,9.59,0,0,1180,166,170,147,0,697
+2024,12,QX,Horizon Air,PUW,"Pullman, WA: Pullman Moscow Regional",115,15,7.3,0,3.22,0.75,3.73,5,2,632,337,0,114,18,163
+2024,12,AS,Alaska Airlines Network,FAT,"Fresno, CA: Fresno Yosemite International",60,20,6.25,1.15,7.49,0,5.1,1,0,921,361,78,263,0,219
+2024,12,ZW,Air Wisconsin Airlines Corp,LEX,"Lexington, KY: Blue Grass",62,13,3.51,0.07,5.38,0,4.05,0,1,814,417,1,147,0,249
+2024,12,MQ,Envoy Air,LEX,"Lexington, KY: Blue Grass",94,23,4.7,2.63,6.34,0,9.33,0,0,1399,184,247,321,0,647
+2024,12,G4,Allegiant Air,OMA,"Omaha, NE: Eppley Airfield",50,6,2.19,0,1.76,1,1.05,1,0,220,119,0,32,21,48
+2024,12,OO,SkyWest Airlines Inc.,CYS,"Cheyenne, WY: Cheyenne Regional/Jerry Olson Field",58,3,1.35,0,0.73,0,0.92,0,1,321,157,0,34,0,130
+2024,12,G4,Allegiant Air,FAR,"Fargo, ND: Hector International",81,12,3.09,3.6,3.22,0,2.09,0,0,2526,234,2065,114,0,113
+2024,12,C5,CommuteAir LLC dba CommuteAir,SGF,"Springfield, MO: Springfield-Branson National",41,6,1.59,0,1.16,0,3.25,0,1,716,150,0,48,0,518
+2024,12,QX,Horizon Air,ANC,"Anchorage, AK: Ted Stevens Anchorage International",342,45,8.88,0.24,10.49,0,25.39,9,0,2102,275,5,328,0,1494
+2024,12,ZW,Air Wisconsin Airlines Corp,BNA,"Nashville, TN: Nashville International",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,12,DL,Delta Air Lines Network,TYS,"Knoxville, TN: McGhee Tyson",112,23,8.97,0,2.63,0,11.4,0,0,869,341,0,44,0,484
+2024,12,DL,Delta Air Lines Network,BTV,"Burlington, VT: Burlington International",31,4,1.77,0,2,0,0.23,0,0,166,103,0,38,0,25
+2024,12,UA,United Air Lines Network,BIL,"Billings, MT: Billings Logan International",62,9,3,0,0.18,0,5.82,0,0,489,174,0,7,0,308
+2024,12,OO,SkyWest Airlines Inc.,ACV,"Arcata/Eureka, CA: California Redwood Coast Humboldt County",155,20,9.29,2.91,3.36,0,4.44,0,1,1488,318,655,244,0,271
+2024,12,F9,Frontier Airlines,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",12,1,0.24,0,0.76,0,0,1,0,25,6,0,19,0,0
+2024,12,PT,Piedmont Airlines,CHA,"Chattanooga, TN: Lovell Field",154,30,5.98,1.93,10.12,0,11.97,0,0,1509,179,112,311,0,907
+2024,12,OO,SkyWest Airlines Inc.,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",120,12,5.68,1,1.99,0,3.34,0,0,720,347,79,71,0,223
+2024,12,OO,SkyWest Airlines Inc.,ALB,"Albany, NY: Albany International",73,26,14.77,1.91,3.51,0,5.81,0,1,2290,1385,68,201,0,636
+2024,12,OO,SkyWest Airlines Inc.,EAR,"Kearney, NE: Kearney Regional",53,8,2.93,0.99,0.09,0,4,2,1,1018,122,689,14,0,193
+2024,12,C5,CommuteAir LLC dba CommuteAir,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,12,MQ,Envoy Air,BDL,"Hartford, CT: Bradley International",33,4,1,0.91,0.72,0,1.37,0,0,282,55,93,32,0,102
+2024,2,G4,Allegiant Air,ALB,"Albany, NY: Albany International",52,5,2.28,1,1.04,0,0.68,0,0,509,346,101,45,0,17
+2024,2,MQ,Envoy Air,CRP,"Corpus Christi, TX: Corpus Christi International",195,16,7.12,0.67,4.22,0,4,0,1,961,647,20,112,0,182
+2024,2,AA,American Airlines Network,TPA,"Tampa, FL: Tampa International",1094,233,68.26,1.94,60.55,1.44,100.81,0,1,14461,4931,191,1870,39,7430
+2024,2,B6,JetBlue Airways,SAT,"San Antonio, TX: San Antonio International",58,12,5.19,0.51,5.49,0,0.81,2,0,790,464,86,223,0,17
+2024,2,HA,Hawaiian Airlines Network,SAN,"San Diego, CA: San Diego International",58,7,4,0,0,0,3,0,0,317,243,0,0,0,74
+2024,2,B6,JetBlue Airways,RIC,"Richmond, VA: Richmond International",144,46,14.98,1.26,8.78,0,20.97,1,0,2901,1011,285,274,0,1331
+2024,2,WN,Southwest Airlines,PVD,"Providence, RI: Rhode Island Tf Green International",337,46,14.38,1,8.78,0,21.84,3,0,2496,619,263,267,0,1347
+2024,2,WN,Southwest Airlines,BUF,"Buffalo, NY: Buffalo Niagara International",388,96,36.51,0,27.56,0,31.93,1,0,4059,1523,0,872,0,1664
+2024,2,AA,American Airlines Network,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",555,102,38.15,0.03,35.85,0,27.97,1,0,5555,1758,3,1237,0,2557
+2024,2,AA,American Airlines Network,ORF,"Norfolk, VA: Norfolk International",232,52,22.31,0.25,7.35,0,22.09,0,1,2910,1340,24,281,0,1265
+2024,2,YV,Mesa Airlines Inc.,COS,"Colorado Springs, CO: City of Colorado Springs Municipal",24,5,1.65,0,1.11,0,2.24,0,1,179,71,0,32,0,76
+2024,2,OO,SkyWest Airlines Inc.,SBP,"San Luis Obispo, CA: San Luis County Regional",252,59,17.75,4.76,20.53,0,15.96,7,0,5832,851,1520,1170,0,2291
+2024,2,B6,JetBlue Airways,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",240,52,25.8,1.38,14.59,0,10.23,3,1,4104,2423,91,638,0,952
+2024,2,AS,Alaska Airlines Network,SLC,"Salt Lake City, UT: Salt Lake City International",102,21,2.72,0,6.25,0,12.03,0,0,638,68,0,179,0,391
+2024,2,YX,Republic Airline,DSM,"Des Moines, IA: Des Moines International",60,4,0.8,0,2.24,0,0.96,0,0,142,25,0,42,0,75
+2024,2,PT,Piedmont Airlines,BUF,"Buffalo, NY: Buffalo Niagara International",27,1,1,0,0,0,0,0,0,51,51,0,0,0,0
+2024,2,YX,Republic Airline,ROA,"Roanoke, VA: Roanoke Blacksburg Regional",25,1,0,0,1,0,0,1,0,28,0,0,28,0,0
+2024,2,G7,GoJet Airlines LLC d/b/a United Express,AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",81,3,1.86,0,1.14,0,0,2,0,145,117,0,28,0,0
+2024,2,WN,Southwest Airlines,LBB,"Lubbock, TX: Lubbock Preston Smith International",195,33,13.51,0.23,5.14,0.9,13.21,0,1,1582,772,25,278,76,431
+2024,2,DL,Delta Air Lines Network,MCO,"Orlando, FL: Orlando International",1739,280,127.75,4.49,99.34,0,48.42,5,3,17241,10374,331,3554,0,2982
+2024,2,QX,Horizon Air,BIL,"Billings, MT: Billings Logan International",52,3,1,1.49,0.51,0,0,0,0,195,17,166,12,0,0
+2024,2,QX,Horizon Air,DLG,"Dillingham, AK: Dillingham Airport",29,9,2,4.93,1.4,0,0.68,3,0,663,164,329,43,0,127
+2024,2,DL,Delta Air Lines Network,DAL,"Dallas, TX: Dallas Love Field",151,8,3.84,0,1.16,0,3,0,0,266,149,0,22,0,95
+2024,2,QX,Horizon Air,SBA,"Santa Barbara, CA: Santa Barbara Municipal",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,2,NK,Spirit Airlines,IND,"Indianapolis, IN: Indianapolis International",222,50,12.79,0.23,22.02,2.66,12.3,0,0,2467,885,23,652,61,846
+2024,2,B6,JetBlue Airways,EWR,"Newark, NJ: Newark Liberty International",404,88,37.78,0.58,23.03,0.39,26.22,8,0,6866,3402,105,949,12,2398
+2024,2,NK,Spirit Airlines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",725,150,41.61,1.05,70.08,2.44,34.82,2,1,8165,2700,41,2753,125,2546
+2024,2,HA,Hawaiian Airlines Network,ITO,"Hilo, HI: Hilo International",404,55,28.99,1.45,1,0,23.56,2,0,1970,913,47,49,0,961
+2024,2,DL,Delta Air Lines Network,SMF,"Sacramento, CA: Sacramento International",236,40,17.65,0,17.99,0,4.36,0,0,1823,1078,0,470,0,275
+2024,2,OO,SkyWest Airlines Inc.,IAD,"Washington, DC: Washington Dulles International",140,17,11.35,1.98,2.68,0,1,3,0,1249,798,271,151,0,29
+2024,2,OO,SkyWest Airlines Inc.,ILM,"Wilmington, NC: Wilmington International",9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,2,UA,United Air Lines Network,ROC,"Rochester, NY: Frederick Douglass Grtr Rochester International",58,11,4.44,0,2.18,0,4.38,0,0,690,233,0,192,0,265
+2024,2,WN,Southwest Airlines,DTW,"Detroit, MI: Detroit Metro Wayne County",300,64,31.52,0.23,10.45,0,21.8,0,2,2923,1221,16,476,0,1210
+2024,2,ZW,Air Wisconsin Airlines Corp,RST,"Rochester, MN: Rochester International",50,5,1.59,0.19,1.11,0,2.12,0,0,341,163,11,38,0,129
+2024,2,DL,Delta Air Lines Network,RSW,"Fort Myers, FL: Southwest Florida International",657,68,35.56,0.14,22.63,0,9.67,0,0,3888,2099,12,1123,0,654
+2024,2,YX,Republic Airline,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",7,3,1.64,0,1.07,0,0.29,0,1,300,98,0,155,0,47
+2024,2,WN,Southwest Airlines,MIA,"Miami, FL: Miami International",546,88,28.19,1.47,40.38,0,17.97,0,3,3914,1211,183,1650,0,870
+2024,2,YV,Mesa Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",4,2,0.67,0,1.03,0,0.3,0,0,52,13,0,28,0,11
+2024,2,ZW,Air Wisconsin Airlines Corp,OMA,"Omaha, NE: Eppley Airfield",21,2,1.15,0,0,0,0.85,0,0,38,21,0,0,0,17
+2024,2,G7,GoJet Airlines LLC d/b/a United Express,ALB,"Albany, NY: Albany International",51,2,0.47,0,0.53,0,1,3,0,110,15,0,17,0,78
+2024,2,MQ,Envoy Air,ROW,"Roswell, NM: Roswell Air Center",30,1,1,0,0,0,0,0,0,65,65,0,0,0,0
+2024,2,AA,American Airlines Network,BTV,"Burlington, VT: Burlington International",26,3,1.19,0,0.01,0,1.8,0,0,396,75,0,2,0,319
+2024,2,G7,GoJet Airlines LLC d/b/a United Express,PHL,"Philadelphia, PA: Philadelphia International",39,1,0.59,0,0.41,0,0,3,0,37,22,0,15,0,0
+2024,2,MQ,Envoy Air,MOB,"Mobile, AL: Mobile Regional",79,6,3.6,0,0.77,0,1.63,0,0,495,290,0,28,0,177
+2024,2,B6,JetBlue Airways,PVD,"Providence, RI: Rhode Island Tf Green International",98,32,13.5,0,7.41,0,11.09,0,0,1768,849,0,211,0,708
+2024,2,G4,Allegiant Air,MFR,"Medford, OR: Rogue Valley International - Medford",20,2,1.07,0,0.53,0,0.4,0,0,38,24,0,8,0,6
+2024,2,WN,Southwest Airlines,OKC,"Oklahoma City, OK: Will Rogers World",531,85,28.18,0.02,16.73,1,39.07,1,0,4044,1025,5,601,19,2394
+2024,2,DL,Delta Air Lines Network,EGE,"Eagle, CO: Eagle County Regional",49,3,1.02,0,1.98,0,0,0,0,62,24,0,38,0,0
+2024,2,AA,American Airlines Network,STT,"Charlotte Amalie, VI: Cyril E King",211,44,11.7,0.63,22.76,0.29,8.63,7,1,3706,810,30,793,12,2061
+2024,2,MQ,Envoy Air,BIL,"Billings, MT: Billings Logan International",58,5,1.83,0.95,0.97,0,1.26,0,0,210,64,86,33,0,27
+2024,2,OO,SkyWest Airlines Inc.,SMF,"Sacramento, CA: Sacramento International",640,83,40.5,10.57,10.87,0.98,20.09,4,0,5072,2574,514,398,119,1467
+2024,2,B6,JetBlue Airways,DEN,"Denver, CO: Denver International",87,20,12.03,0.74,2.58,0,4.65,0,2,1247,807,26,111,0,303
+2024,2,B6,JetBlue Airways,SEA,"Seattle, WA: Seattle/Tacoma International",58,13,8.23,0,2.12,0,2.65,0,1,787,636,0,46,0,105
+2024,2,MQ,Envoy Air,HOU,"Houston, TX: William P Hobby",154,10,0.66,1.5,5.21,0,2.63,0,0,549,34,153,231,0,131
+2024,2,ZW,Air Wisconsin Airlines Corp,STL,"St. Louis, MO: St Louis Lambert International",10,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,2,YV,Mesa Airlines Inc.,BTV,"Burlington, VT: Burlington International",15,1,1,0,0,0,0,0,0,53,53,0,0,0,0
+2024,2,B6,JetBlue Airways,CLE,"Cleveland, OH: Cleveland-Hopkins International",56,11,6.96,0,2.18,0,1.86,1,0,720,503,0,106,0,111
+2024,2,F9,Frontier Airlines,SRQ,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",80,21,4.17,0,7.09,0,9.74,1,0,1106,271,0,308,0,527
+2024,2,YX,Republic Airline,LGA,"New York, NY: LaGuardia",2928,327,59.21,24.51,174.76,0,68.52,72,12,20534,4394,2194,8430,0,5516
+2024,2,9E,Endeavor Air Inc.,MLU,"Monroe, LA: Monroe Regional",58,8,2.72,1,2.1,0,2.19,0,0,380,65,44,113,0,158
+2024,2,AS,Alaska Airlines Network,BNA,"Nashville, TN: Nashville International",54,11,3.25,0,5.21,0,2.54,0,0,331,75,0,161,0,95
+2024,2,G7,GoJet Airlines LLC d/b/a United Express,AVL,"Asheville, NC: Asheville Regional",8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,2,PT,Piedmont Airlines,FAY,"Fayetteville, NC: Fayetteville Regional/Grannis Field",114,4,1,0,2.64,0,0.36,0,0,105,31,0,60,0,14
+2024,2,G4,Allegiant Air,MSP,"Minneapolis, MN: Minneapolis-St Paul International",46,7,2.86,1,2.74,0,0.4,0,0,315,147,18,144,0,6
+2024,2,G4,Allegiant Air,AZA,"Phoenix, AZ: Phoenix - Mesa Gateway",476,55,17.61,3.37,17.21,1,15.81,0,0,4993,1254,699,696,43,2301
+2024,2,DL,Delta Air Lines Network,BTR,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",3,1,1,0,0,0,0,0,0,22,22,0,0,0,0
+2024,2,YV,Mesa Airlines Inc.,ORF,"Norfolk, VA: Norfolk International",31,7,2.86,0,3,0,1.14,0,0,474,225,0,92,0,157
+2024,2,9E,Endeavor Air Inc.,DHN,"Dothan, AL: Dothan Regional",58,6,2.97,0,2.03,0,1,0,0,288,173,0,75,0,40
+2024,2,WN,Southwest Airlines,ISP,"Islip, NY: Long Island MacArthur",234,34,11,0,7.1,0,15.91,2,0,1265,370,0,195,0,700
+2024,2,DL,Delta Air Lines Network,SLC,"Salt Lake City, UT: Salt Lake City International",3909,391,134.4,11.86,120.39,0,124.35,1,1,29759,14839,1806,3814,0,9300
+2024,2,OO,SkyWest Airlines Inc.,CIU,"Sault Ste. Marie, MI: Chippewa County International",58,7,6,1,0,0,0,1,1,746,585,161,0,0,0
+2024,2,G4,Allegiant Air,GEG,"Spokane, WA: Spokane International",17,2,0,2,0,0,0,0,0,114,0,114,0,0,0
+2024,2,NK,Spirit Airlines,MIA,"Miami, FL: Miami International",607,111,25.17,1.83,59.05,0.5,24.46,2,1,6827,1792,129,2735,21,2150
+2024,2,OH,PSA Airlines Inc.,MLB,"Melbourne, FL: Melbourne Orlando International",91,14,4.71,0,3.77,1,4.53,0,0,456,152,0,113,41,150
+2024,2,YV,Mesa Airlines Inc.,IAD,"Washington, DC: Washington Dulles International",781,86,24.46,1.18,24.79,0,35.57,4,0,7165,1818,103,818,0,4426
+2024,2,AA,American Airlines Network,BOI,"Boise, ID: Boise Air Terminal",58,16,6.05,0,7.18,0,2.77,0,0,530,241,0,200,0,89
+2024,2,OH,PSA Airlines Inc.,CAK,"Akron, OH: Akron-Canton Regional",111,18,4.62,0,4.5,0.33,8.55,0,0,1176,349,0,203,11,613
+2024,2,OO,SkyWest Airlines Inc.,FCA,"Kalispell, MT: Glacier Park International",89,12,5.5,1,2.5,0,3,1,0,480,121,34,63,0,262
+2024,2,WN,Southwest Airlines,ORF,"Norfolk, VA: Norfolk International",203,31,11.39,0,3.17,0,16.44,0,0,1480,373,0,79,0,1028
+2024,2,MQ,Envoy Air,IAH,"Houston, TX: George Bush Intercontinental/Houston",185,20,4.21,1.41,9.28,0.74,4.36,0,0,598,133,51,255,20,139
+2024,2,AA,American Airlines Network,FAT,"Fresno, CA: Fresno Yosemite International",169,27,10.16,0,6.38,0,10.46,0,0,1171,477,0,183,0,511
+2024,2,OO,SkyWest Airlines Inc.,AMA,"Amarillo, TX: Rick Husband Amarillo International",71,12,6.03,0.95,2.94,0,2.09,0,0,1144,427,177,161,0,379
+2024,2,YX,Republic Airline,SAV,"Savannah, GA: Savannah/Hilton Head International",75,5,0.38,0,4.12,0,0.5,1,0,224,15,0,158,0,51
+2024,2,OO,SkyWest Airlines Inc.,TUL,"Tulsa, OK: Tulsa International",249,34,19.73,3.82,2.69,0,7.76,1,0,1983,1117,326,153,0,387
+2024,2,MQ,Envoy Air,AMA,"Amarillo, TX: Rick Husband Amarillo International",127,7,1.34,1.02,2.03,0,2.61,0,0,274,74,46,65,0,89
+2024,2,F9,Frontier Airlines,OMA,"Omaha, NE: Eppley Airfield",42,4,1,0,0,0,3,0,0,239,36,0,0,0,203
+2024,2,DL,Delta Air Lines Network,LEX,"Lexington, KY: Blue Grass",131,4,2,0,1,0,1,0,0,184,137,0,21,0,26
+2024,2,OH,PSA Airlines Inc.,AGS,"Augusta, GA: Augusta Regional at Bush Field",74,9,3.95,0,1.68,0,3.38,0,0,363,158,0,30,0,175
+2024,2,OO,SkyWest Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",2855,1170,267.75,66.23,673.63,0,162.4,128,19,92394,19743,10587,45508,0,16556
+2024,2,MQ,Envoy Air,AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",17,1,1,0,0,0,0,0,0,33,33,0,0,0,0
+2024,2,OO,SkyWest Airlines Inc.,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",16,2,1,0,0,0,1,0,0,128,99,0,0,0,29
+2024,2,OH,PSA Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",644,99,23.46,8.99,20.48,0.5,45.57,0,0,6590,1994,522,663,8,3403
+2024,2,UA,United Air Lines Network,BOI,"Boise, ID: Boise Air Terminal",60,15,8.75,0.5,3.72,0,2.03,0,0,1395,697,120,241,0,337
+2024,2,B6,JetBlue Airways,PHL,"Philadelphia, PA: Philadelphia International",81,11,3.14,0,1.52,0,6.34,1,0,488,113,0,73,0,302
+2024,2,NK,Spirit Airlines,ORD,"Chicago, IL: Chicago O'Hare International",578,125,24.87,1.86,50.73,2.83,44.7,0,4,8267,1449,230,2315,119,4154
+2024,2,WN,Southwest Airlines,LAX,"Los Angeles, CA: Los Angeles International",1883,483,132.34,1.82,147.97,0.3,200.57,9,2,21217,5371,80,5201,30,10535
+2024,2,DL,Delta Air Lines Network,FCA,"Kalispell, MT: Glacier Park International",58,5,2.16,0,2.84,0,0,0,0,300,199,0,101,0,0
+2024,2,G4,Allegiant Air,TOL,"Toledo, OH: Eugene F Kranz Toledo Express",41,12,2.27,0.96,5.43,0,3.34,0,0,482,66,54,271,0,91
+2024,2,C5,CommuteAir LLC dba CommuteAir,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",110,11,5.08,0,2.48,0,3.44,1,0,946,329,0,88,0,529
+2024,2,UA,United Air Lines Network,BUR,"Burbank, CA: Bob Hope",29,9,4.57,0.25,1.85,0,2.32,0,0,667,228,54,157,0,228
+2024,3,UA,United Air Lines Network,EWR,"Newark, NJ: Newark Liberty International",6027,935,304.61,16.77,276.02,0,337.6,43,10,71749,23513,1351,17267,0,29618
+2024,3,UA,United Air Lines Network,BZN,"Bozeman, MT: Bozeman Yellowstone International",185,31,8.33,0,5.36,0,17.31,0,4,1942,390,0,227,0,1325
+2024,3,PT,Piedmont Airlines,BDL,"Hartford, CT: Bradley International",58,3,2,0,1,0,0,0,0,317,302,0,15,0,0
+2024,3,MQ,Envoy Air,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",645,71,16.31,0.27,38.06,0,16.37,0,1,4612,2367,5,1196,0,1044
+2024,3,YX,Republic Airline,SAV,"Savannah, GA: Savannah/Hilton Head International",102,13,2.72,0.85,6.69,0,2.75,0,0,917,374,23,246,0,274
+2024,3,QX,Horizon Air,RDM,"Bend/Redmond, OR: Roberts Field",124,28,7.28,0,3.78,0,16.94,0,0,1488,507,0,109,0,872
+2024,3,MQ,Envoy Air,LAW,"Lawton/Fort Sill, OK: Lawton-Fort Sill Regional",62,12,2.61,0.78,0.72,0,7.88,3,0,591,101,25,16,0,449
+2024,3,UA,United Air Lines Network,SLC,"Salt Lake City, UT: Salt Lake City International",457,92,28.91,0,14.24,0,48.85,2,2,6114,1771,0,626,0,3717
+2024,3,NK,Spirit Airlines,CMH,"Columbus, OH: John Glenn Columbus International",208,65,19.24,0.14,36.48,0.2,8.94,1,0,3419,855,15,1947,8,594
+2024,3,MQ,Envoy Air,CLT,"Charlotte, NC: Charlotte Douglas International",523,121,16.69,5.3,47.64,0,51.38,1,1,5197,858,238,1223,0,2878
+2024,3,OO,SkyWest Airlines Inc.,RKS,"Rock Springs, WY: Southwest Wyoming Regional",40,5,0,0,3,0,2,3,2,248,0,0,71,0,177
+2024,3,B6,JetBlue Airways,ALB,"Albany, NY: Albany International",62,30,12.8,0,4.21,0,12.99,2,0,2395,1222,0,245,0,928
+2024,3,OO,SkyWest Airlines Inc.,CLE,"Cleveland, OH: Cleveland-Hopkins International",98,16,11.96,2.22,1.82,0,0,0,0,1108,829,73,206,0,0
+2024,3,UA,United Air Lines Network,MYR,"Myrtle Beach, SC: Myrtle Beach International",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,3,WN,Southwest Airlines,KOA,"Kona, HI: Ellison Onizuka Kona International at Keahole",282,36,18.11,0,5.98,0,11.92,0,0,1499,797,0,144,0,558
+2024,3,F9,Frontier Airlines,FSD,"Sioux Falls, SD: Joe Foss Field",19,3,0.4,0,0,0,2.6,0,0,167,19,0,0,0,148
+2024,3,WN,Southwest Airlines,CLE,"Cleveland, OH: Cleveland-Hopkins International",482,140,43.26,1.48,13.76,0,81.49,2,0,7249,1891,66,462,0,4830
+2024,3,AA,American Airlines Network,EGE,"Eagle, CO: Eagle County Regional",253,64,26.19,2.19,14.42,0,21.2,2,2,7352,2106,203,751,0,4292
+2024,3,PT,Piedmont Airlines,HSV,"Huntsville, AL: Huntsville International-Carl T Jones Field",62,6,1.24,0,3.33,0,1.43,0,0,228,40,0,94,0,94
+2024,3,OH,PSA Airlines Inc.,TYS,"Knoxville, TN: McGhee Tyson",269,60,17.48,0.59,15.89,1.6,24.43,0,0,3642,1639,27,450,118,1408
+2024,3,MQ,Envoy Air,TXK,"Texarkana, AR: Texarkana Regional-Webb Field",62,11,2.75,3.04,0.72,0,4.49,1,0,1094,197,141,76,0,680
+2024,3,AA,American Airlines Network,MFE,"Mission/McAllen/Edinburg, TX: McAllen International",141,45,10.9,3.49,7.28,0.13,23.21,2,0,3060,974,203,254,2,1627
+2024,3,OH,PSA Airlines Inc.,JAX,"Jacksonville, FL: Jacksonville International",119,19,5.57,0,6.48,0,6.95,0,0,1143,276,0,298,0,569
+2024,3,OO,SkyWest Airlines Inc.,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",106,11,2.47,2.86,5.16,0,0.52,1,0,419,53,136,214,0,16
+2024,3,AA,American Airlines Network,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",589,193,31.28,3.15,75.31,0.29,82.98,5,1,14266,1975,628,3956,21,7686
+2024,3,F9,Frontier Airlines,SMF,"Sacramento, CA: Sacramento International",23,7,2.9,0,1.14,0,2.97,0,0,639,198,0,36,0,405
+2024,3,YV,Mesa Airlines Inc.,DSM,"Des Moines, IA: Des Moines International",28,8,2.71,0,1.01,0,4.28,0,0,512,167,0,31,0,314
+2024,3,UA,United Air Lines Network,RAP,"Rapid City, SD: Rapid City Regional",63,10,6.19,0,2.1,0,1.71,1,0,472,272,0,83,0,117
+2024,3,DL,Delta Air Lines Network,DAY,"Dayton, OH: James M Cox/Dayton International",84,8,7.3,0,0.03,0,0.67,0,0,538,510,0,5,0,23
+2024,3,QX,Horizon Air,BZN,"Bozeman, MT: Bozeman Yellowstone International",116,25,6.83,1,5.97,0,11.2,1,0,2021,568,25,292,0,1136
+2024,3,G7,GoJet Airlines LLC d/b/a United Express,FSD,"Sioux Falls, SD: Joe Foss Field",25,1,0,0,0,0,1,0,0,17,0,0,0,0,17
+2024,3,UA,United Air Lines Network,TVC,"Traverse City, MI: Cherry Capital",31,11,4.54,1,1.22,0,4.24,0,0,466,163,83,28,0,192
+2024,3,YV,Mesa Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",93,20,5.2,0,2.5,0,12.3,2,1,1767,438,0,67,0,1262
+2024,3,ZW,Air Wisconsin Airlines Corp,ORF,"Norfolk, VA: Norfolk International",31,8,1.98,0,0.15,0,5.88,0,0,422,141,0,5,0,276
+2024,3,AS,Alaska Airlines Network,HNL,"Honolulu, HI: Daniel K Inouye International",368,57,17.67,2.6,23.63,0,13.1,0,3,2585,1174,100,800,0,511
+2024,3,PT,Piedmont Airlines,LYH,"Lynchburg, VA: Lynchburg Regional/Preston Glenn Field",120,8,5.22,0,1.09,0,1.7,0,0,516,379,0,43,0,94
+2024,3,DL,Delta Air Lines Network,HRL,"Harlingen/San Benito, TX: Valley International",31,6,1.59,0,1.84,0,2.57,0,0,394,156,0,76,0,162
+2024,3,YX,Republic Airline,MEM,"Memphis, TN: Memphis International",192,23,6.62,0,4.25,0,12.13,0,0,885,297,0,92,0,496
+2024,3,AS,Alaska Airlines Network,TUS,"Tucson, AZ: Tucson International",56,14,4.03,0,1.24,0,8.73,0,0,719,347,0,20,0,352
+2024,3,OH,PSA Airlines Inc.,GSO,"Greensboro/High Point, NC: Piedmont Triad International",266,27,10.6,1.27,4.65,0.26,10.22,0,0,1295,543,20,170,9,553
+2024,3,OO,SkyWest Airlines Inc.,JAX,"Jacksonville, FL: Jacksonville International",26,4,0.93,0,2.09,0,0.97,0,0,282,157,0,55,0,70
+2024,3,AA,American Airlines Network,BOS,"Boston, MA: Logan International",1287,353,89.28,9.58,65.35,1.87,186.91,8,1,24668,5344,903,2963,66,15392
+2024,3,F9,Frontier Airlines,ISP,"Islip, NY: Long Island MacArthur",191,45,11.89,0,6.38,0,26.74,5,2,3728,857,0,532,0,2339
+2024,3,AS,Alaska Airlines Network,BOS,"Boston, MA: Logan International",178,47,18.57,0.76,19.73,0,7.94,0,0,2171,930,38,738,0,465
+2024,3,WN,Southwest Airlines,BOS,"Boston, MA: Logan International",456,127,54.46,0,14.4,0.83,57.31,0,0,5448,2250,0,457,15,2726
+2024,3,MQ,Envoy Air,SWO,"Stillwater, OK: Stillwater Regional",62,11,3.59,0,0.59,0,6.83,0,0,628,167,0,17,0,444
+2024,3,OO,SkyWest Airlines Inc.,SAN,"San Diego, CA: San Diego International",982,242,101.5,9.02,71.85,1.23,58.41,6,2,12050,4301,481,3796,98,3374
+2024,3,C5,CommuteAir LLC dba CommuteAir,DAY,"Dayton, OH: James M Cox/Dayton International",22,2,1.36,0,0,0,0.64,0,0,823,630,0,0,0,193
+2024,3,OH,PSA Airlines Inc.,GPT,"Gulfport/Biloxi, MS: Gulfport-Biloxi International",116,19,8.51,0.78,6.09,0,3.62,2,0,1003,453,88,229,0,233
+2024,3,OO,SkyWest Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",2101,253,130.19,25.76,73.45,1,22.59,0,0,12787,6224,1650,3727,76,1110
+2024,3,OO,SkyWest Airlines Inc.,AUS,"Austin, TX: Austin - Bergstrom International",81,15,7.87,4.52,1.61,1,0,1,3,2595,707,1719,151,18,0
+2024,3,NK,Spirit Airlines,TPA,"Tampa, FL: Tampa International",767,219,37.15,1.58,139.96,0.7,39.6,18,1,15658,2936,77,9890,28,2727
+2024,3,MQ,Envoy Air,STL,"St. Louis, MO: St Louis Lambert International",146,17,5.48,1.94,3.34,0,6.23,0,0,851,391,98,97,0,265
+2024,3,UA,United Air Lines Network,IAD,"Washington, DC: Washington Dulles International",2752,461,137.99,6.9,154.67,0,161.44,9,3,29626,9387,709,6646,0,12884
+2024,3,AS,Alaska Airlines Network,PSC,"Pasco/Kennewick/Richland, WA: Tri Cities",31,13,3.48,0,1.78,0,7.73,0,0,665,258,0,51,0,356
+2024,3,DL,Delta Air Lines Network,SYR,"Syracuse, NY: Syracuse Hancock International",119,21,13.63,0,1.3,0,6.08,0,0,737,484,0,38,0,215
+2024,3,C5,CommuteAir LLC dba CommuteAir,LCH,"Lake Charles, LA: Lake Charles Regional",61,6,2.19,2,0,0,1.81,1,0,410,140,175,0,0,95
+2024,3,QX,Horizon Air,ABQ,"Albuquerque, NM: Albuquerque International Sunport",18,1,0.9,0,0.1,0,0,0,0,73,66,0,7,0,0
+2024,3,OH,PSA Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",147,27,9.15,0.18,5.35,1.07,11.25,0,0,1191,517,4,147,22,501
+2024,3,9E,Endeavor Air Inc.,MGM,"Montgomery, AL: Montgomery Regional",57,13,5.75,0.8,0.64,0,5.81,0,0,592,283,36,30,0,243
+2024,3,OO,SkyWest Airlines Inc.,ESC,"Escanaba, MI: Delta County",53,6,5.94,0,0.06,0,0,0,2,686,671,0,15,0,0
+2024,3,ZW,Air Wisconsin Airlines Corp,OMA,"Omaha, NE: Eppley Airfield",28,5,1,0,2,0,2,0,0,278,59,0,52,0,167
+2024,3,OO,SkyWest Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",1206,241,114.38,72.03,34.18,2,18.41,35,3,27404,12340,11156,2980,64,864
+2024,3,DL,Delta Air Lines Network,MYR,"Myrtle Beach, SC: Myrtle Beach International",151,20,11.21,0,6.36,0,2.44,0,0,602,409,0,142,0,51
+2024,3,MQ,Envoy Air,HRL,"Harlingen/San Benito, TX: Valley International",129,17,4.8,2.24,2.15,0,7.81,4,2,1025,230,282,93,0,420
+2024,3,MQ,Envoy Air,BIS,"Bismarck/Mandan, ND: Bismarck Municipal",31,4,0.88,0,0,0,3.12,0,0,155,14,0,0,0,141
+2024,3,PT,Piedmont Airlines,TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities",151,8,1.74,0,4.95,0,1.31,0,0,277,72,0,161,0,44
+2024,3,9E,Endeavor Air Inc.,CWA,"Mosinee, WI: Central Wisconsin",62,9,4.37,0.26,3.31,0,1.06,1,0,1494,379,231,184,0,700
+2024,3,OO,SkyWest Airlines Inc.,FCA,"Kalispell, MT: Glacier Park International",104,6,6,0,0,0,0,1,0,335,335,0,0,0,0
+2024,3,OO,SkyWest Airlines Inc.,BRD,"Brainerd, MN: Brainerd Lakes Regional",53,12,8.91,0,3.09,0,0,1,0,687,570,0,117,0,0
+2024,3,G7,GoJet Airlines LLC d/b/a United Express,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",17,1,1,0,0,0,0,0,0,27,27,0,0,0,0
+2024,3,NK,Spirit Airlines,SDF,"Louisville, KY: Louisville Muhammad Ali International",73,30,10.23,0,13.34,0.66,5.77,0,0,1839,609,0,838,28,364
+2024,3,DL,Delta Air Lines Network,JAN,"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",176,28,14.41,2.87,4.12,0,6.61,0,1,1981,1196,207,166,0,412
+2024,3,WN,Southwest Airlines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",3196,596,155.09,5.26,129.21,1.55,304.9,19,1,33255,9254,291,5021,117,18572
+2024,3,OO,SkyWest Airlines Inc.,MFR,"Medford, OR: Rogue Valley International - Medford",223,25,16.55,0.2,7.24,0,1,1,0,1921,790,24,1057,0,50
+2024,3,AA,American Airlines Network,BNA,"Nashville, TN: Nashville International",629,237,76.15,7.48,32.32,0.05,120.99,9,1,17869,5812,692,1572,7,9786
+2024,3,G4,Allegiant Air,BIL,"Billings, MT: Billings Logan International",27,6,2.95,0,0.37,0,2.68,0,0,778,297,0,75,0,406
+2024,3,QX,Horizon Air,OAK,"Oakland, CA: Metro Oakland International",53,2,1,0,1,0,0,0,0,134,113,0,21,0,0
+2024,3,NK,Spirit Airlines,SEA,"Seattle, WA: Seattle/Tacoma International",62,10,3.58,0,5.43,0,0.99,0,0,961,396,0,238,0,327
+2024,3,PT,Piedmont Airlines,DSM,"Des Moines, IA: Des Moines International",31,5,0.11,0,2,0,2.89,0,0,605,50,0,54,0,501
+2024,3,G4,Allegiant Air,OKC,"Oklahoma City, OK: Will Rogers World",9,1,0,0,1,0,0,0,0,33,0,0,33,0,0
+2024,3,F9,Frontier Airlines,SFO,"San Francisco, CA: San Francisco International",274,163,13.95,1.58,106.13,0,41.34,7,1,11136,1075,112,6636,0,3313
+2024,3,OO,SkyWest Airlines Inc.,IDA,"Idaho Falls, ID: Idaho Falls Regional",185,29,16.05,4.48,1.83,0,6.64,1,1,1506,683,283,55,0,485
+2024,3,AS,Alaska Airlines Network,KOA,"Kona, HI: Ellison Onizuka Kona International at Keahole",192,26,6.4,0,12.44,0,7.17,0,1,1062,304,0,521,0,237
+2024,3,ZW,Air Wisconsin Airlines Corp,BMI,"Bloomington/Normal, IL: Central Il Regional Airport at Bloomington",62,8,1.11,0,1.93,0,4.95,0,0,406,45,0,144,0,217
+2024,3,QX,Horizon Air,TUS,"Tucson, AZ: Tucson International",54,7,2.25,0,1.48,0,3.26,0,0,235,77,0,30,0,128
+2024,3,B6,JetBlue Airways,LGA,"New York, NY: LaGuardia",1115,318,116.39,4.15,86.35,1,110.11,14,2,26128,9397,498,4846,43,11344
+2024,3,F9,Frontier Airlines,SLC,"Salt Lake City, UT: Salt Lake City International",217,58,12.96,0,17.52,0,27.53,5,1,5732,2036,0,929,0,2767
+2024,3,G4,Allegiant Air,OMA,"Omaha, NE: Eppley Airfield",54,12,4.92,0.47,6.53,0,0.08,0,0,456,158,35,260,0,3
+2024,3,YX,Republic Airline,VPS,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,3,YV,Mesa Airlines Inc.,RIC,"Richmond, VA: Richmond International",20,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,3,F9,Frontier Airlines,MEM,"Memphis, TN: Memphis International",22,2,0,0,0.2,0,1.8,1,0,96,0,0,16,0,80
+2024,3,AA,American Airlines Network,IAH,"Houston, TX: George Bush Intercontinental/Houston",512,153,50.42,6.74,29.56,0.04,66.24,9,2,12056,3747,537,1600,8,6164
+2024,3,OO,SkyWest Airlines Inc.,BTM,"Butte, MT: Bert Mooney",58,4,3,1,0,0,0,0,0,425,192,233,0,0,0
+2024,3,YV,Mesa Airlines Inc.,ABQ,"Albuquerque, NM: Albuquerque International Sunport",54,6,3.79,0,0.08,0,2.13,0,0,558,416,0,13,0,129
+2024,3,G4,Allegiant Air,SAV,"Savannah, GA: Savannah/Hilton Head International",86,9,0.49,0.32,2.29,0,5.9,0,0,422,23,14,71,0,314
+2024,3,MQ,Envoy Air,BUF,"Buffalo, NY: Buffalo Niagara International",4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,3,UA,United Air Lines Network,MFR,"Medford, OR: Rogue Valley International - Medford",119,22,7.88,0.18,6.4,0,7.54,0,0,1034,334,10,257,0,433
+2024,3,G7,GoJet Airlines LLC d/b/a United Express,OMA,"Omaha, NE: Eppley Airfield",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,3,MQ,Envoy Air,EVV,"Evansville, IN: Evansville Regional",62,9,3.66,1.02,2.09,0,2.24,1,0,511,252,32,56,0,171
+2024,4,OO,SkyWest Airlines Inc.,BIL,"Billings, MT: Billings Logan International",115,12,8.22,1.79,1.16,0,0.83,0,0,704,502,80,69,0,53
+2024,4,AA,American Airlines Network,SAN,"San Diego, CA: San Diego International",735,177,57.53,7.4,47.64,0,64.42,6,2,10641,4330,721,1562,0,4028
+2024,4,B6,JetBlue Airways,ROC,"Rochester, NY: Frederick Douglass Grtr Rochester International",30,11,3.09,0,1.1,0,6.81,1,0,644,157,0,55,0,432
+2024,4,NK,Spirit Airlines,BOS,"Boston, MA: Logan International",648,154,35.29,4.12,83.8,0,30.79,14,0,11538,3759,283,5121,0,2375
+2024,4,AA,American Airlines Network,LBB,"Lubbock, TX: Lubbock Preston Smith International",30,13,5.57,2.18,2.29,0.65,2.31,0,0,2110,1519,322,98,13,158
+2024,4,NK,Spirit Airlines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",839,170,47.7,2.58,82.88,3.63,33.22,2,0,10580,3693,193,4492,123,2079
+2024,4,QX,Horizon Air,FCA,"Kalispell, MT: Glacier Park International",79,5,2,0,0.92,0.38,1.7,0,0,193,97,0,30,8,58
+2024,4,PT,Piedmont Airlines,PVD,"Providence, RI: Rhode Island Tf Green International",12,1,0,0.09,0.42,0,0.49,0,0,45,0,4,19,0,22
+2024,4,B6,JetBlue Airways,DTW,"Detroit, MI: Detroit Metro Wayne County",120,23,10.74,0.12,6.94,0,5.21,1,0,1865,759,39,557,0,510
+2024,4,B6,JetBlue Airways,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",30,9,1.53,0,5.63,0.74,1.1,1,0,449,73,0,308,20,48
+2024,4,WN,Southwest Airlines,RIC,"Richmond, VA: Richmond International",150,30,11.24,0,5.27,0,13.49,0,1,1384,433,0,149,0,802
+2024,4,OO,SkyWest Airlines Inc.,MOT,"Minot, ND: Minot International",150,16,9,2.96,1.04,0,3,0,0,1920,903,127,90,0,800
+2024,4,MQ,Envoy Air,ORF,"Norfolk, VA: Norfolk International",31,6,1.68,0.63,3.68,0,0,0,0,170,57,24,89,0,0
+2024,4,MQ,Envoy Air,MRY,"Monterey, CA: Monterey Regional",27,2,1.03,0,0,0,0.97,0,0,208,39,0,0,0,169
+2024,4,YX,Republic Airline,SDF,"Louisville, KY: Louisville Muhammad Ali International",508,57,17.42,0.08,20.28,0,19.22,3,0,3676,1142,10,1030,0,1494
+2024,4,OO,SkyWest Airlines Inc.,SAT,"San Antonio, TX: San Antonio International",106,8,1.57,1,4.43,0,1,1,0,341,42,76,186,0,37
+2024,4,ZW,Air Wisconsin Airlines Corp,MKE,"Milwaukee, WI: General Mitchell International",130,29,8.42,0.23,5.56,0,14.79,0,1,2194,596,34,203,0,1361
+2024,4,WN,Southwest Airlines,CMH,"Columbus, OH: John Glenn Columbus International",1021,226,83.1,1.25,27.71,1.01,112.93,3,1,12040,4114,207,952,21,6746
+2024,4,YX,Republic Airline,ALB,"Albany, NY: Albany International",60,4,2,0,1,0,1,2,0,122,92,0,15,0,15
+2024,4,NK,Spirit Airlines,SJC,"San Jose, CA: Norman Y. Mineta San Jose International",115,14,1.68,0,8.99,0,3.33,0,0,819,120,0,506,0,193
+2024,4,UA,United Air Lines Network,BIL,"Billings, MT: Billings Logan International",60,10,1.09,0,2.69,0,6.22,0,1,511,33,0,148,0,330
+2024,4,UA,United Air Lines Network,BTV,"Burlington, VT: Burlington International",60,12,3.21,1.28,0.72,0,6.79,1,0,714,193,90,39,0,392
+2024,4,OH,PSA Airlines Inc.,PIA,"Peoria, IL: General Downing - Peoria International",60,18,5.62,0.31,4.67,0,7.4,0,0,680,243,8,145,0,284
+2024,4,UA,United Air Lines Network,GRR,"Grand Rapids, MI: Gerald R. Ford International",120,26,8.2,0,8.19,0,9.61,0,0,1185,311,0,252,0,622
+2024,4,G4,Allegiant Air,BGR,"Bangor, ME: Bangor International",50,4,2.78,0,1.22,0,0,0,0,548,499,0,49,0,0
+2024,4,MQ,Envoy Air,SAV,"Savannah, GA: Savannah/Hilton Head International",86,12,1.88,0,6.65,0,3.47,0,0,411,47,0,176,0,188
+2024,4,G4,Allegiant Air,ALB,"Albany, NY: Albany International",56,8,3.47,0,2.86,0,1.67,0,0,1798,1285,0,352,0,161
+2024,4,AA,American Airlines Network,HDN,"Hayden, CO: Yampa Valley",4,2,1,0,0,0,1,0,0,39,22,0,0,0,17
+2024,4,UA,United Air Lines Network,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",485,101,35.22,1.1,26.39,0,38.3,2,0,4431,1648,48,978,0,1757
+2024,4,DL,Delta Air Lines Network,GNV,"Gainesville, FL: Gainesville Regional",131,12,6.61,0,2.12,0,3.27,0,0,663,338,0,193,0,132
+2024,4,DL,Delta Air Lines Network,GSO,"Greensboro/High Point, NC: Piedmont Triad International",198,21,10.44,0,2.65,0,7.91,0,0,664,352,0,54,0,258
+2024,4,PT,Piedmont Airlines,CLE,"Cleveland, OH: Cleveland-Hopkins International",33,8,0,1.75,2,0,4.25,0,0,759,0,168,140,0,451
+2024,4,YV,Mesa Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",64,10,4.07,0,3.56,0,2.38,0,0,662,402,0,100,0,160
+2024,4,AS,Alaska Airlines Network,MCI,"Kansas City, MO: Kansas City International",60,17,5.56,0,5.19,0,6.25,0,0,623,250,0,125,0,248
+2024,4,UA,United Air Lines Network,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",390,67,15.5,2.21,27.95,0,21.34,4,4,5266,983,350,2442,0,1491
+2024,4,YX,Republic Airline,SAV,"Savannah, GA: Savannah/Hilton Head International",66,6,0.46,1,2.21,0,2.33,0,0,325,10,52,125,0,138
+2024,4,PT,Piedmont Airlines,SCE,"State College, PA: University Park",87,10,2.15,0.05,2.09,0,5.71,0,0,579,142,4,128,0,305
+2024,4,WN,Southwest Airlines,RSW,"Fort Myers, FL: Southwest Florida International",694,138,47.06,3.76,35.43,0,51.76,4,1,9555,2953,317,2712,0,3573
+2024,4,AS,Alaska Airlines Network,JNU,"Juneau, AK: Juneau International",345,51,17.05,0.14,8.2,0,25.61,3,0,2462,877,18,279,0,1288
+2024,4,WN,Southwest Airlines,CLE,"Cleveland, OH: Cleveland-Hopkins International",419,91,44.11,0.17,10.26,0,36.45,0,2,4049,1807,32,313,0,1897
+2024,4,F9,Frontier Airlines,MDW,"Chicago, IL: Chicago Midway International",395,120,32.09,0.08,11.5,0,76.32,7,0,12987,3519,2,553,0,8913
+2024,4,AA,American Airlines Network,BOS,"Boston, MA: Logan International",1356,363,106.49,10.5,81.4,1.21,163.4,9,2,26280,6853,1174,3537,133,14583
+2024,4,WN,Southwest Airlines,LAS,"Las Vegas, NV: Harry Reid International",7243,1542,354.12,20.4,459.75,4.56,703.17,17,5,78440,18323,1564,19984,87,38482
+2024,4,F9,Frontier Airlines,DCA,"Washington, DC: Ronald Reagan Washington National",90,23,8.51,0,2.62,0,11.87,2,0,1573,639,0,102,0,832
+2024,4,NK,Spirit Airlines,ABQ,"Albuquerque, NM: Albuquerque International Sunport",39,8,0.36,0.41,5.58,0,1.64,1,0,242,12,7,159,0,64
+2024,4,OO,SkyWest Airlines Inc.,FWA,"Fort Wayne, IN: Fort Wayne International",202,53,36.77,4.95,6.88,0,4.39,2,1,4222,3341,271,344,0,266
+2024,4,QX,Horizon Air,ANC,"Anchorage, AK: Ted Stevens Anchorage International",289,41,8.85,2.72,14.53,0,14.89,10,0,2088,495,77,406,0,1110
+2024,4,OH,PSA Airlines Inc.,ROC,"Rochester, NY: Frederick Douglass Grtr Rochester International",49,6,1.27,0.72,2.04,0,1.97,0,1,507,64,181,78,0,184
+2024,4,B6,JetBlue Airways,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",240,55,25.9,1,8.08,0.08,19.94,5,1,4437,1779,264,286,4,2104
+2024,4,AA,American Airlines Network,MYR,"Myrtle Beach, SC: Myrtle Beach International",106,37,14.32,0.34,6.79,0,15.55,0,0,2560,612,12,274,0,1662
+2024,4,OO,SkyWest Airlines Inc.,PDX,"Portland, OR: Portland International",1032,143,58.38,6.07,30.71,0,47.85,2,1,7321,3169,311,1200,0,2641
+2024,4,MQ,Envoy Air,RSW,"Fort Myers, FL: Southwest Florida International",30,6,1,0.73,2.28,0,1.99,1,0,643,21,50,224,0,348
+2024,4,NK,Spirit Airlines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",536,82,30.37,0.15,30.27,1.84,19.36,5,0,5408,1755,10,2168,35,1440
+2024,4,DL,Delta Air Lines Network,STL,"St. Louis, MO: St Louis Lambert International",430,64,35.93,2.53,13.12,0,12.42,0,1,3810,2355,171,545,0,739
+2024,4,AS,Alaska Airlines Network,MSP,"Minneapolis, MN: Minneapolis-St Paul International",77,17,6.72,0,4.92,0,5.36,0,0,661,426,0,99,0,136
+2024,4,WN,Southwest Airlines,PHL,"Philadelphia, PA: Philadelphia International",390,94,34.43,0,12.51,0.99,46.07,0,1,4634,1603,0,436,90,2505
+2024,4,MQ,Envoy Air,ROC,"Rochester, NY: Frederick Douglass Grtr Rochester International",50,11,1.06,0,5.6,0,4.33,0,0,378,24,0,176,0,178
+2024,4,DL,Delta Air Lines Network,ALB,"Albany, NY: Albany International",86,17,8.56,0,4.08,0,4.36,0,0,695,406,0,117,0,172
+2024,4,ZW,Air Wisconsin Airlines Corp,CMH,"Columbus, OH: John Glenn Columbus International",3,1,0,0.1,0,0,0.9,0,0,21,0,2,0,0,19
+2024,4,9E,Endeavor Air Inc.,MKE,"Milwaukee, WI: General Mitchell International",118,13,5.79,0.22,3.15,0,3.84,0,0,895,442,20,239,0,194
+2024,4,B6,JetBlue Airways,SYR,"Syracuse, NY: Syracuse Hancock International",91,20,9.76,0.15,2.25,0,7.84,2,0,1436,565,18,120,0,733
+2024,4,WN,Southwest Airlines,CLT,"Charlotte, NC: Charlotte Douglas International",273,64,19.16,0.04,13.92,0,30.89,0,1,3293,1157,11,429,0,1696
+2024,4,MQ,Envoy Air,BUF,"Buffalo, NY: Buffalo Niagara International",81,6,0,0,3.2,0,2.8,0,0,248,0,0,120,0,128
+2024,4,OO,SkyWest Airlines Inc.,GPT,"Gulfport/Biloxi, MS: Gulfport-Biloxi International",30,6,2.61,1.77,1.62,0,0,1,0,385,187,78,120,0,0
+2024,4,OO,SkyWest Airlines Inc.,BNA,"Nashville, TN: Nashville International",293,44,25.94,6.75,6.71,0,4.6,1,1,5809,4526,703,293,0,287
+2024,4,OH,PSA Airlines Inc.,MDT,"Harrisburg, PA: Harrisburg International",61,10,5.06,0.53,1.11,0,3.3,0,0,859,436,21,23,0,379
+2024,4,YX,Republic Airline,EWR,"Newark, NJ: Newark Liberty International",1797,233,30.86,10.29,140.71,0,51.15,29,11,15795,1690,1457,8234,0,4414
+2024,4,9E,Endeavor Air Inc.,CWA,"Mosinee, WI: Central Wisconsin",60,2,0,0.97,0.03,0,1,0,0,146,0,65,2,0,79
+2024,4,YV,Mesa Airlines Inc.,SDF,"Louisville, KY: Louisville Muhammad Ali International",107,23,5.41,1,4.06,0,12.54,0,0,1654,332,69,187,0,1066
+2024,4,UA,United Air Lines Network,RDM,"Bend/Redmond, OR: Roberts Field",90,16,5.53,0.26,5.21,0,5,0,1,868,216,33,216,0,403
+2024,4,MQ,Envoy Air,ABI,"Abilene, TX: Abilene Regional",145,35,3.25,4.46,8.32,0,18.97,3,0,2177,187,334,423,0,1233
+2024,4,OO,SkyWest Airlines Inc.,DEC,"Decatur, IL: Decatur Airport",81,17,7.88,2.45,0.68,0,5.99,0,0,1142,559,102,42,0,439
+2024,4,G4,Allegiant Air,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",23,6,1,1,2.04,0,1.96,0,0,340,67,88,66,0,119
+2024,4,G4,Allegiant Air,SDF,"Louisville, KY: Louisville Muhammad Ali International",53,14,5.6,0,4.08,1.53,2.78,0,0,390,94,0,158,23,115
+2024,4,YX,Republic Airline,BOS,"Boston, MA: Logan International",2270,390,95.42,12.07,221.32,1,60.19,12,1,26228,7546,759,12304,16,5603
+2024,4,AA,American Airlines Network,BNA,"Nashville, TN: Nashville International",671,184,63.8,9.22,36.36,0.26,74.36,7,1,11577,4110,741,1312,14,5400
+2024,4,G4,Allegiant Air,MDT,"Harrisburg, PA: Harrisburg International",74,7,3.46,0,1.55,0,1.99,1,0,959,375,0,509,0,75
+2024,4,DL,Delta Air Lines Network,CAE,"Columbia, SC: Columbia Metropolitan",109,14,8.18,0,2.44,0,3.38,0,0,495,304,0,58,0,133
+2024,4,QX,Horizon Air,BUR,"Burbank, CA: Bob Hope",34,4,1,0,2.03,0,0.97,0,0,178,17,0,54,0,107
+2024,4,DL,Delta Air Lines Network,TLH,"Tallahassee, FL: Tallahassee International",147,16,9.48,0.96,3.88,0,1.68,0,1,928,545,110,96,0,177
+2024,4,AS,Alaska Airlines Network,PDX,"Portland, OR: Portland International",1269,259,51.29,4.07,71.3,0.82,131.53,3,1,15067,3073,433,2623,30,8908
+2024,4,G7,GoJet Airlines LLC d/b/a United Express,ORF,"Norfolk, VA: Norfolk International",8,2,0.05,0,1,0,0.95,0,1,201,9,0,23,0,169
+2024,4,ZW,Air Wisconsin Airlines Corp,MSN,"Madison, WI: Dane County Regional-Truax Field",3,1,0,1,0,0,0,0,0,20,0,20,0,0,0
+2024,4,OO,SkyWest Airlines Inc.,PRC,"Prescott, AZ: Prescott Regional Ernest A Love Field",60,11,9.56,0,0.63,0,0.82,0,0,2648,2586,0,22,0,40
+2024,4,AA,American Airlines Network,MFE,"Mission/McAllen/Edinburg, TX: McAllen International",142,47,13.28,2.96,7.57,0.4,22.79,2,0,3433,1076,207,447,27,1676
+2024,4,C5,CommuteAir LLC dba CommuteAir,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",90,12,5.01,0,2.87,0,4.12,0,0,702,277,0,123,0,302
+2024,4,OO,SkyWest Airlines Inc.,BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",72,13,6.62,0.7,3.07,0.21,2.4,0,1,368,168,28,103,4,65
+2024,4,G4,Allegiant Air,HOU,"Houston, TX: William P Hobby",35,2,1.69,0,0.1,0,0.21,0,0,100,75,0,8,0,17
+2024,4,OO,SkyWest Airlines Inc.,MSO,"Missoula, MT: Missoula Montana",71,6,4.46,1,0.54,0,0,0,0,720,183,523,14,0,0
+2024,4,AA,American Airlines Network,MSN,"Madison, WI: Dane County Regional-Truax Field",179,75,19.08,4.76,11.97,0,39.2,1,0,4960,1149,371,576,0,2864
+2024,4,MQ,Envoy Air,BDL,"Hartford, CT: Bradley International",98,16,4.22,1.16,5.57,0,5.05,0,0,550,127,87,174,0,162
+2024,4,G4,Allegiant Air,MYR,"Myrtle Beach, SC: Myrtle Beach International",66,12,4.84,1,1.49,1,3.68,2,0,736,341,100,50,20,225
+2024,4,UA,United Air Lines Network,MDT,"Harrisburg, PA: Harrisburg International",30,9,3.12,0,2.49,0,3.39,0,1,447,111,0,67,0,269
+2024,4,MQ,Envoy Air,TXK,"Texarkana, AR: Texarkana Regional-Webb Field",60,19,6.04,2.84,2.22,0,7.91,1,0,1374,363,138,189,0,684
+2024,4,G4,Allegiant Air,CKB,"Clarksburg/Fairmont, WV: North Central West Virginia",17,3,2,0,0.06,0.94,0,0,0,99,81,0,1,17,0
+2024,4,YX,Republic Airline,AGS,"Augusta, GA: Augusta Regional at Bush Field",31,9,1.19,0,7.25,0,0.57,0,0,307,24,0,252,0,31
+2024,4,OH,PSA Airlines Inc.,STL,"St. Louis, MO: St Louis Lambert International",44,3,0.02,0.97,0,0,2.01,0,0,448,4,239,0,0,205
+2024,4,OO,SkyWest Airlines Inc.,LEX,"Lexington, KY: Blue Grass",210,33,24.31,1,3.46,0,4.23,2,0,2105,1895,24,99,0,87
+2024,4,AA,American Airlines Network,EWR,"Newark, NJ: Newark Liberty International",541,176,44.24,4.64,62.71,0.85,63.56,10,3,10535,2091,671,2824,44,4905
+2024,4,UA,United Air Lines Network,MKE,"Milwaukee, WI: General Mitchell International",57,14,3.92,0,4.14,0,5.94,0,0,1372,243,0,118,0,1011
+2024,5,AA,American Airlines Network,BUF,"Buffalo, NY: Buffalo Niagara International",122,52,19.36,1.88,6.85,0,23.92,4,0,4240,1584,309,282,0,2065
+2024,5,MQ,Envoy Air,HHH,"Hilton Head, SC: Hilton Head Airport",127,44,11.28,1.75,15.76,0,15.21,1,0,2996,823,174,804,0,1195
+2024,5,OO,SkyWest Airlines Inc.,SHV,"Shreveport, LA: Shreveport Regional",9,3,0.71,1,1.29,0,0,0,0,232,22,182,28,0,0
+2024,5,OO,SkyWest Airlines Inc.,PWM,"Portland, ME: Portland International Jetport",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,5,AA,American Airlines Network,SEA,"Seattle, WA: Seattle/Tacoma International",479,216,75.42,14.08,51.74,1.61,73.15,26,2,17012,4971,1745,2892,109,7295
+2024,5,ZW,Air Wisconsin Airlines Corp,MHK,"Manhattan/Ft. Riley, KS: Manhattan Regional",53,23,1.22,1.57,4.3,0,15.91,1,0,1488,37,168,279,0,1004
+2024,5,MQ,Envoy Air,BRO,"Brownsville, TX: Brownsville South Padre Island International",114,44,11.21,4.39,14.85,0,13.55,6,0,2769,623,330,570,0,1246
+2024,5,NK,Spirit Airlines,TPA,"Tampa, FL: Tampa International",424,91,26.22,4.38,38.22,0.13,22.04,7,1,6811,1767,566,2738,3,1737
+2024,5,AA,American Airlines Network,SLC,"Salt Lake City, UT: Salt Lake City International",334,150,44.92,9.59,24.98,0,70.51,16,0,11148,3338,1334,1197,0,5279
+2024,5,G4,Allegiant Air,CHS,"Charleston, SC: Charleston AFB/International",21,3,0,0,0.18,0,2.82,0,0,162,0,0,13,0,149
+2024,5,DL,Delta Air Lines Network,IND,"Indianapolis, IN: Indianapolis International",389,74,37.9,2.56,15.23,0,18.31,0,1,4053,2128,118,612,0,1195
+2024,5,DL,Delta Air Lines Network,CMH,"Columbus, OH: John Glenn Columbus International",277,51,21.67,4.03,10.24,0,15.06,2,0,3118,1130,314,515,0,1159
+2024,5,OH,PSA Airlines Inc.,ROA,"Roanoke, VA: Roanoke Blacksburg Regional",22,10,2.4,0,7.46,0,0.14,0,0,372,168,0,198,0,6
+2024,5,MQ,Envoy Air,LSE,"La Crosse, WI: La Crosse Regional",51,24,1.95,1.73,9.91,0,10.41,1,0,1826,164,295,400,0,967
+2024,5,NK,Spirit Airlines,BDL,"Hartford, CT: Bradley International",51,7,2.76,0.65,0.97,0,2.62,0,0,231,77,30,33,0,91
+2024,5,G4,Allegiant Air,MSO,"Missoula, MT: Missoula Montana",27,2,1,0,0,0,1,0,0,121,75,0,0,0,46
+2024,5,YX,Republic Airline,LEX,"Lexington, KY: Blue Grass",28,3,0.82,0.2,1.64,0,0.33,1,0,218,68,11,112,0,27
+2024,5,DL,Delta Air Lines Network,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",914,198,80,2.98,71.87,0,43.16,0,1,8965,4258,193,2599,0,1915
+2024,5,OO,SkyWest Airlines Inc.,GRR,"Grand Rapids, MI: Gerald R. Ford International",171,42,22.4,3.9,8.75,1,5.95,5,0,3115,1471,297,410,35,902
+2024,5,G4,Allegiant Air,PSC,"Pasco/Kennewick/Richland, WA: Tri Cities",23,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,5,ZW,Air Wisconsin Airlines Corp,IND,"Indianapolis, IN: Indianapolis International",4,3,1,0,1.57,0,0.43,0,0,861,818,0,33,0,10
+2024,5,OH,PSA Airlines Inc.,SRQ,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",8,2,0.18,0,0,0,1.82,0,0,152,12,0,0,0,140
+2024,5,AS,Alaska Airlines Network,PSC,"Pasco/Kennewick/Richland, WA: Tri Cities",30,12,3.85,0,3.64,0,4.51,0,0,325,154,0,76,0,95
+2024,5,OO,SkyWest Airlines Inc.,RIC,"Richmond, VA: Richmond International",95,28,23.55,1.5,2.95,0,0,0,0,1897,1743,55,99,0,0
+2024,5,AA,American Airlines Network,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",989,411,125.64,15.36,53.2,2.14,214.66,26,1,37320,11711,1687,2513,109,21300
+2024,5,OO,SkyWest Airlines Inc.,LBB,"Lubbock, TX: Lubbock Preston Smith International",126,36,19.69,5.81,5.13,0,5.37,7,2,2258,1088,491,292,0,387
+2024,5,MQ,Envoy Air,MLI,"Moline, IL: Quad Cities International",62,21,3.03,2,3.26,0.51,12.2,4,0,1735,142,256,134,23,1180
+2024,5,B6,JetBlue Airways,PWM,"Portland, ME: Portland International Jetport",31,7,4.04,0,0.34,0,2.62,1,0,539,181,0,13,0,345
+2024,5,AS,Alaska Airlines Network,IND,"Indianapolis, IN: Indianapolis International",55,18,4.87,0,4.5,0,8.64,0,0,736,232,0,161,0,343
+2024,5,YX,Republic Airline,SYR,"Syracuse, NY: Syracuse Hancock International",89,12,4.1,0.99,4.22,0,2.69,2,0,1617,711,238,341,0,327
+2024,5,9E,Endeavor Air Inc.,BGR,"Bangor, ME: Bangor International",89,19,5.74,0.03,2.65,0,10.58,3,0,1972,1024,5,208,0,735
+2024,5,G4,Allegiant Air,BIS,"Bismarck/Mandan, ND: Bismarck Municipal",50,1,0,1,0,0,0,0,0,21,0,21,0,0,0
+2024,5,UA,United Air Lines Network,PDX,"Portland, OR: Portland International",553,131,46.87,7.6,23.45,0,53.08,5,0,11754,4135,879,1168,0,5572
+2024,5,C5,CommuteAir LLC dba CommuteAir,GPT,"Gulfport/Biloxi, MS: Gulfport-Biloxi International",71,19,5.84,2.61,8,0,2.55,9,0,2029,583,838,271,0,337
+2024,5,UA,United Air Lines Network,SAV,"Savannah, GA: Savannah/Hilton Head International",127,26,4.52,0.48,7.74,0,13.26,0,2,1795,194,31,368,0,1202
+2024,5,UA,United Air Lines Network,MIA,"Miami, FL: Miami International",518,144,38.9,10.82,42.64,0,51.65,7,1,12623,3046,1483,2888,0,5206
+2024,5,B6,JetBlue Airways,ONT,"Ontario, CA: Ontario International",31,10,5.94,0,2.66,0,1.4,0,0,447,339,0,74,0,34
+2024,5,UA,United Air Lines Network,ABQ,"Albuquerque, NM: Albuquerque International Sunport",157,53,17.12,1.35,10.03,0,24.49,1,0,3351,971,113,438,0,1829
+2024,5,OO,SkyWest Airlines Inc.,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",135,55,33.26,11.28,10.46,0,0,2,3,6787,4394,1713,680,0,0
+2024,5,OH,PSA Airlines Inc.,AVL,"Asheville, NC: Asheville Regional",207,54,15.17,3.11,15.98,0.56,19.19,1,0,4555,1540,347,771,14,1883
+2024,5,YV,Mesa Airlines Inc.,GJT,"Grand Junction, CO: Grand Junction Regional",22,3,0.36,0,1.01,0,1.63,2,0,496,109,0,25,0,362
+2024,5,YV,Mesa Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",103,20,6.81,3.85,6.06,0,3.28,4,2,1379,304,542,311,0,222
+2024,5,OO,SkyWest Airlines Inc.,SBA,"Santa Barbara, CA: Santa Barbara Municipal",172,18,11.74,0,4.26,0,2,0,0,1411,781,0,571,0,59
+2024,5,AS,Alaska Airlines Network,BUR,"Burbank, CA: Bob Hope",172,49,14.13,0.14,15.67,0,19.06,1,0,1848,616,4,403,0,825
+2024,5,DL,Delta Air Lines Network,ELP,"El Paso, TX: El Paso International",61,24,13.47,0.43,8.12,0,1.97,1,0,1287,746,40,279,0,222
+2024,5,9E,Endeavor Air Inc.,PVD,"Providence, RI: Rhode Island Tf Green International",37,4,0.92,0.17,0.21,0,2.7,0,0,285,24,16,5,0,240
+2024,5,OO,SkyWest Airlines Inc.,ECP,"Panama City, FL: Northwest Florida Beaches International",35,7,1.52,0,3.48,0,2,1,1,371,163,0,144,0,64
+2024,5,AA,American Airlines Network,JAC,"Jackson, WY: Jackson Hole",57,11,2.66,0.93,3.51,0,3.9,3,1,849,65,65,174,0,545
+2024,5,MQ,Envoy Air,FSM,"Fort Smith, AR: Fort Smith Regional",84,30,8.53,4.65,6.59,0,10.23,5,1,1665,411,325,189,0,740
+2024,5,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",414,161,21.33,0.94,125.41,0.71,12.6,0,2,8185,1525,97,5451,52,1060
+2024,5,AA,American Airlines Network,BUR,"Burbank, CA: Bob Hope",124,33,12.15,1.39,6.94,0,12.52,7,1,2115,815,91,227,0,982
+2024,5,PT,Piedmont Airlines,SDF,"Louisville, KY: Louisville Muhammad Ali International",28,6,1,0,2.29,0,2.71,0,0,178,15,0,50,0,113
+2024,5,YX,Republic Airline,AVL,"Asheville, NC: Asheville Regional",97,7,3.01,0,3.09,0,0.9,3,1,417,195,0,169,0,53
+2024,5,AA,American Airlines Network,JAX,"Jacksonville, FL: Jacksonville International",725,295,98.01,12.84,40.08,0.44,143.63,26,2,28324,8148,1217,1811,28,17120
+2024,5,OO,SkyWest Airlines Inc.,SGU,"St. George, UT: St George Regional",231,21,12.34,4.27,2.39,0,2,1,0,1206,650,345,77,0,134
+2024,5,DL,Delta Air Lines Network,BIL,"Billings, MT: Billings Logan International",62,13,5.5,0.79,0.67,0,6.05,0,0,1364,1001,22,23,0,318
+2024,5,OO,SkyWest Airlines Inc.,PIT,"Pittsburgh, PA: Pittsburgh International",62,10,7.99,0.67,1.34,0,0,0,0,521,476,14,31,0,0
+2024,5,AA,American Airlines Network,PSP,"Palm Springs, CA: Palm Springs International",188,67,20.39,2.32,13.56,0,30.73,9,0,5530,2077,246,488,0,2719
+2024,5,NK,Spirit Airlines,MEM,"Memphis, TN: Memphis International",84,19,7.3,0,4.68,0,7.02,1,0,1103,313,0,256,0,534
+2024,5,9E,Endeavor Air Inc.,AVL,"Asheville, NC: Asheville Regional",58,9,0.97,0.09,1.74,0,6.21,0,0,1277,164,15,363,0,735
+2024,5,F9,Frontier Airlines,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",87,19,3.15,0,3.46,0,12.38,4,0,1230,151,0,125,0,954
+2024,5,9E,Endeavor Air Inc.,AUS,"Austin, TX: Austin - Bergstrom International",57,17,1.76,0,15.24,0,0,0,1,670,51,0,619,0,0
+2024,5,OO,SkyWest Airlines Inc.,CHO,"Charlottesville, VA: Charlottesville Albemarle",61,25,6.86,1,14.06,0,3.08,2,0,1780,572,192,877,0,139
+2024,5,AA,American Airlines Network,STS,"Santa Rosa, CA: Charles M. Schulz - Sonoma County",26,10,3.99,0.85,2.94,0,2.23,0,0,1035,344,128,287,0,276
+2024,5,NK,Spirit Airlines,CLE,"Cleveland, OH: Cleveland-Hopkins International",112,27,8.05,0.97,8.09,1.18,8.71,0,0,1719,407,28,432,68,784
+2024,5,UA,United Air Lines Network,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",326,79,29.85,2.95,15.36,0,30.83,3,0,5363,2053,211,699,0,2400
+2024,5,YV,Mesa Airlines Inc.,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",84,20,8.51,1.84,4.98,0,4.67,1,0,1229,248,176,266,0,539
+2024,5,YX,Republic Airline,PWM,"Portland, ME: Portland International Jetport",371,33,11.54,0.33,8.75,0,12.38,13,2,1532,528,16,281,0,707
+2024,5,B6,JetBlue Airways,SJU,"San Juan, PR: Luis Munoz Marin International",824,191,105.86,0.64,24.39,0,60.11,2,2,13255,6572,118,1089,0,5476
+2024,5,B6,JetBlue Airways,JFK,"New York, NY: John F. Kennedy International",3191,800,269.32,10.42,217.11,1.67,301.47,30,13,66709,22236,1128,14256,53,29036
+2024,5,YV,Mesa Airlines Inc.,ELP,"El Paso, TX: El Paso International",176,64,27.63,5.83,6.85,0,23.69,10,1,7367,3082,702,349,0,3234
+2024,5,B6,JetBlue Airways,SYR,"Syracuse, NY: Syracuse Hancock International",93,23,9.7,0.31,3.32,0,9.67,1,0,2059,904,51,116,0,988
+2024,5,NK,Spirit Airlines,ROC,"Rochester, NY: Frederick Douglass Grtr Rochester International",31,2,0.18,0,1.52,0,0.3,0,0,138,10,0,103,0,25
+2024,5,MQ,Envoy Air,BIS,"Bismarck/Mandan, ND: Bismarck Municipal",57,17,1.96,3.68,4.29,0,7.06,0,0,1342,120,380,262,0,580
+2024,5,YV,Mesa Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",29,4,0.68,0.82,1.18,0,1.32,3,0,393,77,50,113,0,153
+2024,5,MQ,Envoy Air,TYS,"Knoxville, TN: McGhee Tyson",115,30,6.87,2.64,9.02,0,11.47,0,3,1935,293,256,436,0,950
+2024,5,UA,United Air Lines Network,EGE,"Eagle, CO: Eagle County Regional",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,5,UA,United Air Lines Network,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",690,171,47.72,12.94,51.62,0,58.72,3,1,14564,3237,1691,3988,0,5648
+2024,5,HA,Hawaiian Airlines Network,BOS,"Boston, MA: Logan International",20,8,6.19,0.07,0,0.9,0.85,0,0,609,313,17,0,233,46
+2024,5,G4,Allegiant Air,MDW,"Chicago, IL: Chicago Midway International",48,10,3.57,0,3.28,0,3.15,1,1,366,103,0,169,0,94
+2024,5,UA,United Air Lines Network,RNO,"Reno, NV: Reno/Tahoe International",175,48,15.03,1.19,7.89,0,23.89,1,0,3396,843,134,302,0,2117
+2024,5,OO,SkyWest Airlines Inc.,GGG,"Longview, TX: East Texas Regional",10,1,0,0.83,0.17,0,0,0,0,23,0,19,4,0,0
+2024,5,OH,PSA Airlines Inc.,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",189,69,16.43,3.8,18.11,0,30.66,1,0,5795,1552,348,1054,0,2841
+2024,5,AA,American Airlines Network,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",119,61,19.38,3.67,7.7,0,30.25,7,0,6079,2183,356,462,0,3078
+2024,5,NK,Spirit Airlines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",106,35,11.45,0,16.7,0,6.85,0,0,2348,673,0,1314,0,361
+2024,5,YX,Republic Airline,ITH,"Ithaca/Cortland, NY: Ithaca Tompkins International",60,6,0.1,0.58,3.61,0,1.71,1,0,375,8,105,149,0,113
+2024,5,AS,Alaska Airlines Network,ORD,"Chicago, IL: Chicago O'Hare International",328,92,27.75,1.93,49.24,0.06,13.03,0,2,4520,1477,204,2285,1,553
+2024,5,UA,United Air Lines Network,DSM,"Des Moines, IA: Des Moines International",180,69,24.01,2.65,17.4,0,24.94,2,4,5578,1463,723,853,0,2539
+2024,5,OO,SkyWest Airlines Inc.,PIH,"Pocatello, ID: Pocatello Regional",62,8,6.74,0.9,0.37,0,0,0,0,610,461,120,29,0,0
+2024,5,OO,SkyWest Airlines Inc.,LWS,"Lewiston, ID: Lewiston Nez Perce County",93,13,6.19,4,1.81,1,0,0,0,642,367,165,68,42,0
+2024,5,AS,Alaska Airlines Network,MSP,"Minneapolis, MN: Minneapolis-St Paul International",93,21,10,0,5.39,0,5.61,0,0,943,512,0,175,0,256
+2024,5,UA,United Air Lines Network,MSO,"Missoula, MT: Missoula Montana",80,19,4.45,0.88,4.72,0,8.94,0,1,1140,194,118,190,0,638
+2024,5,F9,Frontier Airlines,TTN,"Trenton, NJ: Trenton Mercer",172,47,13.7,0.19,12.99,0,20.12,0,2,3315,778,18,632,0,1887
+2024,5,F9,Frontier Airlines,AUS,"Austin, TX: Austin - Bergstrom International",56,17,5.44,0.08,4.21,0,7.26,2,0,1229,477,5,205,0,542
+2024,5,DL,Delta Air Lines Network,DCA,"Washington, DC: Ronald Reagan Washington National",778,205,78.4,3.48,71.38,0.56,51.18,1,3,12140,5208,232,3072,44,3584
+2024,5,UA,United Air Lines Network,BUR,"Burbank, CA: Bob Hope",158,39,10.51,1,8.1,0,19.39,1,0,1984,395,82,305,0,1202
+2024,5,OO,SkyWest Airlines Inc.,RDM,"Bend/Redmond, OR: Roberts Field",308,41,24.94,3.35,7.98,0,4.73,0,0,1879,1232,106,380,0,161
+2024,5,YV,Mesa Airlines Inc.,DSM,"Des Moines, IA: Des Moines International",9,3,0.3,0,1.11,0,1.59,0,0,235,30,0,60,0,145
+2024,5,DL,Delta Air Lines Network,LEX,"Lexington, KY: Blue Grass",170,33,13.6,0.98,8.05,0,10.36,2,0,2204,1014,49,566,0,575
+2024,5,QX,Horizon Air,PDX,"Portland, OR: Portland International",951,150,38.64,0.26,48.85,0,62.25,2,0,6911,2920,6,1478,0,2507
+2024,6,AA,American Airlines Network,JFK,"New York, NY: John F. Kennedy International",1135,347,96.92,17.22,117.93,0.29,114.64,28,13,38827,13526,2377,8623,14,14287
+2024,6,DL,Delta Air Lines Network,MCO,"Orlando, FL: Orlando International",1801,496,156.47,13.11,196.78,0.7,128.94,7,17,38642,12720,1386,14983,42,9511
+2024,6,OO,SkyWest Airlines Inc.,FCA,"Kalispell, MT: Glacier Park International",188,22,16.56,0.06,3.38,0,2,0,0,983,802,1,92,0,88
+2024,6,OH,PSA Airlines Inc.,SGF,"Springfield, MO: Springfield-Branson National",86,18,2.85,1.12,8.14,0,5.88,0,0,1077,94,158,244,0,581
+2024,6,NK,Spirit Airlines,ORF,"Norfolk, VA: Norfolk International",89,25,4.46,1.11,13.28,0.21,5.94,6,1,2425,327,108,1284,21,685
+2024,6,WN,Southwest Airlines,PNS,"Pensacola, FL: Pensacola International",277,62,18.03,0.44,8.21,0,35.31,0,0,2661,970,28,250,0,1413
+2024,6,OO,SkyWest Airlines Inc.,ASE,"Aspen, CO: Aspen Pitkin County Sardy Field",696,150,76.31,11.49,22.61,0,39.59,47,12,11555,5018,700,1708,0,4129
+2024,6,OH,PSA Airlines Inc.,LAN,"Lansing, MI: Capital Region International",25,6,0.3,0,3.1,0,2.59,0,0,270,13,0,138,0,119
+2024,6,NK,Spirit Airlines,IND,"Indianapolis, IN: Indianapolis International",163,48,13.57,2.55,17.17,0,14.71,4,0,3320,716,136,1430,0,1038
+2024,6,OO,SkyWest Airlines Inc.,MEI,"Meridian, MS: Key Field",51,12,6,0.72,0.48,0,4.81,1,0,704,258,76,50,0,320
+2024,6,AS,Alaska Airlines Network,BOI,"Boise, ID: Boise Air Terminal",30,4,1.04,0,0,0,2.96,0,0,129,29,0,0,0,100
+2024,6,9E,Endeavor Air Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",1869,207,59.5,10.25,45.2,0,92.05,3,0,14118,6354,536,1704,0,5524
+2024,6,PT,Piedmont Airlines,FLO,"Florence, SC: Florence Regional",60,5,0.38,0,1.1,0,3.52,1,0,202,6,0,55,0,141
+2024,6,OO,SkyWest Airlines Inc.,DEN,"Denver, CO: Denver International",5564,1171,557.11,89.34,277.88,0.54,246.13,68,35,100728,46746,11573,19100,14,23295
+2024,6,AS,Alaska Airlines Network,WRG,"Wrangell, AK: Wrangell Airport",60,12,2.22,0,1.14,0,8.65,0,0,446,74,0,29,0,343
+2024,6,F9,Frontier Airlines,EWR,"Newark, NJ: Newark Liberty International",5,2,1.12,0,0.88,0,0,0,0,42,20,0,22,0,0
+2024,6,G4,Allegiant Air,RFD,"Rockford, IL: Chicago/Rockford International",73,11,4.44,1.85,1.36,0,3.34,1,0,1131,225,491,63,0,352
+2024,6,YX,Republic Airline,HYA,"Hyannis, MA: Cape Cod Gateway",35,5,1,0,1.64,0,2.36,0,2,183,15,0,64,0,104
+2024,6,YX,Republic Airline,OMA,"Omaha, NE: Eppley Airfield",75,13,2.8,1.42,4.05,0,4.72,1,2,970,114,208,267,0,381
+2024,6,AA,American Airlines Network,MCI,"Kansas City, MO: Kansas City International",563,226,85.02,6.93,28.24,0,105.81,8,0,16094,5151,585,1452,0,8906
+2024,6,AA,American Airlines Network,SJU,"San Juan, PR: Luis Munoz Marin International",310,131,44.09,10.11,27.57,1,48.23,6,2,11642,3704,2976,1305,34,3623
+2024,6,WN,Southwest Airlines,JAN,"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",125,48,17.94,0,4.48,1,24.57,0,0,2570,941,0,232,22,1375
+2024,6,AA,American Airlines Network,PDX,"Portland, OR: Portland International",356,141,49.37,5.46,20.99,0.59,64.59,5,0,11639,4751,585,932,27,5344
+2024,6,MQ,Envoy Air,TXK,"Texarkana, AR: Texarkana Regional-Webb Field",56,26,6.9,2.02,1.46,1,14.62,1,0,1827,229,162,69,31,1336
+2024,6,MQ,Envoy Air,PIT,"Pittsburgh, PA: Pittsburgh International",15,5,2.53,0,0.41,0,2.05,1,0,266,135,0,8,0,123
+2024,6,B6,JetBlue Airways,PSE,"Ponce, PR: Mercedita",60,25,9.95,1.52,4.01,0.24,9.28,2,0,2622,933,210,342,29,1108
+2024,6,C5,CommuteAir LLC dba CommuteAir,BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",33,10,6.51,1,0.51,0,1.98,0,0,1637,1014,80,40,0,503
+2024,6,C5,CommuteAir LLC dba CommuteAir,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",60,15,4.91,1.23,4.69,0,4.17,1,0,1052,257,78,154,0,563
+2024,6,AA,American Airlines Network,ECP,"Panama City, FL: Northwest Florida Beaches International",128,62,19.85,1.11,14.2,0,26.84,0,0,4809,1550,61,659,0,2539
+2024,6,WN,Southwest Airlines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",5484,1403,400.99,13.95,172.08,5.22,810.76,13,6,74413,21669,849,6324,181,45390
+2024,6,UA,United Air Lines Network,DRO,"Durango, CO: Durango La Plata County",60,25,10.19,0,3.31,0,11.49,1,0,1646,653,0,150,0,843
+2024,6,AA,American Airlines Network,SAV,"Savannah, GA: Savannah/Hilton Head International",188,72,27.57,5.82,3.66,0,34.95,6,0,7171,2878,1146,173,0,2974
+2024,6,DL,Delta Air Lines Network,STL,"St. Louis, MO: St Louis Lambert International",507,92,52.35,2.64,12.87,0,24.14,0,0,5636,3423,126,585,0,1502
+2024,6,AA,American Airlines Network,XNA,"Fayetteville, AR: Northwest Arkansas National",104,40,15.84,0.79,6.33,0,17.05,0,0,3233,1057,151,283,0,1742
+2024,6,YX,Republic Airline,BGR,"Bangor, ME: Bangor International",96,22,4.69,1.53,9.37,0,6.41,6,1,1359,322,368,382,0,287
+2024,6,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",362,128,30.06,1.36,76.85,0.11,19.63,5,0,8541,2745,125,3453,10,2208
+2024,6,G7,GoJet Airlines LLC d/b/a United Express,BUF,"Buffalo, NY: Buffalo Niagara International",4,1,0.08,0,0,0,0.92,0,0,87,7,0,0,0,80
+2024,6,OO,SkyWest Airlines Inc.,HDN,"Hayden, CO: Yampa Valley",92,20,5.21,2,4.37,0,8.42,0,1,966,210,116,270,0,370
+2024,6,MQ,Envoy Air,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",33,2,1.32,0,0,0,0.68,1,0,159,72,0,0,0,87
+2024,6,G4,Allegiant Air,SBN,"South Bend, IN: South Bend International",65,4,0.29,1,2.1,0,0.62,2,0,245,6,19,191,0,29
+2024,6,YV,Mesa Airlines Inc.,AUS,"Austin, TX: Austin - Bergstrom International",78,20,8.73,0.56,3.85,0,6.86,2,0,1258,503,14,192,0,549
+2024,6,DL,Delta Air Lines Network,DAY,"Dayton, OH: James M Cox/Dayton International",110,12,4.9,0.23,2.42,0,4.46,1,0,770,406,19,223,0,122
+2024,6,G4,Allegiant Air,GRI,"Grand Island, NE: Central Nebraska Regional",18,4,1.98,0,0.19,0,1.84,1,2,345,173,0,15,0,157
+2024,6,9E,Endeavor Air Inc.,RAP,"Rapid City, SD: Rapid City Regional",20,8,2.63,0,2.16,0,3.21,0,2,500,180,0,75,0,245
+2024,6,DL,Delta Air Lines Network,FAR,"Fargo, ND: Hector International",60,24,10.62,0.71,2.6,0,10.07,1,0,1775,867,20,75,0,813
+2024,6,OH,PSA Airlines Inc.,SYR,"Syracuse, NY: Syracuse Hancock International",56,13,2.82,1.51,4.31,1,3.36,1,1,1033,182,227,189,33,402
+2024,6,DL,Delta Air Lines Network,MDW,"Chicago, IL: Chicago Midway International",141,17,9.38,0,6.17,0,1.45,0,1,1089,604,0,428,0,57
+2024,6,AS,Alaska Airlines Network,OKC,"Oklahoma City, OK: Will Rogers World",30,5,3.59,0,0.41,0,1,0,0,242,129,0,9,0,104
+2024,6,OO,SkyWest Airlines Inc.,DVL,"Devils Lake, ND: Devils Lake Regional",56,10,3.8,0,1.62,0,4.58,4,0,879,457,0,106,0,316
+2024,6,UA,United Air Lines Network,MTJ,"Montrose/Delta, CO: Montrose Regional",60,14,4.42,1,1.69,0,6.89,1,0,944,226,21,64,0,633
+2024,6,G4,Allegiant Air,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",35,4,2,0,0,1.61,0.39,0,0,119,55,0,0,57,7
+2024,6,MQ,Envoy Air,BIS,"Bismarck/Mandan, ND: Bismarck Municipal",60,21,5.37,1.46,5.02,0,9.15,0,1,1360,346,206,234,0,574
+2024,6,UA,United Air Lines Network,IAD,"Washington, DC: Washington Dulles International",2675,470,165.05,39.23,87.9,0,177.81,27,4,37997,13715,3737,4117,0,16428
+2024,6,NK,Spirit Airlines,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",35,11,3.7,1.43,4.37,0,1.5,2,0,526,207,62,181,0,76
+2024,6,B6,JetBlue Airways,LGA,"New York, NY: LaGuardia",773,215,77.98,5.96,77.72,0.02,53.31,28,7,19098,6043,743,6796,3,5513
+2024,6,OO,SkyWest Airlines Inc.,ABR,"Aberdeen, SD: Aberdeen Regional",60,27,13.46,7.96,5.59,0,0,1,0,2075,1314,494,267,0,0
+2024,6,OO,SkyWest Airlines Inc.,EVV,"Evansville, IN: Evansville Regional",11,2,2,0,0,0,0,0,0,185,185,0,0,0,0
+2024,6,OH,PSA Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",55,19,3.85,1,7.98,0.55,5.61,1,2,996,174,39,307,66,410
+2024,6,B6,JetBlue Airways,MCI,"Kansas City, MO: Kansas City International",12,1,0.53,0,0.33,0,0.14,0,0,36,19,0,12,0,5
+2024,6,YX,Republic Airline,PWM,"Portland, ME: Portland International Jetport",460,79,29.32,2.6,21.12,0,25.97,18,4,5384,2239,360,889,0,1896
+2024,6,G7,GoJet Airlines LLC d/b/a United Express,GSP,"Greer, SC: Greenville-Spartanburg International",8,2,1,0,1,0,0,0,0,56,27,0,29,0,0
+2024,6,DL,Delta Air Lines Network,AVL,"Asheville, NC: Asheville Regional",225,37,14.54,0,15.17,0,7.29,0,0,1792,690,0,588,0,514
+2024,6,MQ,Envoy Air,BTV,"Burlington, VT: Burlington International",47,16,3.74,0.31,3.72,0,8.23,0,0,1065,154,37,127,0,747
+2024,6,OO,SkyWest Airlines Inc.,BOI,"Boise, ID: Boise Air Terminal",951,203,85.91,12.77,40.28,2,62.04,1,0,13654,6142,559,1857,34,5062
+2024,6,OH,PSA Airlines Inc.,LEX,"Lexington, KY: Blue Grass",126,17,4.39,0.13,6.29,0,6.19,1,2,1672,147,9,714,0,802
+2024,6,AA,American Airlines Network,DTW,"Detroit, MI: Detroit Metro Wayne County",550,192,60.06,6.09,22.31,1.8,101.73,12,3,16328,5354,790,1269,159,8756
+2024,6,B6,JetBlue Airways,STT,"Charlotte Amalie, VI: Cyril E King",57,15,5.02,0.33,3.44,0,6.21,0,0,942,327,25,285,0,305
+2024,6,G4,Allegiant Air,PIE,"St. Petersburg, FL: St Pete Clearwater International",867,246,60.7,21.07,46.63,2.06,115.55,11,3,23071,7728,2300,2481,84,10478
+2024,6,OO,SkyWest Airlines Inc.,FWA,"Fort Wayne, IN: Fort Wayne International",228,63,36.89,10.29,7.75,0,8.07,2,1,5011,3243,895,348,0,525
+2024,6,UA,United Air Lines Network,SNA,"Santa Ana, CA: John Wayne Airport-Orange County",530,139,45.72,4.92,26.74,0,61.62,5,7,8188,2632,512,897,0,4147
+2024,6,NK,Spirit Airlines,SJC,"San Jose, CA: Norman Y. Mineta San Jose International",269,73,14.29,0.16,35.03,0.46,23.06,3,1,3763,810,11,1446,11,1485
+2024,6,C5,CommuteAir LLC dba CommuteAir,CHS,"Charleston, SC: Charleston AFB/International",2,2,1.99,0,0.01,0,0,0,0,206,205,0,1,0,0
+2024,6,WN,Southwest Airlines,DAL,"Dallas, TX: Dallas Love Field",6048,1532,447.88,39.71,321.47,11.82,711.11,29,27,90250,25559,4299,16976,512,42904
+2024,6,G4,Allegiant Air,BLI,"Bellingham, WA: Bellingham International",86,9,2.63,0,1.34,0,5.03,0,0,377,73,0,34,0,270
+2024,6,F9,Frontier Airlines,SMF,"Sacramento, CA: Sacramento International",27,17,1.84,0,1.21,0,13.95,0,0,1164,91,0,25,0,1048
+2024,6,YX,Republic Airline,MEM,"Memphis, TN: Memphis International",247,49,10.57,0.9,16.43,0,21.11,6,1,3075,510,142,907,0,1516
+2024,6,YX,Republic Airline,ACK,"Nantucket, MA: Nantucket Memorial",132,31,12.44,1.38,12.19,0,4.99,1,3,2113,1038,93,653,0,329
+2024,6,AA,American Airlines Network,BZN,"Bozeman, MT: Bozeman Yellowstone International",111,31,13.3,0.06,3.49,0,14.14,0,1,2709,947,7,176,0,1579
+2024,6,MQ,Envoy Air,DTW,"Detroit, MI: Detroit Metro Wayne County",78,28,4.85,4.19,5.71,0,13.25,0,0,1749,174,385,263,0,927
+2024,6,DL,Delta Air Lines Network,ECP,"Panama City, FL: Northwest Florida Beaches International",222,27,15.39,0.62,3.78,0,7.21,0,0,1463,697,18,141,0,607
+2024,6,QX,Horizon Air,BET,"Bethel, AK: Bethel Airport",13,1,0,0,1,0,0,0,0,99,0,0,99,0,0
+2024,6,YV,Mesa Airlines Inc.,JAX,"Jacksonville, FL: Jacksonville International",30,6,0.62,0,3,0,2.38,1,0,346,48,0,78,0,220
+2024,6,AA,American Airlines Network,IAD,"Washington, DC: Washington Dulles International",58,25,8.7,1.24,0.79,0,14.28,2,0,1652,385,139,45,0,1083
+2024,6,UA,United Air Lines Network,BIL,"Billings, MT: Billings Logan International",64,29,12.06,0.16,2.91,0,13.86,1,0,2068,1007,10,191,0,860
+2024,6,B6,JetBlue Airways,MVY,"Martha's Vineyard, MA: Martha's Vineyard Airport",107,26,10.14,0,3.79,0,12.07,6,0,2120,837,0,372,0,911
+2024,6,G4,Allegiant Air,GPT,"Gulfport/Biloxi, MS: Gulfport-Biloxi International",9,3,0,0,2,1,0,0,0,60,0,0,34,26,0
+2024,6,UA,United Air Lines Network,MSO,"Missoula, MT: Missoula Montana",124,30,7.24,1,5.49,0,16.26,2,0,2034,405,120,190,0,1319
+2024,6,MQ,Envoy Air,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",62,17,5.22,0.92,2.15,0,8.72,0,1,1300,454,47,167,0,632
+2024,6,UA,United Air Lines Network,MIA,"Miami, FL: Miami International",390,101,27.5,5.03,30.99,0,37.48,14,3,8691,2096,800,2250,0,3545
+2024,6,G7,GoJet Airlines LLC d/b/a United Express,MSN,"Madison, WI: Dane County Regional-Truax Field",34,5,0.89,0.21,0.34,0,3.57,1,0,385,41,43,19,0,282
+2024,6,9E,Endeavor Air Inc.,PIT,"Pittsburgh, PA: Pittsburgh International",158,34,11.76,0,10.55,0,11.69,4,0,2750,1171,0,617,0,962
+2024,6,AS,Alaska Airlines Network,MKE,"Milwaukee, WI: General Mitchell International",60,8,2.03,0,3.03,0,2.94,0,0,392,199,0,111,0,82
+2024,6,G4,Allegiant Air,FAT,"Fresno, CA: Fresno Yosemite International",56,14,4.95,0.14,3.78,0,5.14,0,0,807,503,5,171,0,128
+2024,6,9E,Endeavor Air Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",48,4,1,0,1.03,0,1.97,7,0,302,53,0,60,0,189
+2024,6,MQ,Envoy Air,HOU,"Houston, TX: William P Hobby",148,57,14.56,0.42,22.48,0,19.55,4,0,3782,1119,61,1075,0,1527
+2024,6,YX,Republic Airline,SRQ,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",4,1,0,0,1,0,0,0,0,19,0,0,19,0,0
+2024,6,G4,Allegiant Air,IAG,"Niagara Falls, NY: Niagara Falls International",29,7,3.63,1.8,0.69,0,0.88,1,0,630,320,82,22,0,206
+2024,6,G7,GoJet Airlines LLC d/b/a United Express,PIT,"Pittsburgh, PA: Pittsburgh International",94,6,1.77,1.49,1.6,0,1.14,1,0,494,84,126,67,0,217
+2024,6,UA,United Air Lines Network,SAN,"San Diego, CA: San Diego International",825,200,57.48,5.36,63.12,0,74.04,5,5,13251,3291,663,2370,0,6927
+2024,6,9E,Endeavor Air Inc.,ORF,"Norfolk, VA: Norfolk International",202,45,12.75,0.15,13.27,0,18.83,6,0,4557,2359,12,667,0,1519
+2024,7,YV,Mesa Airlines Inc.,PVD,"Providence, RI: Rhode Island Tf Green International",79,22,11.87,0,4.12,0,6.01,2,0,2624,1204,0,112,0,1308
+2024,7,WN,Southwest Airlines,TUS,"Tucson, AZ: Tucson International",344,110,38.56,2.19,17.05,0,52.21,2,3,5802,1964,334,805,0,2699
+2024,7,MQ,Envoy Air,MAF,"Midland/Odessa, TX: Midland International Air and Space Port",221,85,23.99,1.45,28.65,0,30.91,0,0,4214,1216,125,942,0,1931
+2024,7,AS,Alaska Airlines Network,ORD,"Chicago, IL: Chicago O'Hare International",388,143,38.19,1,62.11,0,41.7,2,3,5434,1866,25,2099,0,1444
+2024,7,C5,CommuteAir LLC dba CommuteAir,ROC,"Rochester, NY: Frederick Douglass Grtr Rochester International",49,8,6.14,0,1.86,0,0,1,0,370,324,0,46,0,0
+2024,7,WN,Southwest Airlines,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",5628,1445,443.45,24.23,173.37,6.22,797.73,40,20,77566,21810,1858,6924,275,46699
+2024,7,AS,Alaska Airlines Network,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",31,4,0.21,0,2.03,0,1.76,0,0,94,6,0,35,0,53
+2024,7,C5,CommuteAir LLC dba CommuteAir,CHS,"Charleston, SC: Charleston AFB/International",8,2,0.41,0,1.09,0,0.5,0,0,49,14,0,18,0,17
+2024,7,B6,JetBlue Airways,DCA,"Washington, DC: Ronald Reagan Washington National",733,153,49.2,5.54,55.94,0.41,41.9,5,5,14532,4380,304,5003,41,4804
+2024,7,AA,American Airlines Network,SNA,"Santa Ana, CA: John Wayne Airport-Orange County",547,136,50.64,6.3,13.55,1.19,64.33,10,2,10930,4103,457,562,86,5722
+2024,7,MQ,Envoy Air,COU,"Columbia, MO: Columbia Regional",178,78,20.92,4.67,18.92,0,33.5,1,0,4687,1145,402,914,0,2226
+2024,7,OH,PSA Airlines Inc.,ROC,"Rochester, NY: Frederick Douglass Grtr Rochester International",97,28,7.13,3.94,3.59,0,13.33,6,0,3442,549,1373,299,0,1221
+2024,7,OO,SkyWest Airlines Inc.,PSC,"Pasco/Kennewick/Richland, WA: Tri Cities",330,64,24.67,7,14.13,3.05,15.15,0,0,2548,875,224,448,101,900
+2024,7,B6,JetBlue Airways,PWM,"Portland, ME: Portland International Jetport",62,19,8.1,0,5.06,0,5.84,3,0,1572,716,0,318,0,538
+2024,7,PT,Piedmont Airlines,EVV,"Evansville, IN: Evansville Regional",92,14,1.86,3.77,2.66,0,5.72,0,0,678,60,180,112,0,326
+2024,7,F9,Frontier Airlines,BQN,"Aguadilla, PR: Rafael Hernandez",42,12,3.55,0,2.86,0,5.58,0,1,511,111,0,98,0,302
+2024,7,OO,SkyWest Airlines Inc.,SWO,"Stillwater, OK: Stillwater Regional",62,7,4.84,1,1.16,0,0,0,0,426,265,102,59,0,0
+2024,7,DL,Delta Air Lines Network,GRB,"Green Bay, WI: Green Bay Austin Straubel International",31,15,4.49,0.39,2.67,0,7.45,2,0,1144,335,39,148,0,622
+2024,7,MQ,Envoy Air,ORD,"Chicago, IL: Chicago O'Hare International",3087,845,178.67,65.72,283.96,2.61,314.04,47,6,64678,17485,6852,15483,100,24758
+2024,7,OO,SkyWest Airlines Inc.,LBB,"Lubbock, TX: Lubbock Preston Smith International",91,23,10.48,0.87,6.95,0,4.71,0,3,1077,442,100,240,0,295
+2024,7,AS,Alaska Airlines Network,YAK,"Yakutat, AK: Yakutat Airport",62,15,2.63,0,4.68,0.55,7.13,1,0,549,82,0,126,11,330
+2024,7,DL,Delta Air Lines Network,MSN,"Madison, WI: Dane County Regional-Truax Field",151,48,20.97,2.62,6.77,0,17.64,10,0,4172,2151,185,326,0,1510
+2024,7,OO,SkyWest Airlines Inc.,GFK,"Grand Forks, ND: Grand Forks International",93,24,12.23,5.03,6.75,0,0,0,0,2688,1885,511,292,0,0
+2024,7,OO,SkyWest Airlines Inc.,PLN,"Pellston, MI: Pellston Regional Airport of Emmet County",114,24,21,3,0,0,0,0,0,1710,1477,233,0,0,0
+2024,7,DL,Delta Air Lines Network,PHL,"Philadelphia, PA: Philadelphia International",559,164,78.28,5.87,38.18,0,41.67,41,4,13339,7022,677,2083,0,3557
+2024,7,F9,Frontier Airlines,ORD,"Chicago, IL: Chicago O'Hare International",274,150,29.22,4.74,28.91,0,87.14,23,1,12867,3438,426,1835,0,7168
+2024,7,YV,Mesa Airlines Inc.,XNA,"Fayetteville, AR: Northwest Arkansas National",88,32,14.91,0.77,2.97,0,13.35,9,0,2588,1274,81,142,0,1091
+2024,7,B6,JetBlue Airways,SMF,"Sacramento, CA: Sacramento International",62,27,10.46,1.98,5.37,0,9.2,0,0,1700,591,297,220,0,592
+2024,7,UA,United Air Lines Network,HNL,"Honolulu, HI: Daniel K Inouye International",562,99,59.06,0.9,15.87,0,23.17,10,4,7326,4223,37,797,0,2269
+2024,7,WN,Southwest Airlines,LAX,"Los Angeles, CA: Los Angeles International",2378,752,266.83,5.94,93.38,1.53,384.32,10,1,40589,13148,589,3636,65,23151
+2024,7,G4,Allegiant Air,TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities",17,5,2.25,1.41,0.93,0,0.41,2,0,310,78,161,33,0,38
+2024,7,C5,CommuteAir LLC dba CommuteAir,IAD,"Washington, DC: Washington Dulles International",1242,205,70.89,3.42,45.06,0,85.62,15,5,18471,6175,1436,1891,0,8969
+2024,7,YX,Republic Airline,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",31,15,2.72,0,8.73,0,3.54,1,0,967,261,0,472,0,234
+2024,7,DL,Delta Air Lines Network,DTW,"Detroit, MI: Detroit Metro Wayne County",5446,1321,537.52,36.67,204.4,0,542.41,337,2,138656,75124,3081,12134,0,48317
+2024,7,OH,PSA Airlines Inc.,CAK,"Akron, OH: Akron-Canton Regional",147,74,15.17,5.6,15.63,0.63,36.97,3,0,8227,2460,658,729,135,4245
+2024,7,MQ,Envoy Air,PNS,"Pensacola, FL: Pensacola International",97,33,4.28,0.59,11.89,0,16.25,0,0,1561,179,23,407,0,952
+2024,7,UA,United Air Lines Network,ONT,"Ontario, CA: Ontario International",171,48,19.09,0.24,2.89,0,25.79,7,0,3399,1152,32,114,0,2101
+2024,7,ZW,Air Wisconsin Airlines Corp,PIA,"Peoria, IL: General Downing - Peoria International",92,33,8.25,2.58,8.19,0,13.97,4,0,2301,452,517,259,0,1073
+2024,7,OH,PSA Airlines Inc.,PVD,"Providence, RI: Rhode Island Tf Green International",206,53,11.8,6.45,10.09,0,24.67,8,1,7504,2189,1063,714,0,3538
+2024,7,OO,SkyWest Airlines Inc.,FCA,"Kalispell, MT: Glacier Park International",239,42,31.85,1,2.9,0,6.25,0,0,1959,1432,17,146,0,364
+2024,7,G7,GoJet Airlines LLC d/b/a United Express,PVD,"Providence, RI: Rhode Island Tf Green International",62,15,4.31,0.19,4.27,0,6.22,8,0,1616,753,32,167,0,664
+2024,7,AA,American Airlines Network,CHS,"Charleston, SC: Charleston AFB/International",544,208,47.58,10.1,27.41,0,122.91,12,0,17835,4524,922,1241,0,11148
+2024,7,F9,Frontier Airlines,CMH,"Columbus, OH: John Glenn Columbus International",41,13,1.98,0.09,2.47,0,8.45,0,0,820,69,3,118,0,630
+2024,7,NK,Spirit Airlines,SLC,"Salt Lake City, UT: Salt Lake City International",176,56,19.12,4.3,19.1,0,13.48,1,0,3041,1050,249,904,0,838
+2024,7,OO,SkyWest Airlines Inc.,SNA,"Santa Ana, CA: John Wayne Airport-Orange County",331,61,15.31,0.86,18.66,0,26.17,1,0,3372,807,54,954,0,1557
+2024,7,AS,Alaska Airlines Network,SMF,"Sacramento, CA: Sacramento International",118,33,12.3,0,4.39,0,16.31,1,0,2126,1016,0,159,0,951
+2024,7,MQ,Envoy Air,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",6885,1936,377.22,99.9,396.34,9.34,1053.2,62,8,128370,31137,7079,17077,251,72826
+2024,7,QX,Horizon Air,MCI,"Kansas City, MO: Kansas City International",31,2,1.3,0,0.7,0,0,0,0,60,37,0,23,0,0
+2024,7,OO,SkyWest Airlines Inc.,FAT,"Fresno, CA: Fresno Yosemite International",549,105,55.64,4.57,14.43,0,30.36,0,0,5388,2904,264,639,0,1581
+2024,7,MQ,Envoy Air,FAR,"Fargo, ND: Hector International",149,40,9.37,3.26,10.05,0,17.31,0,0,2289,408,504,393,0,984
+2024,7,OO,SkyWest Airlines Inc.,MEM,"Memphis, TN: Memphis International",69,22,9.05,2,3.44,0,7.51,1,0,1403,670,114,211,0,408
+2024,7,OO,SkyWest Airlines Inc.,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",145,41,16.34,9.3,6.27,0,9.08,0,1,2130,935,484,353,0,358
+2024,7,AS,Alaska Airlines Network,SLC,"Salt Lake City, UT: Salt Lake City International",109,26,8.53,0,4.65,0,12.82,2,0,1233,636,0,172,0,425
+2024,7,YV,Mesa Airlines Inc.,HRL,"Harlingen/San Benito, TX: Valley International",39,14,5.58,0.09,0.51,0,7.81,5,0,1219,438,22,27,0,732
+2024,7,OH,PSA Airlines Inc.,LEX,"Lexington, KY: Blue Grass",120,25,5.66,1.11,6.18,0.4,11.65,11,0,1666,211,110,238,19,1088
+2024,7,DL,Delta Air Lines Network,SAT,"San Antonio, TX: San Antonio International",558,184,81.95,4.19,51.85,0,46,38,1,14914,8257,313,2246,0,4098
+2024,7,QX,Horizon Air,RNO,"Reno, NV: Reno/Tahoe International",175,23,4.74,0.96,4.64,0,12.66,0,1,892,256,54,91,0,491
+2024,7,WN,Southwest Airlines,IND,"Indianapolis, IN: Indianapolis International",994,328,107.1,17.17,41.71,1.4,160.62,3,3,19174,5700,1267,1989,62,10156
+2024,7,OO,SkyWest Airlines Inc.,CMX,"Hancock/Houghton, MI: Houghton County Memorial",62,21,2.19,2.85,5.16,0,10.8,1,0,2816,171,421,380,0,1844
+2024,7,9E,Endeavor Air Inc.,OAJ,"Jacksonville/Camp Lejeune, NC: Albert J Ellis",11,2,0.86,0,0.67,0,0.46,0,0,50,19,0,18,0,13
+2024,7,OO,SkyWest Airlines Inc.,SGU,"St. George, UT: St George Regional",234,51,30.23,11.5,4.96,0,4.31,0,1,3741,1820,1444,164,0,313
+2024,7,DL,Delta Air Lines Network,DLH,"Duluth, MN: Duluth International",37,16,11.45,0,0.64,0,3.91,1,0,1564,985,0,57,0,522
+2024,7,OO,SkyWest Airlines Inc.,SAF,"Santa Fe, NM: Santa Fe Municipal",306,64,27.75,8.41,14.13,0,13.7,1,4,4592,1820,617,577,0,1578
+2024,7,UA,United Air Lines Network,STL,"St. Louis, MO: St Louis Lambert International",246,93,29.7,2.82,19.71,0,40.77,11,0,7966,2410,417,1231,0,3908
+2024,7,AS,Alaska Airlines Network,DEN,"Denver, CO: Denver International",279,61,18.04,0.26,17.92,0,24.77,0,2,3131,1651,8,711,0,761
+2024,7,AA,American Airlines Network,RNO,"Reno, NV: Reno/Tahoe International",243,102,38.5,1.19,15.74,0,46.56,5,0,7840,3374,220,537,0,3709
+2024,7,WN,Southwest Airlines,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",155,53,22.43,0.31,4.49,0,25.77,0,0,2674,1048,10,248,0,1368
+2024,7,9E,Endeavor Air Inc.,DAY,"Dayton, OH: James M Cox/Dayton International",31,14,4.28,0,4.25,0,5.47,5,0,1332,645,0,300,0,387
+2024,7,OO,SkyWest Airlines Inc.,SJT,"San Angelo, TX: San Angelo Regional/Mathis Field",8,1,0,0,1,0,0,0,0,17,0,0,17,0,0
+2024,7,OO,SkyWest Airlines Inc.,OKC,"Oklahoma City, OK: Will Rogers World",571,150,69.55,15.91,29.83,0,34.71,11,2,9829,4507,1332,2144,0,1846
+2024,7,G4,Allegiant Air,SRQ,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",222,50,17.75,0.36,14.02,0,17.87,5,0,4266,2036,14,518,0,1698
+2024,7,OO,SkyWest Airlines Inc.,BTR,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",38,10,7.31,0,1.7,0,0.99,0,0,1864,624,0,309,0,931
+2024,7,UA,United Air Lines Network,PNS,"Pensacola, FL: Pensacola International",66,29,9.85,1,1.01,0,17.15,3,1,2689,778,97,27,0,1787
+2024,7,C5,CommuteAir LLC dba CommuteAir,LBB,"Lubbock, TX: Lubbock Preston Smith International",112,26,9.66,1.06,5.36,0,9.91,10,0,2478,721,238,229,0,1290
+2024,7,HA,Hawaiian Airlines Network,SLC,"Salt Lake City, UT: Salt Lake City International",31,3,3,0,0,0,0,0,0,142,142,0,0,0,0
+2024,7,AA,American Airlines Network,BZN,"Bozeman, MT: Bozeman Yellowstone International",127,48,16.54,0.06,6.16,0,25.24,0,0,3347,1338,6,320,0,1683
+2024,7,F9,Frontier Airlines,SJC,"San Jose, CA: Norman Y. Mineta San Jose International",20,6,0,0,1.15,0,4.85,0,0,483,0,0,30,0,453
+2024,7,WN,Southwest Airlines,MYR,"Myrtle Beach, SC: Myrtle Beach International",302,117,38.9,2.44,21.27,0,54.38,0,0,6064,2082,392,802,0,2788
+2024,7,OO,SkyWest Airlines Inc.,BUF,"Buffalo, NY: Buffalo Niagara International",31,10,6.94,0,3.06,0,0,0,0,522,431,0,91,0,0
+2024,7,MQ,Envoy Air,MQT,"Marquette, MI: Marquette Sawyer Regional",61,15,2.67,0,1.29,0,11.04,0,0,1288,148,0,92,0,1048
+2024,7,G4,Allegiant Air,JAX,"Jacksonville, FL: Jacksonville International",88,26,8.13,3,7.78,0,7.08,4,0,1544,423,92,455,0,574
+2024,7,F9,Frontier Airlines,OKC,"Oklahoma City, OK: Will Rogers World",39,5,1,0,1.19,0,2.81,1,0,255,57,0,32,0,166
+2024,7,G7,GoJet Airlines LLC d/b/a United Express,MEM,"Memphis, TN: Memphis International",11,7,2,0,3.28,0,1.73,0,0,449,80,0,95,0,274
+2024,7,OH,PSA Airlines Inc.,CRW,"Charleston/Dunbar, WV: West Virginia International Yeager",123,49,12.08,5.93,3.21,1,26.79,2,0,5810,858,1453,246,16,3237
+2024,7,DL,Delta Air Lines Network,AVL,"Asheville, NC: Asheville Regional",220,63,28.98,4.68,13.56,0,15.78,13,0,7198,4757,386,680,0,1375
+2024,7,WN,Southwest Airlines,RSW,"Fort Myers, FL: Southwest Florida International",475,160,44.35,3.21,35.44,0,76.99,1,3,8883,2644,347,1380,0,4512
+2024,7,PT,Piedmont Airlines,GNV,"Gainesville, FL: Gainesville Regional",61,22,2.81,3.07,13.28,0,2.83,0,1,1251,130,261,514,0,346
+2024,7,F9,Frontier Airlines,ONT,"Ontario, CA: Ontario International",386,91,28.45,0,13.44,0,49.11,18,0,7142,2393,0,551,0,4198
+2024,7,G4,Allegiant Air,LAS,"Las Vegas, NV: Harry Reid International",704,204,44.36,8.44,40.88,2.36,107.95,24,2,24107,9675,705,1863,296,11568
+2024,7,C5,CommuteAir LLC dba CommuteAir,XNA,"Fayetteville, AR: Northwest Arkansas National",64,13,5.84,0,2.88,0,4.29,5,0,952,363,0,172,0,417
+2024,7,YX,Republic Airline,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",41,11,2.01,0.82,7.05,0,1.11,0,0,635,166,79,363,0,27
+2024,7,F9,Frontier Airlines,FAR,"Fargo, ND: Hector International",31,7,2.1,0,0.87,0,4.04,0,0,406,128,0,49,0,229
+2024,7,DL,Delta Air Lines Network,JFK,"New York, NY: John F. Kennedy International",2688,780,294.35,18.07,242.74,0.55,224.29,142,24,77694,40097,1016,14289,121,22171
+2024,7,OO,SkyWest Airlines Inc.,ONT,"Ontario, CA: Ontario International",286,31,19.5,3.91,3,0,4.59,0,0,1305,906,106,97,0,196
+2024,7,YV,Mesa Airlines Inc.,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",116,40,14.67,4.41,7.92,0,13,5,1,2890,850,425,314,0,1301
+2024,7,G4,Allegiant Air,OAK,"Oakland, CA: Metro Oakland International",45,6,2.72,0,1.09,0,2.19,2,0,220,108,0,49,0,63
+2024,7,AA,American Airlines Network,SDF,"Louisville, KY: Louisville Muhammad Ali International",185,104,25.13,8.23,8,0,62.64,9,0,13019,4168,886,553,0,7412
+2024,7,B6,JetBlue Airways,ORH,"Worcester, MA: Worcester Regional",62,19,9.49,0.1,4.07,0,5.35,0,0,1112,579,6,182,0,345
+2024,7,AA,American Airlines Network,GRR,"Grand Rapids, MI: Gerald R. Ford International",238,100,32.67,2.67,7.58,0,57.08,3,0,9857,3981,178,358,0,5340
+2024,7,AS,Alaska Airlines Network,ADK,"Adak Island, AK: Adak",9,1,1,0,0,0,0,0,0,55,55,0,0,0,0
+2024,8,OO,SkyWest Airlines Inc.,DEC,"Decatur, IL: Decatur Airport",53,26,8.61,0,4.26,0,13.13,0,0,1224,456,0,112,0,656
+2024,8,OH,PSA Airlines Inc.,CLE,"Cleveland, OH: Cleveland-Hopkins International",194,54,13.35,1.92,20.53,0.19,18.02,8,0,4921,1374,239,1059,16,2233
+2024,8,YV,Mesa Airlines Inc.,PVD,"Providence, RI: Rhode Island Tf Green International",44,10,4.88,0.52,1.54,0,3.07,0,0,804,325,47,45,0,387
+2024,8,UA,United Air Lines Network,GUM,"Guam, TT: Guam International",62,7,1.21,0,1.14,0,4.65,0,0,587,44,0,38,0,505
+2024,8,QX,Horizon Air,SMF,"Sacramento, CA: Sacramento International",80,5,1.37,0.98,1.88,0,0.76,0,0,218,31,128,46,0,13
+2024,8,YV,Mesa Airlines Inc.,LGA,"New York, NY: LaGuardia",28,4,1.5,0,1,0,1.5,1,2,221,57,0,62,0,102
+2024,8,F9,Frontier Airlines,JAX,"Jacksonville, FL: Jacksonville International",72,26,10.3,0,6.34,0,9.36,1,0,2218,829,0,410,0,979
+2024,8,QX,Horizon Air,PSC,"Pasco/Kennewick/Richland, WA: Tri Cities",91,25,6.71,0.38,8.44,0,9.47,1,0,855,200,31,213,0,411
+2024,8,MQ,Envoy Air,CHS,"Charleston, SC: Charleston AFB/International",111,30,7.87,1.96,8.09,0,12.08,7,0,1530,419,195,238,0,678
+2024,8,AA,American Airlines Network,VPS,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",189,80,29.19,3.51,4.64,0,42.66,1,0,7986,2273,637,220,0,4856
+2024,8,OO,SkyWest Airlines Inc.,SIT,"Sitka, AK: Sitka Rocky Gutierrez",31,14,6.31,6.15,1.54,0,0,2,2,942,425,449,68,0,0
+2024,8,G4,Allegiant Air,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",4,1,0.25,0,0,0,0.75,0,0,16,4,0,0,0,12
+2024,8,B6,JetBlue Airways,RNO,"Reno, NV: Reno/Tahoe International",11,6,3.19,0.9,1.18,0,0.73,2,0,709,424,171,50,0,64
+2024,8,F9,Frontier Airlines,CLE,"Cleveland, OH: Cleveland-Hopkins International",551,147,34.09,4.1,30.78,0,78.03,24,2,11396,3225,186,1623,0,6362
+2024,8,YX,Republic Airline,PIT,"Pittsburgh, PA: Pittsburgh International",765,154,48.29,6.81,50.39,0,48.51,72,0,13242,3413,2105,3010,0,4714
+2024,8,AA,American Airlines Network,SAN,"San Diego, CA: San Diego International",797,270,99.57,8.57,44.67,0.16,117.03,7,0,18568,7742,966,2021,6,7833
+2024,8,MQ,Envoy Air,TLH,"Tallahassee, FL: Tallahassee International",253,53,10.72,2.63,14.46,0,25.19,10,1,2608,584,179,479,0,1366
+2024,8,OO,SkyWest Airlines Inc.,ROW,"Roswell, NM: Roswell Air Center",92,12,7.31,1.95,0.79,0,1.96,1,0,1546,331,980,66,0,169
+2024,8,G4,Allegiant Air,SAV,"Savannah, GA: Savannah/Hilton Head International",65,20,3.61,0.75,1.97,0,13.66,3,0,1995,264,12,141,0,1578
+2024,8,DL,Delta Air Lines Network,FAI,"Fairbanks, AK: Fairbanks International",93,21,9.15,0.79,5.01,0,6.05,0,0,1386,665,113,140,0,468
+2024,8,AA,American Airlines Network,SJC,"San Jose, CA: Norman Y. Mineta San Jose International",116,33,10.02,0.91,1.84,0,20.23,0,0,2642,481,40,100,0,2021
+2024,8,YX,Republic Airline,ORH,"Worcester, MA: Worcester Regional",31,3,1.69,0,0,0,1.31,1,0,162,81,0,0,0,81
+2024,8,UA,United Air Lines Network,ANC,"Anchorage, AK: Ted Stevens Anchorage International",253,34,6.85,4.73,10.76,0,11.66,4,1,2956,264,1654,270,0,768
+2024,8,OO,SkyWest Airlines Inc.,PIT,"Pittsburgh, PA: Pittsburgh International",21,2,0,0.98,0.02,0,1,0,0,119,0,59,1,0,59
+2024,8,DL,Delta Air Lines Network,STT,"Charlotte Amalie, VI: Cyril E King",47,9,2.45,1,3.94,0,1.6,0,0,657,330,113,105,0,109
+2024,8,9E,Endeavor Air Inc.,PVD,"Providence, RI: Rhode Island Tf Green International",26,7,1.96,0,0.49,0,4.55,0,0,504,46,0,61,0,397
+2024,8,UA,United Air Lines Network,SDF,"Louisville, KY: Louisville Muhammad Ali International",62,22,8.25,1.31,8.03,0,4.41,0,0,1671,591,37,296,0,747
+2024,8,WN,Southwest Airlines,MKE,"Milwaukee, WI: General Mitchell International",779,189,54.09,5.11,30.41,0,99.39,6,2,10344,2494,281,1766,0,5803
+2024,8,DL,Delta Air Lines Network,GSP,"Greer, SC: Greenville-Spartanburg International",265,35,19.76,1,3.66,0,10.58,0,2,2231,1481,30,165,0,555
+2024,8,G7,GoJet Airlines LLC d/b/a United Express,ABE,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",62,20,3.67,0.68,11.59,0,4.06,0,1,1372,171,211,544,0,446
+2024,8,WN,Southwest Airlines,SMF,"Sacramento, CA: Sacramento International",2677,478,124.57,2.22,49.66,0,301.55,5,1,23547,6214,172,1570,0,15591
+2024,8,UA,United Air Lines Network,ROC,"Rochester, NY: Frederick Douglass Grtr Rochester International",102,40,13.3,3.99,6.6,0,16.12,3,1,3217,1052,336,388,0,1441
+2024,8,OO,SkyWest Airlines Inc.,SJC,"San Jose, CA: Norman Y. Mineta San Jose International",777,125,61.55,11.37,15.99,0,36.09,0,0,5637,2823,504,610,0,1700
+2024,8,DL,Delta Air Lines Network,OKC,"Oklahoma City, OK: Will Rogers World",146,19,11.92,0,2.19,0,4.89,0,0,907,648,0,56,0,203
+2024,8,F9,Frontier Airlines,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",960,357,66,5.7,107.91,0,177.38,23,0,24753,5418,486,4712,0,14137
+2024,8,WN,Southwest Airlines,MYR,"Myrtle Beach, SC: Myrtle Beach International",244,54,15.43,0.81,22.46,0,15.29,11,1,3341,742,91,1299,0,1209
+2024,8,NK,Spirit Airlines,CHS,"Charleston, SC: Charleston AFB/International",137,43,10.91,0.28,18.5,0.21,13.11,15,0,2966,629,16,1393,14,914
+2024,8,G4,Allegiant Air,IND,"Indianapolis, IN: Indianapolis International",83,27,7.94,0,2.85,0,16.21,2,0,2995,628,0,134,0,2233
+2024,8,B6,JetBlue Airways,SYR,"Syracuse, NY: Syracuse Hancock International",93,35,15.52,0,5.24,0.06,14.18,8,0,4049,1925,0,226,4,1894
+2024,8,DL,Delta Air Lines Network,LAS,"Las Vegas, NV: Harry Reid International",1374,309,110.16,5.49,135.43,1,56.93,2,1,16661,7500,192,5697,16,3256
+2024,8,WN,Southwest Airlines,PVD,"Providence, RI: Rhode Island Tf Green International",471,129,41.85,4.28,24.85,1.79,56.23,7,1,7293,2098,236,1566,48,3345
+2024,8,AS,Alaska Airlines Network,KOA,"Kona, HI: Ellison Onizuka Kona International at Keahole",186,43,11.7,0.72,14.74,0,15.83,0,0,1643,672,13,333,0,625
+2024,8,NK,Spirit Airlines,STX,"Christiansted, VI: Henry E. Rohlsen",18,8,1.75,1.64,3.36,0,1.25,0,0,492,43,125,150,0,174
+2024,8,YX,Republic Airline,LGA,"New York, NY: LaGuardia",3728,743,184.42,43.01,335.87,2.05,177.64,333,18,59476,16472,8996,18381,109,15518
+2024,8,G4,Allegiant Air,MSP,"Minneapolis, MN: Minneapolis-St Paul International",8,3,0,0.92,1.72,0,0.36,0,0,176,0,35,132,0,9
+2024,8,HA,Hawaiian Airlines Network,SMF,"Sacramento, CA: Sacramento International",93,15,6.03,0,0,0,8.97,2,0,512,169,0,0,0,343
+2024,8,F9,Frontier Airlines,SEA,"Seattle, WA: Seattle/Tacoma International",164,48,6.91,0,14.58,0,26.51,5,0,2779,334,0,661,0,1784
+2024,8,OO,SkyWest Airlines Inc.,MTJ,"Montrose/Delta, CO: Montrose Regional",93,18,3.13,0.37,3.5,0,11,0,0,683,226,7,70,0,380
+2024,8,NK,Spirit Airlines,ABQ,"Albuquerque, NM: Albuquerque International Sunport",51,12,2.09,0,5,0,4.91,1,0,861,132,0,337,0,392
+2024,8,OH,PSA Airlines Inc.,SRQ,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",30,6,2.09,0,2.14,0,1.76,4,0,354,89,0,80,0,185
+2024,8,OO,SkyWest Airlines Inc.,LWS,"Lewiston, ID: Lewiston Nez Perce County",93,16,9.92,3.34,1.74,0,1,0,0,673,412,90,43,0,128
+2024,8,MQ,Envoy Air,CAE,"Columbia, SC: Columbia Metropolitan",12,5,2,0.05,1,0,1.95,1,0,198,34,2,81,0,81
+2024,8,MQ,Envoy Air,VPS,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,8,YV,Mesa Airlines Inc.,GSP,"Greer, SC: Greenville-Spartanburg International",17,2,0,1,1,0,0,0,0,71,0,48,23,0,0
+2024,8,B6,JetBlue Airways,SJU,"San Juan, PR: Luis Munoz Marin International",988,359,143.23,18.4,88.51,1,107.86,27,0,28887,11845,1786,4913,33,10310
+2024,8,F9,Frontier Airlines,OMA,"Omaha, NE: Eppley Airfield",41,13,5.02,0,2.11,0,5.86,0,0,1210,259,0,95,0,856
+2024,8,DL,Delta Air Lines Network,IAD,"Washington, DC: Washington Dulles International",281,55,26.1,1.5,19.45,0,7.96,1,3,3964,1581,111,1686,0,586
+2024,8,MQ,Envoy Air,IND,"Indianapolis, IN: Indianapolis International",66,11,1.38,2.11,1.11,0,6.4,1,0,667,103,214,37,0,313
+2024,8,OO,SkyWest Airlines Inc.,HSV,"Huntsville, AL: Huntsville International-Carl T Jones Field",181,61,34.24,3.37,10.77,0,12.63,0,0,4665,2723,410,617,0,915
+2024,8,OO,SkyWest Airlines Inc.,SGU,"St. George, UT: St George Regional",235,56,31.75,9.33,8.62,0,6.3,0,1,3368,1640,714,426,0,588
+2024,8,DL,Delta Air Lines Network,PVD,"Providence, RI: Rhode Island Tf Green International",178,30,17.19,0,4.17,0,8.64,0,0,2346,1222,0,246,0,878
+2024,8,AS,Alaska Airlines Network,JAC,"Jackson, WY: Jackson Hole",3,1,0,0,0,0,1,0,0,105,0,0,0,0,105
+2024,8,DL,Delta Air Lines Network,AUS,"Austin, TX: Austin - Bergstrom International",1007,235,106.12,5.95,62.45,0,60.48,10,2,13798,6765,368,2261,0,4404
+2024,8,YX,Republic Airline,PVD,"Providence, RI: Rhode Island Tf Green International",77,14,4.13,0,5.62,0.05,4.2,3,0,714,266,0,206,2,240
+2024,8,B6,JetBlue Airways,DTW,"Detroit, MI: Detroit Metro Wayne County",57,18,12.73,0,1.56,0,3.71,1,0,1490,1069,0,89,0,332
+2024,8,WN,Southwest Airlines,VPS,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",186,30,11.96,0,5.37,1,11.67,0,1,1406,498,0,113,41,754
+2024,8,OO,SkyWest Airlines Inc.,SCE,"State College, PA: University Park",34,9,1,4,2,0,2,0,0,627,84,355,56,0,132
+2024,8,WN,Southwest Airlines,LBB,"Lubbock, TX: Lubbock Preston Smith International",221,36,10.4,0,2.96,1,21.64,0,0,1868,517,0,131,61,1159
+2024,8,G4,Allegiant Air,FCA,"Kalispell, MT: Glacier Park International",28,2,1,0,1,0,0,0,0,182,140,0,42,0,0
+2024,8,UA,United Air Lines Network,ABQ,"Albuquerque, NM: Albuquerque International Sunport",166,33,10.69,0,8.05,0,14.26,1,0,1604,604,0,183,0,817
+2024,8,9E,Endeavor Air Inc.,OMA,"Omaha, NE: Eppley Airfield",60,13,4.41,0.51,4.81,0,3.27,6,0,1006,146,42,313,0,505
+2024,8,AS,Alaska Airlines Network,PDX,"Portland, OR: Portland International",1462,290,68.85,8.35,72.62,1.11,139.07,15,2,16637,4678,652,2718,28,8561
+2024,8,WN,Southwest Airlines,SEA,"Seattle, WA: Seattle/Tacoma International",874,281,65.5,3.79,117.88,0.87,92.96,1,3,13027,3025,380,4565,52,5005
+2024,8,OO,SkyWest Airlines Inc.,GJT,"Grand Junction, CO: Grand Junction Regional",236,35,18,1,5.87,0,10.13,1,2,1557,621,34,140,0,762
+2024,8,9E,Endeavor Air Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",171,52,12.98,3.77,19.57,0,15.68,12,0,3865,1010,302,974,0,1579
+2024,8,AA,American Airlines Network,CHS,"Charleston, SC: Charleston AFB/International",387,128,46.22,7.03,16.58,1,57.17,26,0,11243,3422,875,1238,100,5608
+2024,8,YX,Republic Airline,BGR,"Bangor, ME: Bangor International",183,42,6.25,1.43,23.5,0,10.82,17,0,2607,284,717,913,0,693
+2024,8,AA,American Airlines Network,GSP,"Greer, SC: Greenville-Spartanburg International",149,52,14.74,1.48,4.76,0,31.01,2,1,5252,2052,201,212,0,2787
+2024,8,G4,Allegiant Air,LCK,"Columbus, OH: Rickenbacker International",92,27,8.66,5.49,2.93,0,9.92,6,1,2207,976,323,228,0,680
+2024,8,AS,Alaska Airlines Network,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",31,14,4.13,0,5.45,0,4.42,0,0,463,141,0,171,0,151
+2024,8,G7,GoJet Airlines LLC d/b/a United Express,BTV,"Burlington, VT: Burlington International",2,1,0,0,1,0,0,0,0,24,0,0,24,0,0
+2024,8,B6,JetBlue Airways,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1453,540,189.8,12.14,144.86,1.12,192.08,38,14,48513,18140,1794,8771,55,19753
+2024,8,ZW,Air Wisconsin Airlines Corp,MSN,"Madison, WI: Dane County Regional-Truax Field",80,21,5.66,0.22,5.27,0,9.85,1,0,1365,560,10,238,0,557
+2024,8,OO,SkyWest Airlines Inc.,RIC,"Richmond, VA: Richmond International",21,13,9.98,0.79,2.23,0,0,0,0,1005,810,73,122,0,0
+2024,8,C5,CommuteAir LLC dba CommuteAir,SGF,"Springfield, MO: Springfield-Branson National",45,4,0.19,0,3.03,0,0.78,0,0,148,18,0,57,0,73
+2024,8,QX,Horizon Air,MRY,"Monterey, CA: Monterey Regional",12,2,0,0,0,0,2,0,0,62,0,0,0,0,62
+2024,8,OO,SkyWest Airlines Inc.,HIB,"Hibbing, MN: Range Regional",54,12,8.86,1,2.14,0,0,0,0,626,503,72,51,0,0
+2024,8,OO,SkyWest Airlines Inc.,MEM,"Memphis, TN: Memphis International",73,18,7.66,0,4.34,0,6,1,0,1115,619,0,107,0,389
+2024,8,OO,SkyWest Airlines Inc.,ELM,"Elmira/Corning, NY: Elmira/Corning Regional",62,12,10.08,1,0.92,0,0,0,0,729,642,45,42,0,0
+2024,8,NK,Spirit Airlines,SJU,"San Juan, PR: Luis Munoz Marin International",394,127,34.57,8.16,58.97,0.43,24.88,12,0,8320,2524,852,2974,11,1959
+2024,8,YV,Mesa Airlines Inc.,STL,"St. Louis, MO: St Louis Lambert International",32,5,2.19,1,0,0,1.81,0,0,287,140,39,0,0,108
+2024,8,G4,Allegiant Air,PBG,"Plattsburgh, NY: Plattsburgh International",34,14,4.99,1.96,5.71,0,1.35,0,0,1372,937,117,250,0,68
+2024,8,AS,Alaska Airlines Network,HNL,"Honolulu, HI: Daniel K Inouye International",391,81,25.16,2.33,33.31,0,20.19,1,2,3467,1415,142,907,0,1003
+2024,8,B6,JetBlue Airways,STT,"Charlotte Amalie, VI: Cyril E King",71,15,5.67,0.92,0.94,0,7.48,1,2,1178,329,240,60,0,549
+2024,8,AS,Alaska Airlines Network,SCC,"Deadhorse, AK: Deadhorse Airport",49,5,1,2,0,0,2,0,1,245,31,156,0,0,58
+2024,8,OO,SkyWest Airlines Inc.,LBL,"Liberal, KS: Liberal Mid-America Regional",53,19,10.78,0,1.58,0,6.63,1,2,1470,869,0,93,0,508
+2024,8,B6,JetBlue Airways,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",565,232,81.74,3.31,92.87,1,53.08,23,1,20691,8289,509,5685,38,6170
+2024,8,UA,United Air Lines Network,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",744,171,58.77,4.25,32.89,0,75.1,14,1,11148,3433,749,1829,0,5137
+2024,8,AS,Alaska Airlines Network,STS,"Santa Rosa, CA: Charles M. Schulz - Sonoma County",42,12,2.36,0,4.63,0,5,0,0,405,112,0,103,0,190
+2024,8,AS,Alaska Airlines Network,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",243,86,17.38,0.26,42.82,0,25.53,1,0,3847,928,47,1627,0,1245
+2024,9,YV,Mesa Airlines Inc.,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",138,14,11.14,0,1.19,0,1.67,0,2,790,568,0,35,0,187
+2024,9,UA,United Air Lines Network,DTW,"Detroit, MI: Detroit Metro Wayne County",254,35,12.1,0.95,8.44,0,13.51,0,0,2054,824,98,231,0,901
+2024,9,MQ,Envoy Air,MSP,"Minneapolis, MN: Minneapolis-St Paul International",81,25,2.65,0.44,18.62,0,3.28,0,0,820,104,17,598,0,101
+2024,9,AS,Alaska Airlines Network,ONT,"Ontario, CA: Ontario International",137,24,10.86,0,2.66,0,10.48,0,1,1105,648,0,82,0,375
+2024,9,C5,CommuteAir LLC dba CommuteAir,SAF,"Santa Fe, NM: Santa Fe Municipal",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,9,WN,Southwest Airlines,PIT,"Pittsburgh, PA: Pittsburgh International",838,109,35.41,1.64,16.6,0,55.35,6,0,5560,2152,122,664,0,2622
+2024,9,AS,Alaska Airlines Network,EWR,"Newark, NJ: Newark Liberty International",296,68,18.23,1.43,37.49,0,10.86,2,6,2437,775,86,1213,0,363
+2024,9,C5,CommuteAir LLC dba CommuteAir,CHS,"Charleston, SC: Charleston AFB/International",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,9,B6,JetBlue Airways,CLT,"Charlotte, NC: Charlotte Douglas International",54,11,5.25,0,1.17,0,4.58,1,0,577,272,0,123,0,182
+2024,9,AA,American Airlines Network,SJU,"San Juan, PR: Luis Munoz Marin International",208,33,11.47,4.2,9.23,0,8.1,0,0,2394,791,280,401,0,922
+2024,9,MQ,Envoy Air,EWR,"Newark, NJ: Newark Liberty International",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,9,OO,SkyWest Airlines Inc.,ABR,"Aberdeen, SD: Aberdeen Regional",60,6,4.99,1,0.01,0,0,0,0,552,531,19,2,0,0
+2024,9,OO,SkyWest Airlines Inc.,RIW,"Riverton/Lander, WY: Central Wyoming Regional",60,11,5.89,2,0.11,0,3,0,0,1204,135,272,3,0,794
+2024,9,B6,JetBlue Airways,PSE,"Ponce, PR: Mercedita",40,13,6.8,0,3.9,0,2.3,0,0,830,406,0,173,0,251
+2024,9,PT,Piedmont Airlines,GRR,"Grand Rapids, MI: Gerald R. Ford International",71,10,1,1,5.34,0,2.66,0,0,403,64,43,129,0,167
+2024,9,F9,Frontier Airlines,CHS,"Charleston, SC: Charleston AFB/International",10,3,1.84,0,0.71,0,0.45,0,0,152,119,0,23,0,10
+2024,9,OO,SkyWest Airlines Inc.,VCT,"Victoria, TX: Victoria Regional",56,7,2,0,0,0,5,0,0,866,201,0,0,0,665
+2024,9,DL,Delta Air Lines Network,GSO,"Greensboro/High Point, NC: Piedmont Triad International",213,29,14.58,0.58,6.26,0,7.58,0,0,1311,729,26,156,0,400
+2024,9,MQ,Envoy Air,SAV,"Savannah, GA: Savannah/Hilton Head International",36,2,1.09,0,0,0,0.91,1,0,72,29,0,0,0,43
+2024,9,WN,Southwest Airlines,RIC,"Richmond, VA: Richmond International",176,25,10.25,0.7,2.61,0,11.44,0,0,947,458,42,69,0,378
+2024,9,AS,Alaska Airlines Network,WRG,"Wrangell, AK: Wrangell Airport",60,8,1,0,3.38,0,3.63,1,0,358,23,0,77,0,258
+2024,9,DL,Delta Air Lines Network,MSP,"Minneapolis, MN: Minneapolis-St Paul International",5935,494,177.23,14.17,139.75,0,162.85,14,1,34487,18312,2044,4276,0,9855
+2024,9,OO,SkyWest Airlines Inc.,EVV,"Evansville, IN: Evansville Regional",81,12,8.71,0,1.18,0,2.11,0,0,1116,1004,0,76,0,36
+2024,9,UA,United Air Lines Network,GJT,"Grand Junction, CO: Grand Junction Regional",60,7,1.51,0,1.05,0,4.44,0,0,265,31,0,18,0,216
+2024,9,DL,Delta Air Lines Network,PIT,"Pittsburgh, PA: Pittsburgh International",319,40,20.83,1.05,6.47,0,11.65,0,0,2663,1983,52,137,0,491
+2024,9,F9,Frontier Airlines,PHL,"Philadelphia, PA: Philadelphia International",956,238,46.89,3.92,65.62,0,121.57,22,0,18916,5819,154,2754,0,10189
+2024,9,YX,Republic Airline,AVL,"Asheville, NC: Asheville Regional",99,13,3.9,0,5.64,0,3.46,13,0,793,214,0,421,0,158
+2024,9,B6,JetBlue Airways,SLC,"Salt Lake City, UT: Salt Lake City International",90,13,6.9,0,5.78,0,0.32,0,0,778,560,0,211,0,7
+2024,9,YX,Republic Airline,ROA,"Roanoke, VA: Roanoke Blacksburg Regional",23,3,0.55,0,0.73,0,1.73,0,0,126,18,0,32,0,76
+2024,9,OH,PSA Airlines Inc.,TLH,"Tallahassee, FL: Tallahassee International",156,31,11.86,2.05,4.99,0,12.1,11,0,2876,1098,142,215,0,1421
+2024,9,G7,GoJet Airlines LLC d/b/a United Express,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,9,C5,CommuteAir LLC dba CommuteAir,IAD,"Washington, DC: Washington Dulles International",1294,143,43.69,2.03,31.22,0,66.06,6,1,13980,5085,248,854,0,7793
+2024,9,YX,Republic Airline,MDT,"Harrisburg, PA: Harrisburg International",4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,9,DL,Delta Air Lines Network,ELP,"El Paso, TX: El Paso International",58,15,5.98,0,5.8,0,3.23,0,0,524,269,0,164,0,91
+2024,9,OH,PSA Airlines Inc.,ECP,"Panama City, FL: Northwest Florida Beaches International",120,26,5.57,1.86,5.23,0,13.34,2,0,1785,329,340,161,0,955
+2024,9,MQ,Envoy Air,SGF,"Springfield, MO: Springfield-Branson National",281,48,7.05,1.92,17.42,0,21.61,0,0,2845,903,108,502,0,1332
+2024,9,UA,United Air Lines Network,FCA,"Kalispell, MT: Glacier Park International",85,11,5.02,0,0.98,0,5,0,0,452,157,0,40,0,255
+2024,9,ZW,Air Wisconsin Airlines Corp,ORD,"Chicago, IL: Chicago O'Hare International",2026,297,84.28,3.52,99.46,0,109.74,2,0,29336,8923,834,3928,0,15651
+2024,9,OH,PSA Airlines Inc.,TVC,"Traverse City, MI: Cherry Capital",30,4,0.13,0.14,0,0,3.73,0,0,350,11,13,0,0,326
+2024,9,WN,Southwest Airlines,FAT,"Fresno, CA: Fresno Yosemite International",116,13,2.9,0,0.86,0,9.23,0,0,732,125,0,62,0,545
+2024,9,HA,Hawaiian Airlines Network,ITO,"Hilo, HI: Hilo International",396,27,10.4,0,0.41,0,16.19,3,1,824,389,0,9,0,426
+2024,9,AA,American Airlines Network,BUF,"Buffalo, NY: Buffalo Niagara International",259,52,10.46,0.78,11.69,0,29.07,1,0,2657,492,139,398,0,1628
+2024,9,F9,Frontier Airlines,DEN,"Denver, CO: Denver International",2284,364,86.41,4.53,120.1,0,152.95,12,0,27758,11069,1273,3940,0,11476
+2024,9,OH,PSA Airlines Inc.,BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",327,75,11.16,3.71,21.6,0,38.53,5,1,5449,516,294,1204,0,3435
+2024,9,OO,SkyWest Airlines Inc.,TUL,"Tulsa, OK: Tulsa International",269,25,14.64,1.05,2.33,0,6.99,0,1,1426,843,105,73,0,405
+2024,9,AS,Alaska Airlines Network,SLC,"Salt Lake City, UT: Salt Lake City International",137,23,8.3,0,5.25,0,9.45,0,0,1045,401,0,131,0,513
+2024,9,MQ,Envoy Air,GCK,"Garden City, KS: Garden City Regional",6,2,0.78,0,0.76,0,0.46,0,0,82,28,0,41,0,13
+2024,9,ZW,Air Wisconsin Airlines Corp,FSD,"Sioux Falls, SD: Joe Foss Field",73,13,3.4,0,7.4,0,2.21,0,0,655,239,0,207,0,209
+2024,9,OO,SkyWest Airlines Inc.,GPT,"Gulfport/Biloxi, MS: Gulfport-Biloxi International",63,5,3,0,1,0,1,1,0,137,97,0,15,0,25
+2024,9,MQ,Envoy Air,GSO,"Greensboro/High Point, NC: Piedmont Triad International",109,20,5.43,2.15,6.22,0,6.21,0,0,930,325,59,216,0,330
+2024,9,OO,SkyWest Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",2066,290,185.96,46.68,55.36,1,1,0,0,18198,12816,2699,2590,32,61
+2024,9,OO,SkyWest Airlines Inc.,DAY,"Dayton, OH: James M Cox/Dayton International",176,32,21.44,0,4.61,0,5.95,0,1,1757,991,0,145,0,621
+2024,9,AS,Alaska Airlines Network,SJC,"San Jose, CA: Norman Y. Mineta San Jose International",259,56,18.4,0,10.34,0,27.26,5,0,2610,1245,0,305,0,1060
+2024,9,YV,Mesa Airlines Inc.,IND,"Indianapolis, IN: Indianapolis International",29,3,0.91,0,0.58,0,1.51,0,1,117,34,0,14,0,69
+2024,9,OH,PSA Airlines Inc.,OKC,"Oklahoma City, OK: Will Rogers World",37,10,3.67,0,0.93,0,5.4,1,1,418,156,0,43,0,219
+2024,9,DL,Delta Air Lines Network,SAV,"Savannah, GA: Savannah/Hilton Head International",274,38,19.1,0.63,8.82,0.83,8.62,1,0,1796,1076,30,293,79,318
+2024,9,YX,Republic Airline,MEM,"Memphis, TN: Memphis International",241,32,6.1,0,13.27,0,12.62,1,0,1501,354,0,395,0,752
+2024,9,WN,Southwest Airlines,ISP,"Islip, NY: Long Island MacArthur",216,33,10.67,0,7.73,0,14.6,0,0,1159,384,0,174,0,601
+2024,9,OO,SkyWest Airlines Inc.,LBL,"Liberal, KS: Liberal Mid-America Regional",52,12,1.91,1,0.67,0,8.42,1,0,744,77,196,17,0,454
+2024,9,9E,Endeavor Air Inc.,MSN,"Madison, WI: Dane County Regional-Truax Field",57,5,2,0,1,0,2,0,0,243,77,0,24,0,142
+2024,9,OO,SkyWest Airlines Inc.,GGG,"Longview, TX: East Texas Regional",15,2,1,0,0,0,1,0,0,69,44,0,0,0,25
+2024,9,DL,Delta Air Lines Network,DTW,"Detroit, MI: Detroit Metro Wayne County",4760,522,172.56,15.67,121.84,1.83,210.1,12,1,36586,16653,1617,3420,81,14815
+2024,9,OO,SkyWest Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",2216,456,169.44,57.45,140.49,0,88.63,3,3,22873,9396,3794,4915,0,4768
+2024,9,UA,United Air Lines Network,STL,"St. Louis, MO: St Louis Lambert International",278,55,17.29,0.33,9.65,0,27.73,1,0,4109,1121,18,467,0,2503
+2024,9,AS,Alaska Airlines Network,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",30,11,3.58,0.84,5.68,0,0.9,0,0,767,451,77,220,0,19
+2024,9,AA,American Airlines Network,RDM,"Bend/Redmond, OR: Roberts Field",10,3,1.21,0,1.44,0,0.35,0,0,106,36,0,59,0,11
+2024,9,ZW,Air Wisconsin Airlines Corp,GSO,"Greensboro/High Point, NC: Piedmont Triad International",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,9,9E,Endeavor Air Inc.,CWA,"Mosinee, WI: Central Wisconsin",60,7,1,0.95,4.05,0,1,0,0,873,57,684,107,0,25
+2024,9,OO,SkyWest Airlines Inc.,SUN,"Sun Valley/Hailey/Ketchum, ID: Friedman Memorial",135,6,3.71,0.65,0.63,0,1,0,0,266,170,15,16,0,65
+2024,9,OO,SkyWest Airlines Inc.,PIT,"Pittsburgh, PA: Pittsburgh International",88,8,6.58,0,1.42,0,0,0,0,433,381,0,52,0,0
+2024,9,G7,GoJet Airlines LLC d/b/a United Express,ALB,"Albany, NY: Albany International",65,7,1.1,0,5.81,0,0.09,0,0,392,57,0,315,0,20
+2024,9,OO,SkyWest Airlines Inc.,CMX,"Hancock/Houghton, MI: Houghton County Memorial",60,18,9.39,0,2.24,0,6.37,0,0,1815,653,0,94,0,1068
+2024,9,UA,United Air Lines Network,PVD,"Providence, RI: Rhode Island Tf Green International",30,7,1.44,0,3.56,0,2,0,0,177,31,0,65,0,81
+2024,9,C5,CommuteAir LLC dba CommuteAir,LBB,"Lubbock, TX: Lubbock Preston Smith International",106,9,6.11,1,1.24,0,0.65,0,1,420,298,39,42,0,41
+2024,9,MQ,Envoy Air,AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",49,14,3.8,0.08,5.33,0,4.79,0,0,661,286,4,157,0,214
+2024,9,AA,American Airlines Network,BOS,"Boston, MA: Logan International",1510,331,72.1,14.26,126.56,0.72,117.36,4,0,22089,5093,993,6995,55,8953
+2024,9,F9,Frontier Airlines,SNA,"Santa Ana, CA: John Wayne Airport-Orange County",92,19,7.05,0,2.97,0,8.98,1,0,4892,531,0,1376,0,2985
+2024,9,OO,SkyWest Airlines Inc.,MDW,"Chicago, IL: Chicago Midway International",162,18,11.95,3.81,2.24,0,0,0,0,827,525,204,98,0,0
+2024,9,OO,SkyWest Airlines Inc.,COD,"Cody, WY: Yellowstone Regional",88,12,6.85,1,0.42,0,3.73,0,0,847,465,90,39,0,253
+2024,9,MQ,Envoy Air,PSP,"Palm Springs, CA: Palm Springs International",27,1,0.86,0,0.14,0,0,0,0,50,43,0,7,0,0
+2024,9,G4,Allegiant Air,LRD,"Laredo, TX: Laredo International",12,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,9,F9,Frontier Airlines,ORF,"Norfolk, VA: Norfolk International",13,1,0,0,0,0,1,0,0,57,0,0,0,0,57
+2024,9,G7,GoJet Airlines LLC d/b/a United Express,SYR,"Syracuse, NY: Syracuse Hancock International",96,10,3.05,0,5.82,0,1.14,0,0,497,150,0,262,0,85
+2024,9,OH,PSA Airlines Inc.,GSP,"Greer, SC: Greenville-Spartanburg International",316,63,18.4,2.03,17.39,0.15,25.04,2,0,5073,1739,199,657,5,2473
+2024,9,DL,Delta Air Lines Network,BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",245,31,20.94,1.16,3.74,0,5.16,0,0,1747,1072,49,147,0,479
+2024,9,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM: Albuquerque International Sunport",323,39,27.41,1.48,3.47,0,6.64,0,0,1976,1462,101,109,0,304
+2024,9,OO,SkyWest Airlines Inc.,BRO,"Brownsville, TX: Brownsville South Padre Island International",53,8,5.5,0,0.5,0,2,0,1,623,309,0,19,0,295
+2024,9,F9,Frontier Airlines,PDX,"Portland, OR: Portland International",164,25,12.97,0.14,2.32,0,9.57,1,0,1428,701,6,74,0,647
+2024,9,G4,Allegiant Air,MCO,"Orlando, FL: Orlando International",27,5,1.8,1,0.51,0,1.68,2,1,390,57,199,39,0,95
+2024,9,DL,Delta Air Lines Network,ALB,"Albany, NY: Albany International",111,17,6.77,1.88,1.08,0,7.28,0,0,860,398,129,39,0,294
+2024,9,YX,Republic Airline,MVY,"Martha's Vineyard, MA: Martha's Vineyard Airport",14,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,9,F9,Frontier Airlines,GRR,"Grand Rapids, MI: Gerald R. Ford International",33,5,1.77,0,2,0,1.23,1,0,202,120,0,35,0,47
+2024,9,DL,Delta Air Lines Network,KOA,"Kona, HI: Ellison Onizuka Kona International at Keahole",60,11,5.66,0,3.08,0,2.26,0,0,592,366,0,72,0,154
+2024,9,OO,SkyWest Airlines Inc.,PNS,"Pensacola, FL: Pensacola International",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,9,YV,Mesa Airlines Inc.,SAV,"Savannah, GA: Savannah/Hilton Head International",150,16,6.67,1.81,4.24,0,3.29,0,0,2169,270,1501,125,0,273
+2024,9,G4,Allegiant Air,PIT,"Pittsburgh, PA: Pittsburgh International",82,18,6.82,0.4,4.02,0,6.76,1,0,884,336,107,129,0,312
+2024,9,AA,American Airlines Network,SAV,"Savannah, GA: Savannah/Hilton Head International",119,26,12.62,0.28,2.44,0,10.66,1,0,2132,996,27,61,0,1048
+2024,9,B6,JetBlue Airways,ORD,"Chicago, IL: Chicago O'Hare International",115,18,7.86,0,4.9,0,5.24,0,0,863,455,0,165,0,243
+2024,9,AA,American Airlines Network,FCA,"Kalispell, MT: Glacier Park International",67,6,2.86,0,0.8,0,2.33,0,0,420,166,0,30,0,224
+2024,9,AA,American Airlines Network,VPS,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",125,34,10.51,0.9,4.29,0,18.3,0,0,1774,694,87,138,0,855

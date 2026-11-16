@@ -1,0 +1,5 @@
+Validation performed 2026-11-16
+Pandas tests: 17 passed
+Full pandas run: passed
+Independent standard-library check: six tables, 713 cells, passed
+Spark runtime tests: startup blocked by local socket permissions, not validated
